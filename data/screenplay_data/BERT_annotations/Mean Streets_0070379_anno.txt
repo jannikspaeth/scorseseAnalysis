@@ -1,0 +1,5536 @@
+dialog: 
+speaker_heading: MEAN STREETS
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: Written by
+dialog: 
+dialog: Martin Scorsese, Mardik Martin &amp; Ethan Edwards
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: Ah, get born, keep warm
+dialog: Short pants, romance, learn to dance
+dialog: Get dressed, get blessed
+dialog: Try to be a success
+dialog: Please her, please him, buy gifts
+dialog: Don't steal, don't lift
+dialog: Twenty years of schoolin'
+dialog: And they put you on the day shift
+dialog: 
+speaker_heading: BOB DYLAN
+dialog: Subterranean Homesick Blues
+dialog: 
+scene_heading: (SUPERED OVER BOTTOM OF SCREEN LIKE A TV NEWS BULLETIN)
+dialog: 
+text: (THE FILM IS IN COLOR UNLESS OTHERWISE NOTED.)
+dialog: 
+text: A darkened diffused image of a man lying on the ground. A
+text: tree is above him. The image is more diffused on the edges.
+text: It is black and white, and appears to be coming from a
+text: television. The body of the man is practically totally in
+dialog: shadow.
+dialog: 
+speaker_heading: ANNOUNCERS VOICE
+dialog: Ladies and gentlemen, on the new
+dialog: tonight, the first actual motion
+dialog: pictures of death.
+dialog: 
+text: A small orange fire appears in the breast of the man.
+dialog: 
+speaker_heading: ANNOUNCERS VOICE
+dialog: Watch closely, at the moment of
+dialog: death.
+dialog: 
+text: The small orange fire fades away.
+dialog: 
+speaker_heading: COLOR
+text: CHARLES CAPPA JR. (CHARLIE) is 25 of Sicilain origin. He
+dialog: was educated in Roman Catholic Parochial schools with one
+text: year and a half at a Jesuit college. CHARLIE was raised
+text: sternly in the Roman Catholic tradition but now has rejected
+dialog: many of the religion's tenets. He is very intelligent and
+text: has a sharp sense of humor. He is always well dressed. His
+dialog: favorite authors are Ernest Hemingway, Thomas Hardy, and
+text: Theodore Dreiser. He likes reading but enjoys films more.
+dialog: He is very fond of the New Testament and often exchanges
+text: quotes from it with his friend TONY.
+dialog: 
+scene_heading: INT. BEDROOM - NIGHT
+dialog: 
+text: CHARLIE has been dreaming. The dream frightened him. A
+text: TITLE APPEARS on the bottom of the frame: CHARLIE. He gets
+text: up to look at his face in the mirror. His room is lit by
+text: moonlight. It is a small tenement bedroom with a fire-
+dialog: escape outside.
+dialog: 
+dialog: 2.
+dialog: 
+dialog: 
+text: He returns to bed and as his head hits the pillow, we hear
+text: the RONETTES singing "BE MY BABY."
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: An 8-mm. projector whirring away.
+dialog: 
+scene_heading: INT. PARTY - HOME MOVIES - DAY
+dialog: 
+text: Opening TITLES appear over 8mm. HOME MOVIES in which
+text: CHARLIE is shown along with his friends and family in a
+text: celebration...a sense of "one big unending party."
+dialog: 
+text: During this opening segment WE SEE some of the characters
+text: that will later appear in the story: JOHNNY BOY, MICHAEL,
+scene_heading: TONY, TERESA, CHARLIE'S UNCLE GIOVANNI, and others. They
+dialog: are all Sicilian and are members of the same Italian-
+dialog: American neighborhood in New York City. (WE SENSE, from
+dialog: these HOME MOVIES, that the neighborhood forces its people
+dialog: to be strongly tied together in a way of life - Family,
+dialog: Church, Friendship.) These HOME MOVIES were taken during
+text: some formal and casual gatherings in which CHARLIE
+dialog: participated.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. BATHROOM IN A NEIGHBORHOOD BAR
+dialog: 
+text: A longhaired "freak" is about to shoot-up. Suddenly the
+text: door opens and TONY (ANTHONY DEVENZIANO) comes in. TONY is
+dialog: totally different in appearance and dress from the "freak."
+text: He is 25, and a part time student studying liberal arts.
+text: His father is a very powerful racketeer in a different part
+dialog: of the city and owns several night club type discotheques
+text: and strip houses on the west side of town. One of these is
+text: operated by TONY - "TONY'S PLACE." CHARLIE is one of his
+text: closest friends. TONY is well dressed, flippant and reckless.
+text: He is a big drinker, liquor, wine, and even cough medicine.
+dialog: 
+speaker_heading: TONY
+dialog: What the fuck...hey!
+dialog: 
+text: TONY rushes over to the "freak", who is too strung out to
+text: defend himself, smashes the needle, and slaps him around.
+dialog: 
+speaker_heading: TONY
+dialog: Not in my fuckin' place... get
+dialog: out... get out!
+dialog: 
+scene_heading: INT. BAR AREA
+dialog: 
+text: TONY pushes him out the door and into the bar area. There
+dialog: are a few people in the bar...mainly neighborhood guys like
+text: TONY. A few "freaks" are in the BG.
+dialog: 
+dialog: 3.
+dialog: 
+dialog: 
+text: TONY pushes him out the front door.
+dialog: 
+speaker_heading: TONY
+dialog: And keep the fuck out-a-here. I
+dialog: know your face.
+dialog: 
+text: TONY crosses over to one of the neighborhood guys by the bar
+text: and slaps him in the back of the head knocking off his hat.
+dialog: 
+speaker_heading: TONY
+dialog: And you scumbag...what did I tell
+dialog: you 'bout passin' that shit in my
+speaker_heading: PLACE
+speaker_heading: (HITS AGAIN)
+dialog: ...huh?
+dialog: 
+speaker_heading: BOY
+dialog: Hey I didn't do nothin'...cut it
+dialog: out...
+dialog: 
+text: TONY pushes the BOY out of the bar also. TITLE APPEARS on
+text: the bottom of the frame: TONY
+dialog: 
+scene_heading: EXT. WEST SIDE DOCKS - LATE AFTERNOON
+dialog: 
+text: The area is totally deserted except for two trucks parked
+text: side by side. Two men are tossing boxes from one truck to
+text: another and looking around furtively. MICHAEL stands nearby.
+text: MICHAEL LONGO is 26 years old. He lives in a different
+dialog: neighborhood but comes from the same type of background as
+text: CHARLIE and the others. He runs an illegitimate bar and
+text: dabbles in the yearly sale of firecrackers which he smuggles
+text: in from Maryland. He also deals in contraband cigarettes
+text: and runs a small-time "loan shark" business. He has a knack
+text: for business but he is otherwise unintelligent.
+dialog: 
+text: Michael crosses over to a '58 black Oldsmobile.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Hey, hurry up with that shit will ya.
+dialog: 
+text: MICHAEL gets in the car. Another MAN is sitting in the back.
+text: He is also well dressed. MICHAEL takes a small lens out of
+text: his pocket and tosses it to the MAN.
+dialog: 
+speaker_heading: MAN
+dialog: What's this? More shit...?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Naw...that ain't shit...that's a
+dialog: German lens.
+dialog: 
+text: The MAN looks at it carefully.
+dialog: 
+dialog: 4.
+dialog: 
+dialog: 
+speaker_heading: MICHAEL
+dialog: A good buy...good two shipments of
+dialog: them.
+dialog: 
+speaker_heading: MAN
+dialog: Can't use it...
+dialog: 
+speaker_heading: MICHAEL
+dialog: Why...? That's a telescopic one...
+dialog: it's good.
+dialog: 
+speaker_heading: MAN
+dialog: First, it ain't German...it's
+dialog: Japanese...and second, this ain't
+dialog: no lens...it's like a...a...an
+dialog: adaptor...so you got two shipments
+text: of Jap adaptors with no lenses.
+speaker_heading: (HE LAUGHS)
+dialog: 
+dialog: 
+text: MAN hands adaptor back to MICHAEL.
+dialog: 
+speaker_heading: MICHAEL
+speaker_heading: (DISAPPOINTED)
+dialog: A Jap adaptor?
+dialog: 
+text: TITLE APPEARS on bottom of screen: MICHAEL.
+dialog: 
+scene_heading: EXT. STREET - DAY
+dialog: 
+text: A deserted warehouse area in lower Manhattan. Prominent in
+text: the frame is a brightly painted red white and blue mailbox,
+text: contrasting with the drab hues of the neighborhood.
+dialog: 
+text: JOHNNY BOY walks down the street toward camera. JOHN
+text: CIVELLO (JOHNNY BOY) is 23 years old. He is an only child
+text: and lives with his mother, a divorcee. He is clean cut
+text: looking, yet slightly radical in dress. He was expelled
+dialog: from high school for vandalism and consequently spent
+text: several months in reform school. He is reckless,
+dialog: unambitious, nihilistic, and was classified a psychiatric 4-
+text: F. He is first cousin of TERESA RONCHALI who lives next
+text: door to CHARLIE. He has adopted TERESA'S family as his own
+text: and spends more time with them than he does with his mother.
+dialog: 
+text: JOHNNY is carrying a package wrapped in plain brown paper
+text: under his arm, and he is smiling. He drops the package into
+text: the mailbox and keeps walking. But he is moving a little
+text: faster now and smiling a little more.
+dialog: 
+text: Suddenly the mailbox explodes. Dozens of red, white and
+text: blue fragments shower down on the street. The impact of the
+text: blast knocks JOHNNY down. TITLE APPEARS on bottom of frame:
+scene_heading: JOHNNY BOY.
+dialog: 
+dialog: 5.
+dialog: 
+dialog: 
+text: He is up in a moment. The CAMERA TRACKS with him as he
+text: starts running. WE SEE that he is grinning - quite
+dialog: literally - like crazy.
+dialog: 
+scene_heading: INT. CHURCH
+dialog: 
+text: WE SEE CHARLIE full face. Behind him is a Confessional
+text: Booth. The church is very old, quiet, and dark. The CAMERA
+text: ZOOMS OUT to reveal rows of Holy Candles lit in the
+text: foreground. CHARLIE suddenly begins to speak softly and
+text: confidentially to an unseen entity that is OFF SCREEN.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONFESSION)
+dialog: A...As you know, I've just come out
+dialog: of Confession. And as a penance
+dialog: they gave me ten 'Hail Marys' and
+dialog: ten 'Our Fathers'...
+dialog: 
+text: THE CAMERA BEGINS TO TRUCK OUT. IT MOVES AROUND CHARLIE AND
+text: AWAY FROM THE HOLY CANDLES REVEALING CHARLIE'S PROFILE.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUED)
+dialog: ...Now, between you and me... You
+dialog: know how I feel about such things...
+dialog: 'Hail Marys'...'Our Fathers'...No
+dialog: imagination...
+dialog: 
+text: THE CAMERA HAS NOW TRUCKED BEHIND CHARLIE AND WE SEE over
+text: his head he has been addressing a life sized statue of the
+text: crucified body of Christ, eyes closed reclining in his
+dialog: sepluchure.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUING)
+dialog: ...If I'm going to do penance at
+dialog: all, I'll do it the way I think it
+dialog: would be done...by me, that
+dialog: is...according to my own trespasses.
+dialog: You know what I mean.
+dialog: 
+dialog: This conversation of Confession will occur from time to time
+text: in other parts of the story as CHARLIE will periodically try
+text: very casually to justify his thoughts and actions to his
+text: "God." The images accompanying these monologues are to be of
+dialog: free association almost documentary in nature.
+dialog: 
+scene_heading: INT. TONY'S PLACE - NIGHT
+dialog: 
+text: The club is dark and noisy and smokey when CHARLIE enters.
+text: He greets TONY who is sitting on a bar-stool. TONY directs
+text: CHARLIE to a corner of the club where the rest of the group
+text: is now getting boisterously drunk.
+dialog: 
+dialog: 6.
+dialog: 
+dialog: 
+text: CHARLIE joins in, immediately taking on the mood of the group.
+dialog: 
+text: The rest of the club is filled with many different types of
+text: customers: teenagers, adults pretending to be teenagers,
+dialog: sailors, male and female gays, and "the boys from the
+text: neighborhood." The music is loud and the lights are flashing
+text: but the strippers have not yet appeared.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+text: TONY is at the bar. He is approached by GEORGE one of the
+text: bouncers. He seems upset about the noise that CHARLIE and
+text: his friends are creating. TONY doesn't take GEORGE very
+dialog: seriously.
+dialog: 
+speaker_heading: GEORGE
+dialog: It's ten o'clock and they're like
+dialog: this. And they're just starting?
+dialog: 
+text: TONY smiles.
+dialog: 
+speaker_heading: GEORGE
+speaker_heading: (CONTINUING)
+dialog: Smile...What are you smiling at?
+dialog: This is a business night.
+dialog: 
+speaker_heading: TONY
+speaker_heading: (INTERRUPTING)
+dialog: George...did I ever tell you the
+dialog: story about the three chickens?
+dialog: 
+speaker_heading: GEORGE
+speaker_heading: (GENUINELY)
+dialog: No...
+dialog: 
+speaker_heading: TONY
+dialog: Too bad.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+text: CHARLIE's zany behavior as frenetically as it occurs. There
+dialog: is no particular logical sequence except that events are
+text: suited to the rythmic pattern of the music.
+dialog: 
+text: 1. CHARLIE and his friends dance and sing along with the
+dialog: music.
+dialog: 
+text: 2. CHARLIE picks up a billiard stick. He attempts to hit a
+text: filled shot glass towards TONY at the other end of the
+text: bar. He fails.
+dialog: 
+text: 3. CHARLIE tries to pull a tablecloth off of a stranger's
+text: table without moving the glasses or bottles. This also
+dialog: fails.
+dialog: 
+dialog: 7.
+dialog: 
+dialog: 
+text: 4. A punch is thrown at someone. A lit cigarette in the
+text: puncher's fist creates a swift arc of light in the
+dialog: darkness.
+dialog: 
+text: 5. The Strippers finally appear on stage. CHARLIE becomes
+text: obsessed with the Negro stripper DIANE. He shouts to
+text: her, tosses things, and calls her names. She tries, half
+text: amusedly to ignore him but she can't.
+dialog: 
+text: 6. TONY drinks from a bottle of Southern Comfort, and as a
+text: chaser swigs down Aqua Velva.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+text: CHARLIE sitting at an empty table watching DIANE, the
+text: stripper, perform again. He stares glassy-eyed and then
+text: begins to speak softly, continuing his Confession.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Y'know...she's really good-looking...
+dialog: really good-looking. I've gotta
+dialog: say that again. She's really good-
+dialog: looking...but she's black... You
+dialog: can see that real plain.
+dialog: (as an afterthought)
+dialog: When you get down to it though...
+dialog: there's not much of a difference,
+dialog: is there?
+dialog: (He waits for an answer)
+dialog: Well...is there?
+text: (He smiles and begins
+dialog: chewing on an ice
+dialog: cube from his half
+speaker_heading: EMPTY GLASS)
+dialog: 
+dialog: 
+text: Suddenly MICHAEL appears and sits down at CHARLIE's table.
+text: He hands CHARLIE two cartons of cigarettes.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Oh great...hey - Winstons?
+dialog: 
+speaker_heading: MICHAEL
+dialog: For these prices don't be particular.
+dialog: That's all they had - but next week
+dialog: we'll see...
+dialog: 
+text: CHARLIE gives him the money.
+dialog: 
+speaker_heading: CHARLIE
+dialog: OK, ok...
+dialog: 
+speaker_heading: MICHAEL
+dialog: Sell 'em if you can't smoke them.
+dialog: 
+dialog: 8.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: No...I'll be ok for a week.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You seen Johnny Boy tonight?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (DISINTERESTED)
+dialog: Nope...
+dialog: 
+speaker_heading: MICHAEL
+dialog: Isn't he supposed to be here
+dialog: tonight...I mean...
+dialog: 
+speaker_heading: CHARLIE
+dialog: Look...I don't know. What am I
+dialog: supposed to be, his keeper or
+dialog: something? Yeah, he's supposed to
+dialog: be here but who knows what goes on
+dialog: in his head. Right?
+dialog: 
+speaker_heading: MICHAEL
+dialog: I'd like to know Charlie, it looks
+dialog: like your little friend is trying
+dialog: to duck me...
+dialog: 
+text: CHARLIE remains silent.
+dialog: 
+speaker_heading: MICHAEL
+speaker_heading: (CONTINUING)
+dialog: ...Charlie, don't you think you
+dialog: should be interested in Johnny's
+dialog: payments to me? I think you should
+dialog: be, you know that.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (QUIETLY)
+dialog: Michael, nobody's out to screw you,
+dialog: I guarrantee that.
+dialog: 
+speaker_heading: MICHAEL
+dialog: I know that Charlie but look at my
+dialog: side. You undersigned the loans.
+dialog: You vouched for him. What happens
+dialog: if this kid don't pay me? I gotta
+dialog: collect from you? I don't want to
+dialog: do that. I made a deal with him
+dialog: not you, right?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (PATRONIZING)
+dialog: You're right. You're right. Look,
+dialog: I'm not gonna wind up paying his
+dialog: debts. You know that.
+dialog: 
+dialog: 9.
+dialog: 
+dialog: 
+speaker_heading: MICHAEL
+dialog: I don't know that. That's what I'm
+dialog: telling you.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Michael, believe me. You know the
+dialog: kid's a little crazy sometimes. I
+dialog: vouched for him and he'll come
+dialog: through. I promise. I'll talk to
+dialog: him and straighten him out. Don't
+dialog: worry, OK?
+dialog: 
+speaker_heading: MICHAEL
+speaker_heading: (SATISFIED)
+dialog: OK.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+text: JOHNNY BOY enters the night club with two friends. He has
+text: been drinking. JOHNNY BOY'S face shows fresh cuts and
+text: bruises. His friends approach the hat check girl and give
+text: her their coats. JOHNNY BOY approaches her giving her his
+text: pants instead. His friends laugh hysterically.
+dialog: 
+text: CHARLIE is now alone at the end of the bar. JOHNNY BOY now
+text: completely dressed enters the bar area. CHARLIE watches
+text: JOHNNY BOY approaching and continues his Confession. JOHNNY
+text: BOY greets people as he passes them, and as CHARLIE speaks,
+text: he appears to be moving in slow motion.
+dialog: 
+speaker_heading: CHARLIE
+dialog: What do you think? 'If a man have
+dialog: a hundred sheep, and one of them
+dialog: stray, will he not leave the
+text: ninety-nine in the mountains, and
+dialog: go in search of the one that has
+dialog: strayed? And if he happen to find
+dialog: it, amen I say to you, he rejoices
+dialog: over it more than over the ninety-
+dialog: nine that did not go astray. Even
+dialog: so, it is not the will of your
+dialog: Father in Heaven that a single one
+dialog: of these little ones should
+dialog: perish.'... Ok that's very nce but...
+dialog: 
+text: TONY is now behind the bar near CHARLIE. JOHNNY BOY has
+dialog: reached them.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Drinks for everybody Tony...
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (INTERRUPTING)
+dialog: Giovanino! Where have you been?
+dialog: 
+dialog: 10.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (CONTINUING)
+dialog: and a double for you and Charlie
+dialog: here.
+dialog: (quietly to TONY)
+dialog: And put it on my tab, willya?
+dialog: 
+speaker_heading: TONY
+dialog: Which one, the big tab or the
+dialog: little tab?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Put it on the little tab so that it
+text: balances with the big one.
+dialog: 
+speaker_heading: TONY
+speaker_heading: (SARCASTICALLY)
+dialog: Yeah, so things'll be even.
+dialog: 
+text: CHARLIE and JOHNNY BOY grimace. MICHAEL appears.
+dialog: 
+speaker_heading: MICHAEL
+dialog: How about me? I don't get a drink
+dialog: John?
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (FEIGNING SURPRISE)
+dialog: Of course! A double for Michael,
+dialog: Tony.
+dialog: 
+text: TONY mumbles.
+dialog: 
+text: JOHNNY BOY interrupts MICHAEL who is about to speak.
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (CONTINUING)
+dialog: I know what you're going to say but
+dialog: don't say it. These drinks are all
+dialog: on the tab. I'm gonna see you this
+dialog: Tuesday payday, I promise. I give
+dialog: you my word.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You what?
+dialog: 
+text: The drinks arrive. They all smile and salute each other
+text: with their drinks.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (SALUTING)
+dialog: The queen!
+dialog: 
+dialog: 11.
+dialog: 
+dialog: 
+speaker_heading: ALL
+speaker_heading: (DRINKING)
+dialog: The queen!
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: CHARLIE and JOHNNY BOY are sitting alone at a table.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (refering to JOHNNY
+speaker_heading: BOY'S FACE)
+dialog: What happened to you Flash?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Charlie, I swear on my mother,
+dialog: you're not going to believe this.
+dialog: 
+speaker_heading: CHARLIE
+dialog: I know but let's hear it anyway.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I swear to God Charlie, it's the
+dialog: truth.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+speaker_heading: FLASHBACK
+dialog: 
+scene_heading: EXT. STREET - LATE AFTERNOON
+dialog: 
+text: JOHNNY BOY is walking along the street. It is rush hour and
+text: the traffic is heavy. A shiny, late model car stops parallel
+text: to JOHNNY BOY. The young boy (SAL) signals him by blowing
+text: the horn. (Note that in the FLASHBACK, JOHNNY BOY'S face is
+dialog: not bruised.)
+dialog: 
+speaker_heading: SAL
+dialog: Hey Johnny, where're you goin'?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Sal!... fourteen street.
+dialog: 
+speaker_heading: SAL
+dialog: Come on.
+dialog: 
+scene_heading: INT. INSIDE CAR - LATE AFTERNOON
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: This is some boat. Your father's?
+dialog: 
+speaker_heading: SAL
+dialog: Yeah...just had it delivered...
+dialog: 
+dialog: 12.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Hey... you got stereo.
+dialog: 
+speaker_heading: SAL
+dialog: Yeah, I think so.
+dialog: 
+text: As JOHNNY BOY admires the gadgets in the car he notices that
+text: SAL is becoming very nervous.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: You got a speaker back there?
+dialog: 
+text: He turns to look for the speaker and sees a police car not
+text: far behind.
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (CONTINUING)
+dialog: Ah...there's a funny lookin' cab
+dialog: behind us.
+dialog: 
+speaker_heading: SAL
+speaker_heading: (NERVOUSLY)
+dialog: I know...I know.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: What'sa matter...forget your
+dialog: registration?
+dialog: 
+speaker_heading: SAL
+dialog: No...no. Nooo...it's just that
+dialog: I...I...uh... this ain't my car.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Yeah, it's your father's.
+dialog: 
+speaker_heading: SAL
+dialog: Well...no.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: You mean it's heisted.
+dialog: 
+speaker_heading: SAL
+dialog: You could say that.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: (announcing it loudly)
+dialog: This is a heisted car!
+dialog: 
+text: SAL smiles sheepishly. JOHNNY BOY panics.
+dialog: 
+scene_heading: EXT. STREET - LATE AFTERNOON
+dialog: 
+text: The police switch on their flashing red light and try to get
+text: closer to them but the traffic is too heavy.
+dialog: 
+dialog: 13.
+dialog: 
+dialog: 
+text: SAL manages to turn the next corner at about twenty miles
+dialog: per hour.
+dialog: 
+scene_heading: INT. INSIDE CAR - LATE AFTERNOON
+dialog: 
+text: JOHNNY BOY frightened now, underestimates the speed of the
+text: car and quickly opens the door.
+dialog: 
+scene_heading: EXT. STREET - LATE AFTERNOON
+dialog: 
+text: JOHNNY BOY tumbles from the car only to smack into a lamp-
+text: post. He has seriously banged his head and blood is running
+text: down his face. But because of the near proximity of the
+text: police car he is desperately trying to maintain an air of
+text: dignity as he calmly tries to walk down the street.
+dialog: 
+speaker_heading: END FLASHBACK
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TONY'S PLACE - NIGHT
+dialog: 
+text: TONY has now joined the group sitting at the table...
+text: CHARLIE and TONY nod in disbelief.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: It's the truth, I swear.
+dialog: 
+speaker_heading: CHARLIE
+dialog: All right, forget it. Tony, you
+dialog: got anything we can put on his face?
+dialog: 
+speaker_heading: TONY
+dialog: Yeah, in the back.
+dialog: 
+text: They all get up.
+dialog: 
+speaker_heading: TONY
+speaker_heading: (CONTINUING)
+dialog: C'mon, I got something to show you
+dialog: anyway.
+dialog: 
+scene_heading: INT. TONY'S PLACE - BACK HALL - NIGHT
+dialog: 
+text: They push their way through the crowd and enter a narrow
+text: dimly lit hallway on both sides.
+dialog: 
+scene_heading: INT. BACK ROOM - TONY'S PLACE - NIGHT
+dialog: 
+text: A boy and girl are necking on a make-shift couch in the
+text: darkened room.
+dialog: 
+dialog: 14.
+dialog: 
+dialog: 
+speaker_heading: GIRL
+speaker_heading: (WHISPERING)
+dialog: Jimmy, I tell you there's something
+dialog: in this room.
+dialog: 
+speaker_heading: JIMMY
+speaker_heading: (MURMURS)
+dialog: Ahhh come on baby...willya'...cut
+dialog: it out.
+dialog: 
+text: Suddenly the light is turned on. TONY, CHARLIE, and JOHNNY
+text: BOY enter the room. The GIRL is startled and jumps up.
+text: JIMMY appears bewildered.
+dialog: 
+speaker_heading: TONY
+dialog: Excuse us Jimmy, we'll only be a
+dialog: moment.
+dialog: 
+speaker_heading: TONY
+dialog: S'alright Tony.
+dialog: 
+text: The GIRL and JIMMY sit self-consciously as TONY goes to the
+text: medicine cabinet, takes out a few items and gives them to
+text: CHARLIE. TONY then crosses to the other side of the room
+text: where he removes the blanket which has been covering a large
+text: cage. He reveals a live, young beautiful PANTHER stalking
+dialog: to and fro.
+dialog: 
+text: The GIRL screams.
+dialog: 
+speaker_heading: GIRL
+dialog: I told you there was something in
+dialog: this room.
+dialog: 
+text: The GIRL runs out.
+dialog: 
+text: Everyone else except TONY, is backed up against the wall,
+text: frightened. The BOYS laugh nervously.
+dialog: 
+speaker_heading: TONY
+dialog: Keep quiet about this. I don't
+dialog: have any license for him yet. I've
+dialog: only had him a couple of days.
+dialog: Nobody can feed him except me. I'm
+dialog: the only one he trusts. Watch.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Don't go to any trouble. We
+dialog: believe you... We believe you.
+dialog: 
+text: TONY begins to open the cage. The BOYS are now standing on
+text: top of the nearest pieces of furniture.
+dialog: 
+dialog: 15.
+dialog: 
+dialog: 
+speaker_heading: TONY
+speaker_heading: (ENTERING CAGE)
+dialog: Really wanted to get a little tiger
+dialog: Charlie, y'know...a little William
+dialog: Blake and all that...
+dialog: 
+speaker_heading: CHARLIE
+dialog: Be careful.
+dialog: 
+text: TONY ignores CHARLIE's warning as he crouches and allows the
+text: animal to wander onto his lap where upon he strokes the
+text: panther gently murmuring to him.
+dialog: 
+text: The BOYS watch in silence.
+dialog: 
+scene_heading: INT. TONY'S PLACE - CORNER TABLE - NIGHT
+dialog: 
+text: The Italian song "Malafemina" (a tango-like rythmn) is heard
+text: coming from the juke-box. It is near closing time and there
+text: are only a few customers left in the club, including MICHAEL
+text: and two gays, BENTON and SAMMY, who is getting very drunk.
+dialog: 
+text: CHARLIE is at the corner table with TONY and JOHNNY BOY.
+text: CHARLIE is washing JOHNNY BOY'S face with cold water from a
+text: basin. Some of JOHNNY'S blood has mingled with the water.
+dialog: 
+speaker_heading: CHARLIE
+dialog: I'm surprised at you Tone. I mean
+dialog: you've had the place for over a
+dialog: year now. Nothing different...same
+dialog: old place...ordinary...flat...no
+dialog: imagination.
+dialog: 
+text: TONY ignores CHARLIE's half-joking, drunken remarks.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUES)
+dialog: For instance, the difference
+dialog: between me and you is this...you
+dialog: take that panther back there. I'd
+dialog: put him right up here above the
+dialog: bar...nice cage, you know? Nothing
+dialog: ordinary in my place. What good is
+dialog: it? You get robot customers. They
+dialog: come in, drink beer, go to the
+dialog: bathroom, and go home. No sir.
+dialog: 
+text: One of the BOYS more casual acquaintances is lying on the
+text: bar, drunk. He begins to sing along with the Italian
+dialog: music - but very badly.
+dialog: 
+dialog: 16.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: See what I mean?
+speaker_heading: (PAUSE)
+dialog: A question please...'Is this what
+dialog: you call living?'
+dialog: 
+speaker_heading: TONY
+speaker_heading: (WEARILY)
+dialog: 'Take a little tip from Mack the
+dialog: Knife...'
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (INTERRUPTS)
+text: Tony, break down and open another
+dialog: bottle willya'?
+dialog: 
+text: A well dressed young boy enters the club. GEORGE, the
+text: bouncer, approaches him.
+dialog: 
+speaker_heading: GEORGE
+dialog: We're closed.
+dialog: 
+speaker_heading: BOY
+dialog: I'm just waiting for Joey.
+dialog: 
+text: The BOY walks over to a bar stool and sits down. Nobody
+text: acknowledges his presence.
+dialog: 
+text: Suddenly the DRUNK on the bar stops singing and sits up,
+text: dazed. His sudden silence causes CHARLIE and the others to
+text: look up at him. The DRUNK stares ahead for a minute.
+dialog: 
+speaker_heading: DRUNK
+speaker_heading: (MUTTERS)
+dialog: I...I gotta go to the bathroom.
+dialog: 
+text: EVERYONE laughs.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Well, go ahead, whaddaya want?
+dialog: Someone to hold it for you?
+dialog: 
+text: More laughter. Even the BOY at the bar laughs. The DRUNK
+text: rises, still smiling and stumbles off to the mens room.
+dialog: 
+text: The Big Bopper - "Chantilly Lace" in playing on the
+text: soundtrack. CHARLIE is playing with a deck of cards.
+dialog: 
+speaker_heading: CHARLIE
+dialog: (continuing previous conversation)
+dialog: This place is dead. If I had a
+dialog: place...every night...lively.
+dialog: 
+text: JOHNNY BOY is sipping his drink and ignoring the conversation.
+dialog: 
+dialog: 17.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUING)
+dialog: And I wouldn't call it TONY'S PLACE
+text: or CHARLIE'S PLACE...
+speaker_heading: (MORE CONFIDENTIALLY)
+dialog: I'd call it something like SEASON
+dialog: OF THE WITCH... get it?
+dialog: 
+speaker_heading: TONY
+speaker_heading: (QUIETLY)
+dialog: You are with out a doubt the
+dialog: biggest, most pretentious bullshit
+dialog: thrower I know. Like to see what
+dialog: kind of business you'd do.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Look who's talking. Pretentious
+dialog: bullshit. Who's the guy with
+dialog: William Blake and the tigers, eh?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Will you guys shut up with the
+dialog: witches and tigers. Tony, you
+dialog: gonna close the place, we get out
+dialog: of here, get something to eat, or
+dialog: what?
+dialog: 
+speaker_heading: TONY
+dialog: We'll close up as soon as everybody
+dialog: leaves.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Don't forget what's-his-name there
+text: in the bathroom.
+dialog: 
+text: EVERYONE laughs. JIMMY is drawing on a table top. CHARLIE
+text: wanders over.
+dialog: 
+speaker_heading: JIMMY
+dialog: Wanna see your picture?
+dialog: 
+text: CHARLIE leans over. OVERHEAD VIEW shows large crude swastika.
+dialog: 
+speaker_heading: JIMMY
+dialog: Waddaya think?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Not quite...but keep trying.
+dialog: 
+text: CHARLIE picks up the cards again.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Let's have a game after we close.
+dialog: 
+dialog: 18.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Nah.
+dialog: 
+speaker_heading: CHARLIE
+dialog: C'mon Tony, waddaya say?
+dialog: 
+speaker_heading: TONY
+dialog: No.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (ADDRESSING THE
+speaker_heading: ENTIRE BAR)
+dialog: Anybody wanna have a game?
+dialog: 
+text: The people in the bar do not respond. CHARLIE shrugs. The
+text: BOY casually leaves the bar and walks to the men's room.
+dialog: 
+scene_heading: INT. MENS ROOM - TONY'S PLACE - NIGHT
+dialog: 
+text: The BOY slowly swings the door open and stares at the DRUNK
+text: leaning over the urinal, half asleep. He takes out his
+text: pistol and calmly shoots the DRUNK three times in the back.
+text: To the BOY's surprise the DRUNK does not immediately fall
+text: dead. Instead, he turns and grabs the BOY by the throat.
+text: They struggle in the open doorway.
+dialog: 
+scene_heading: INT. BAR AREA - NIGHT
+dialog: 
+text: The Italian music is still playing. Everyone in the bar has
+text: frozen in position as they watch the scene.
+dialog: 
+text: In his astonishment CHARLIE allows the cards to fall from
+text: his hands.
+dialog: 
+text: The YOUNG BOY breaks away from the DRUNK and runs towards
+dialog: the exit.
+dialog: 
+text: The DRUNK, running only on sheet determination, stumbles
+text: along after the boy.
+dialog: 
+text: The people in the bar, including CHARLIE, dash behind tables
+text: and jump behind the bar for cover.
+dialog: 
+scene_heading: INT. TONY'S PLACE - STAIRWAY EXIT
+dialog: 
+text: The BOY reaches the exit and fires at the DRUNK from the top
+text: of the stairs. The DRUNK still follows.
+dialog: 
+scene_heading: EXT. STREET - NIGHT BLACK &amp; WHITE
+dialog: 
+text: The BOY runs down the street and disappears into the darkness.
+text: The DRUNK staggers out into hte cobblestone street. His
+text: mind is gone, it is now just a physical matter of the body
+text: being stopped by the presence of a stationary object.
+dialog: 
+dialog: 19.
+dialog: 
+dialog: 
+text: He staggers straight across the street at tremendous speed
+text: smashing directly into a parked car.
+dialog: 
+scene_heading: EXT. TONY'S PLACE - BACK ENTRANCE - NIGHT BLACK &amp; WHITE
+dialog: 
+text: Everyone (including the two GAYS at the bar) is running out
+dialog: the back way.
+dialog: 
+speaker_heading: TONY
+dialog: Don't run...don't run. Everyone
+dialog: split up.
+dialog: 
+scene_heading: EXT. STREET - NIGHT BLACK &amp; WHITE
+dialog: 
+text: MICHAEL and JIMMY turn the corner and calmly walk to his
+text: parked car. As they get into the car CHARLIE and JOHNNY BOY
+dialog: turn the corner.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Michael, give us a lift.
+dialog: 
+speaker_heading: MICHAEL
+dialog: OK, get in.
+dialog: 
+text: As they are getting into the car the two GAYS turn the
+text: corner. One of them, SAMMY, is very drunk and is crying
+text: hysterically. His companion BENTON is trying to calm him
+text: down when he notices MICHAEL.
+dialog: 
+speaker_heading: BENTON
+dialog: Michael...wait.
+dialog: 
+text: It is obvious that MICHAEL does not want to take them but he
+text: is also afraid of attracting any attention so he quickly
+text: ushers them into the car.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Get in, get in.
+dialog: 
+scene_heading: INT. MICHAEL'S CAR - NIGHT BLACK &amp; WHITE
+dialog: 
+text: CHARLIE and JOHNNY BOY are in the back seat. SAMMY crawls
+text: over CHARLIE into the back seat making apologies. BENTON is
+text: forced into the front seat with MICHAEL and JIMMY. They
+text: drive off, with SAMMY crying.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Oh Jesus Christ...what's this.
+dialog: 
+speaker_heading: BENTON
+dialog: Sammy get control of yourself.
+dialog: 
+dialog: 20.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Yes, you're gettin' it all over my
+dialog: tie.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Should I slap him?
+dialog: 
+speaker_heading: SAMMY
+dialog: (suddenly in control)
+dialog: You wouldn't dare.
+dialog: 
+speaker_heading: BENTON
+dialog: I'm terribly sorry guys...It's just
+dialog: that he was terribly frightened.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Just keep him quiet.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Friends of yours Michael.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Shut up.
+dialog: 
+speaker_heading: BENTON
+dialog: (sensing the hostility)
+dialog: Oh...ah...I'm Benton and this is
+dialog: Sammy.
+dialog: 
+speaker_heading: CHARLIE
+dialog: I can't get over the way he just
+text: kept going at him.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Must have been all the liquor in him.
+dialog: 
+speaker_heading: MICHAEL
+speaker_heading: (IN ITALIAN)
+dialog: Quiet please.
+dialog: 
+text: He returns to English.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Where should I drop you Charlie?
+dialog: 
+speaker_heading: SAMMY
+dialog: (interrupting the conversation)
+dialog: Yes Charlie, your place or mine.
+dialog: 
+speaker_heading: BENTON
+dialog: Sammy.
+dialog: 
+speaker_heading: CHARLIE
+text: Away from the neighborhood.
+dialog: 
+dialog: 21.
+dialog: 
+dialog: 
+speaker_heading: SAMMY
+dialog: Oh Benton...look!
+dialog: 
+text: SAMMY leans over JOHNNY and CHARLIE to see out the window.
+text: He begins to shout at a young boy on the street.
+dialog: 
+speaker_heading: SAMMY
+speaker_heading: (CONTINUING)
+dialog: Hi beautiful!!! I love you.
+dialog: 
+text: CHARLIE and JOHNNY BOY hide their faces.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Hey, shut up.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Get him in.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: What...are you kidding.
+dialog: 
+speaker_heading: BENTON
+dialog: Sammy, get in here this minute.
+dialog: 
+speaker_heading: SAMMY
+dialog: I won't...I won't! They're all
+dialog: beautiful.
+speaker_heading: (SHOUTING)
+dialog: I'll suck them all...I'll suck them
+dialog: all!
+dialog: 
+text: CHARLIE and JOHNNY BOY groan. They are still hiding their
+dialog: faces.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Disgraceful.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Ok...that's it.
+dialog: 
+text: He pulls the car over to the nearest corner.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Out!!!!
+dialog: 
+speaker_heading: CHARLIE
+dialog: C'mon Johnny.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You getting out too?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yeah, thanks, it's ok.
+dialog: 
+dialog: 22.
+dialog: 
+dialog: 
+scene_heading: EXT. STREET - NIGHT BLACK &amp; WHITE
+dialog: 
+text: CHARLIE and JOHNNY BOY get out of the car first so that by
+text: the time BENTON and SAMMY are out they are already on their
+text: way down the street. MICHAEL drives away.
+dialog: 
+speaker_heading: SAMMY
+speaker_heading: (SHOUTING)
+dialog: Going our way?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (to JOHNNY BOY)
+dialog: Don't answer.
+dialog: 
+text: BENTON guides SAMMY the opposite way.
+dialog: 
+scene_heading: EXT. NEIGHBORHOOD STREET - DAWN
+dialog: 
+text: CHARLIE and JOHNNY BOY are walking down the street on their
+dialog: way home.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I don't think I should go home
+dialog: looking like this. You think I
+dialog: could stay at your place tonight?
+dialog: Your mother's not there is she?
+dialog: 
+speaker_heading: CHARLIE
+dialog: No, she isn't.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+speaker_heading: FLASHBACK
+dialog: 
+scene_heading: INT. CHARLIE'S APARTMENT - DAY
+dialog: 
+text: CHARLIE lives in a typical lower east side tenement apartment.
+text: Each room is painted a different pastel color. It is
+text: furnished in miscellaneous styles and from the pictures on
+text: the wall and various knick-knacks around the rooms it is
+text: evident that this is a family apartment rather than a
+dialog: bachelors pad.
+dialog: 
+text: CHARLIE is helping his mother pack a suitcase. Through out
+text: the scene he is addressing her but she is never seen on
+text: CAMERA. The CAMERA PANS following his movements and CHARLIE
+text: directs his conversation always towards but above and beyond
+dialog: it.
+dialog: 
+dialog: 23.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: Listen, I'll be ok...it's the best
+dialog: thing. You're not going to be able
+dialog: to take care of Grandma out here
+dialog: and still get to work, you know
+dialog: that...
+speaker_heading: (PAUSE)
+dialog: Yes the place will be here, I'll
+dialog: take care of it.
+speaker_heading: (PAUSE)
+dialog: Yeah don't worry about me, I'll
+dialog: take care of myself.
+speaker_heading: (PAUSE)
+dialog: 
+dialog: 
+text: He moves into the bedroom taking more items out of the
+text: drawers. The room is ver small. The paint if peeling.
+text: Over the double bed there is a large crucifix.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUED)
+dialog: No...no parties.
+speaker_heading: (PAUSE)
+dialog: I'll eat.
+speaker_heading: (PAUSE)
+dialog: Mom, look, just don't worry...ok?
+dialog: 
+speaker_heading: END FLASHBACK
+dialog: 
+scene_heading: INT. CHARLIE'S MOTHER'S BEDROOM - MORNING
+dialog: 
+text: CHARLIE and JOHNNY BOY are lying on CHARLIE'S MOTHER'S bed
+text: in their underwear.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You'd better make a move kid. He
+dialog: thinks you're trying to screw him.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Wouldn't bother me.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yeah, big man...get yourself in
+dialog: more trouble. You make a fool out
+dialog: of him, you're doing the same to me.
+dialog: I signed for you don't forget.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Don't worry. I can handle it.
+dialog: 
+dialog: 24.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: You couldn't handle shit. You just
+dialog: better come through with some kind
+dialog: of payment on Tuesday...anything.
+dialog: Understand? Hold onto your pay-
+dialog: check this week.
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (LAUGHS)
+dialog: There won't be any this week.
+dialog: 
+speaker_heading: CHARLIE
+dialog: What do you mean?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Didn't show up.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You sick or what? You forget what
+dialog: we had to do to get you on the
+dialog: trucks, stupid?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I don't like loading crates.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You're not supposed to like it.
+dialog: What gets me is your attitude.
+dialog: Listen... tomorrow you show up.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: What about your attitude...Where's
+dialog: your job...eh? You talk and talk
+dialog: and I go to work...what do you do?
+dialog: 
+speaker_heading: CHARLIE
+dialog: I'll tell you what I don't do... I
+dialog: don't owe anybody 2,000 clams plus
+dialog: interest, stupid. Show up or I
+dialog: break both your arms, we understand
+dialog: each other?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Ok, ok...take it easy. I'll show.
+dialog: Tuesday I'll give Michael something.
+dialog: I promise.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Don't promise...just deliver.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Ok, now that that's over with...what
+dialog: are you gonna make me for breakfast?
+dialog: 
+dialog: 25.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: I won't wait until Tuesday. I'll
+dialog: break your arms right now.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: (rising from bed)
+dialog: Listen...I'm a guest here.
+dialog: 
+text: CHARLIE reaches out to grab him.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: OK...ok...I'm going.
+dialog: 
+scene_heading: INT. KITCHEN - CHARLIE'S APARTMENT
+dialog: 
+text: JOHNNY is raiding the icebox.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Hey...you got nothing here.
+dialog: 
+speaker_heading: CHARLIE
+dialog: (from the other room)
+dialog: I could have told you that.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: We'll get some food from my aunt's.
+dialog: I'll get in through the fire escape.
+dialog: She's always got something.
+dialog: 
+text: JOHNNY BOY leaves the kitchen and walks towards the bedroom.
+dialog: 
+scene_heading: INT. CHARLIE'S MOTHER'S BEDROOM - MORNING
+dialog: 
+speaker_heading: CHARLIE
+dialog: Don't do that. You'll scare Teresa
+dialog: if you try to sneak in.
+dialog: 
+text: JOHNNY BOY is now by the window looking out at the fire
+text: escape mischieviously.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Yeah...you're right. Maybe she'll
+dialog: have a seizure and we can watch.
+dialog: 
+text: He laughs. CHARLIE hits JOHNNY BOY on the back of the head.
+dialog: 
+speaker_heading: CHARLIE
+dialog: That's not funny. You gonna be a
+dialog: jerk-off all your life. Grow up.
+dialog: You want something to eat from your
+dialog: aunt's house you go knock on her
+dialog: door, understand?
+dialog: 
+dialog: 26.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I'm not hungry anymore. I'm going
+dialog: to bed.
+dialog: 
+text: JOHNNY BOY gets into bed. CHARLIE goes into the kitchen to
+dialog: get a glass of milk.
+dialog: 
+scene_heading: INT. KITCHEN - DAYBREAK
+dialog: 
+text: CHARLIE takes a glass of milk from the icebox. He listens
+text: to the sounds of the neighborhood waking up and getting
+text: ready to go to work. He leaves the kitchen.
+dialog: 
+scene_heading: INT. BEDROOM - CHARLIE'S APARTMENT - DAYBREAK
+dialog: 
+text: CHARLIE returns to the bedroom. JOHNNY BOY appears to be
+text: asleep. CHARLIE goes to the window and peers through the
+text: blinds. He sees in the window across the fire escape.
+dialog: 
+text: A SERIES OF DISSOLVES. TERESA is going through the various
+text: stages of getting dressed.
+dialog: 
+text: TERESA RONCHALI is 30 years, well built, attractive and
+text: intelligent. She is well read and quiet. The salary she
+dialog: makes as a secretary in a book publishing firm practically
+text: supports her family. She has epilepsy which has prevented
+dialog: her (in her own mind) from entering into any serious
+dialog: relationships with men. She has however, been having an
+text: affair with CHARLIE for the past year. It is a well kept
+dialog: secret from both families because the families regard each
+dialog: other as blood relations.
+dialog: 
+text: CHARLIE is startled by JOHNNY BOY who is now awake and has
+text: begun to dial the telephone.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: (pretending to be angry)
+dialog: Hello...fifth precinct? Yeah...I
+dialog: want to report a disturbance. Yeah
+dialog: this man and woman next door are
+dialog: disturbing the peace. They're
+dialog: keeping me awake all night now.
+dialog: What the hell is this. What?
+text: Well... yelling, fighting, throwing
+dialog: things. Uh-huh. If they don't
+dialog: kill each other soon I'm goin' over
+dialog: there and do the job myself. Yes -
+dialog: the address is 270 Mott street. I
+dialog: think it's apartment 2-r. Yeah,
+dialog: right... thanks. Look, I demand
+dialog: immediate action. Never mind my
+dialog: name I don't like getting involved
+dialog: in things like this.
+dialog: 
+dialog: 27.
+dialog: 
+dialog: 
+text: He hangs up roughly and returns to his position in bed.
+text: CHARLIE shakes his head with an exasperated smile as if this
+text: was a common occurance. CHARLIE turns back to look at
+text: TERESA but she is no longer in her room.
+dialog: 
+scene_heading: INT. TERESA'S BEDROOM
+dialog: 
+text: CHARLIE is dreaming this sequence. He and TERESA are both
+text: nude. She is lying face down on the bed. He approached and
+text: ejaculates prematurely - However, he doesn't ejaculate
+text: sperm - instead blood. They are shocked. The blood is on
+text: the bed, her legs, back, and his hands. Charlie cries out
+dialog: in pain.
+dialog: 
+scene_heading: INT. HOTEL ROOM - MID-DAY
+dialog: 
+text: CHARLIE and TERESA are in the hotel room making love. The
+text: sounds of traffic can be heard from the street below.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: They are getting dressed.
+dialog: 
+speaker_heading: TERESA
+dialog: I'd like to eat something before I
+dialog: go back to work.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Ok, we'll go for lunch.
+dialog: 
+speaker_heading: TERESA
+dialog: Do you have enough?
+dialog: 
+text: CHARLIE checks his wallet.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Well...with the hotel that's ten...
+dialog: fifteen...
+dialog: 
+speaker_heading: TERESA
+dialog: Here.
+dialog: 
+text: She hands him a few bills. He hesitates.
+dialog: 
+speaker_heading: TERESA
+dialog: Please take it.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Well...
+dialog: 
+speaker_heading: TERESA
+dialog: I don't mind.
+dialog: 
+text: She puts the money into his hand.
+dialog: 
+dialog: 28.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: Sure...it's not that...I mean...
+dialog: 
+speaker_heading: TERESA
+dialog: (touching his face)
+dialog: It's all right.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Well, if things go the way I hope
+dialog: they'll go, this money business
+dialog: will take care of itself.
+speaker_heading: (ASIDE)
+dialog: God willing.
+dialog: 
+speaker_heading: TERESA
+dialog: An apartment uptown? Downtown?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Maybe, who knows.
+dialog: 
+speaker_heading: TERESA
+speaker_heading: (SEARCHINGLY)
+dialog: Charlie...?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Nobody knows anything, believe me.
+dialog: 
+text: She kisses him gently.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: TERESA is putting on her stockings. A few minutes have
+dialog: passed.
+dialog: 
+speaker_heading: CHARLIE
+dialog: See if you can get your hands on
+dialog: some pamphlets on laws or by
+dialog: laws...or proprietorship...you
+dialog: know...at your place.
+dialog: 
+speaker_heading: TERESA
+dialog: Anything specific?
+dialog: 
+speaker_heading: CHARLIE
+dialog: You know...like restaurants, night
+dialog: clubs...
+dialog: 
+speaker_heading: TERESA
+speaker_heading: (AFFECTIONATELY)
+dialog: What is it now?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Don't ask.
+dialog: 
+dialog: 29.
+dialog: 
+dialog: 
+text: He gives her a quick kiss on the tip of her nose.
+dialog: 
+speaker_heading: TERESA
+dialog: Alright... Hey, did you hear any
+dialog: more about what happened last night?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Did you?
+dialog: 
+speaker_heading: TERESA
+dialog: No.
+dialog: 
+speaker_heading: CHARLIE
+dialog: CHRIST, you should have seen it.
+dialog: Unbelievable. The kid would turn
+dialog: around and fire and he would just
+text: keep coming at him like Rasputin.
+dialog: That kid was scared. Not half as
+dialog: much as we were though.
+dialog: 
+speaker_heading: TERESA
+text: It doesn't make any sense. He
+dialog: wouldn't shoot him just because he
+dialog: insulted a racket guy...not unless
+dialog: it was personal.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You missed the point. The kid's a
+dialog: climber...not very bright...but if
+dialog: you get down to his level to look
+text: at it his way; he kills a guy who
+text: insulted a big man - he gets a
+dialog: reputation. He thinks he's in good
+dialog: standing.
+dialog: 
+speaker_heading: TERESA
+dialog: It's still sick.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Not sick...just stupid. Speaking
+dialog: of stupid, your cousin last night
+dialog: was feeling so good he decided to
+dialog: break into your mother's house...to
+dialog: get some food.
+dialog: 
+text: TERESA laughs at this story but her mood changes suddenly.
+dialog: 
+speaker_heading: TERESA
+dialog: You're sure he doesn't know.
+dialog: 
+text: He takes her in his arms.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Don't worry.
+dialog: 
+dialog: 30.
+dialog: 
+dialog: 
+scene_heading: INT. HOTEL - BATHROOM - MID-DAY
+dialog: 
+text: CHARLIE enters the bathroom to clean-up. He stares at his
+text: image in the mirror for a moment, then makes a face. He
+text: checks the whiteness of his teeth, pulls back his hair, and
+text: checks his complexion. The mirror image begins to speak.
+text: The CAMERA PANS BACK to CHARLIE'S FACE. His mouth is not
+dialog: moving.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONFESSION)
+dialog: Don't look at me like that, I can
+dialog: see this is not going to get us
+dialog: anywhere. She's a good kid, what
+dialog: am I supposed to do. In a way I'm
+dialog: doing her a favor...no??? How many
+dialog: guys you know feel this way about
+dialog: an epileptic? Don't get me wrong,
+dialog: I'm no saint...not yet.
+dialog: 
+text: The image of CHARLIE in the bathroom intercuts with stills
+dialog: from Catholic School text books - vulgar color illustrations
+text: of parables - emphasis on Christ expelling the devils from
+dialog: the posessed women.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUING)
+dialog: But I'm not like the Pharisee who
+dialog: said "Oh God I thank thee that I am
+dialog: not like the rest of them."...no...I
+dialog: like to think of myself as the
+dialog: Publican...
+dialog: 
+text: He strikes his breast penitently as he delivers the next line.
+dialog: 
+speaker_heading: CHARLIE
+dialog: ...'Oh God be merciful to me the
+dialog: sinner!' I'm not taking advantage
+dialog: of her. I swear to you that if she
+dialog: meets someone she'd like to marry...
+dialog: 
+text: Back to CHARLIE in sync.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUED)
+dialog: ...I'll cut out. "If Thy eye is an
+dialog: occasion of sin to thee...
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: Stills of girls, sexy pornographic nude magazine spreads.
+dialog: 
+dialog: 31.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: ...pluck it out and cast it from
+dialog: thee." "Woe to the man through whom
+dialog: scandal does come." I'm sure you'd
+dialog: agree this is no time to get tied
+dialog: down. Like the priesthood...
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: Textbook illustration of vocations.
+dialog: 
+speaker_heading: CHARLIE
+dialog: ...they don't get tied down do they?
+dialog: "Have I not a right to do what I
+dialog: chose? Even so the last shall be
+dialog: first and the...
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: CHARLIE in sync.
+dialog: 
+speaker_heading: CHARLIE
+dialog: ...first last. For many are called
+dialog: but few are chosen."
+dialog: 
+scene_heading: INT. RESTAURANT - MID-DAY
+dialog: 
+text: CHARLIE is sitting in a quiet corner of the restaurant.
+dialog: This restaurant was considered an above average business
+dialog: with quality and prices to match when it was first opened
+dialog: three years ago. The quality has diminished but the prices
+text: remain the same. As a result the place is dying. CHARLIE
+text: is scrutinizing the restaurant from his corner. He picks up
+text: a water goblet and critically examines the water spots on it.
+text: He calls a waitress to show her the dirt on the glass. She
+text: apologizes, cleans it with her apron, and places it back on
+text: the table. He takes a menu.
+dialog: 
+text: A chubby, middle-aged man, OSCAR, approaches the table. He
+text: is half owner of the decaying restaurant. He is in his
+text: shirt sleeves which, along with the side of his face, are
+text: smeared with grease and dirt. He is tired and disgusted.
+dialog: 
+speaker_heading: OSCAR
+dialog: (with a slight Jewish accent)
+dialog: Hey...you're here. They told me
+dialog: you're here...and you're here. How
+dialog: are you?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Ok, how's everything going?
+dialog: 
+text: OSCAR sits down next to CHARLIE.
+dialog: 
+dialog: 32.
+dialog: 
+dialog: 
+speaker_heading: OSCAR
+dialog: Don't ask...do you have any idea
+dialog: what I've been doing all
+dialog: morning...eh?
+dialog: 
+speaker_heading: CHARLIE
+dialog: No.
+dialog: 
+speaker_heading: OSCAR
+dialog: I was in the basement fixing the
+dialog: pipes. Would you believe that?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (LAUGHING)
+dialog: What pipes?
+dialog: 
+speaker_heading: OSCAR
+speaker_heading: (MIMICKING)
+dialog: What pipes...the ones from last
+dialog: year...those pipes.
+dialog: 
+text: CHARLIE shakes his head in sympathy.
+dialog: 
+speaker_heading: OSCAR
+dialog: Look Charlie, you're a good boy.
+dialog: Will you just tell your uncle that
+dialog: I have nothing. There is nothing
+dialog: to give him. No envelopes with
+dialog: cash inside, no checks, nothing.
+dialog: 
+speaker_heading: CHARLIE
+dialog: That bad, huh?
+dialog: 
+speaker_heading: OSCAR
+dialog: I can't make this week's payment
+dialog: and if this keeps up not next
+dialog: week's either.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Not next week's either...listen...you
+dialog: tell that to Giovanni, not me.
+dialog: 
+speaker_heading: OSCAR
+dialog: Listen, I should wrap up this place
+dialog: in a ribbon and hand it to him, you
+dialog: know that. I don't need this
+dialog: aggravation. I'm getting old.
+dialog: 
+speaker_heading: CHARLIE
+dialog: He'd rather have the loan payed,
+dialog: you know that.
+dialog: 
+dialog: 33.
+dialog: 
+dialog: 
+speaker_heading: OSCAR
+dialog: Your Uncle's a good man...I won't
+dialog: stick him. Either he gets the
+dialog: money or the place and right now
+dialog: he's getting the place. And tell
+dialog: me why should I care? I got a
+dialog: partner who's a bum, who doesn't
+text: help out...who disappears and
+dialog: leaves me with all the problems. I
+dialog: should go back to Florida...I don't
+dialog: need this.
+dialog: 
+speaker_heading: CHARLIE
+dialog: I don't understand, where's Groppi?
+dialog: 
+speaker_heading: OSCAR
+dialog: I should know? His wife don't even
+dialog: know. Probably off with one of his
+dialog: little girls...I don't know. I
+dialog: tell you, if he don't give a damn,
+dialog: then I don't give a damn...Why
+dialog: should I kill myself?
+dialog: 
+speaker_heading: CHARLIE
+dialog: My uncle figured that this week was
+dialog: bad...but about next week...I dunno.
+dialog: Maybe you should speak to him
+dialog: yourself.
+dialog: 
+speaker_heading: OSCAR
+dialog: What can I say?
+dialog: 
+scene_heading: EXT. STREET - DAY
+dialog: 
+text: CHARLIE is walking down the street on the lower east side.
+text: A noisy religious street festival is being held on the block.
+dialog: 
+scene_heading: INT. SMALL ITALIAN CAFE - DAY
+dialog: 
+text: CHARLIE enters a small Italian cafe and nods greetings to
+text: some of the people as he makes his way to the back of the
+text: room. This cafe is a strange hybred of coffee house, candy
+text: store, luncheonette, and meeting place for CHARLIE'S uncle
+text: GIOVANNI and his associates.
+dialog: 
+text: GIOVANNI De STEFANO is sixty. He is well respected and
+text: powerful both in and out of the neighborhood. He became a
+dialog: head figure not by being introduced formally as was the
+text: custom, but rather by fighting and killing his way into the
+text: organization. GIOVANNI is well dressed but not a stereotype
+text: of an old Mafioso, rather a kindly and intelligent old man.
+dialog: 
+text: GIOVANNI converses intermittently in Italian.
+dialog: 
+dialog: 34.
+dialog: 
+dialog: 
+text: A man is putting new records into the jukebox which is in
+text: the corner of the room in the luncheonette area.
+dialog: 
+speaker_heading: CHARLIE
+dialog: (to repair man)
+dialog: Is my uncle back there?
+dialog: 
+text: CHARLIE points in the direction of a doorway.
+dialog: 
+speaker_heading: REPAIR MAN
+dialog: Yeah, but I think he's busy now.
+dialog: Hey Charlie play 463 today - for
+dialog: sure.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Thanks!
+dialog: 
+text: CHARLIE walks through the luncheonette area, past the dining
+text: room where his uncle is in conference, to the bathroom at
+text: the very back of the cafe. MARIO is seated with his uncle.
+dialog: 
+text: MARIO is forty five years old. He is GIOVANNI'S closest
+dialog: associate, brought into the organization in the traditional
+dialog: manner, making his early reputation through hits (murders).
+text: He is not very intelligent but has an undying loyalty to
+text: GIOVANNI, and is very fond of CHARLIE.
+dialog: 
+text: MARIO and GIOVANNI are seated with a very old man. They are
+text: deep in their private conversation. CHARLIE passes by
+text: unnoticed and walks into the bathroom.
+dialog: 
+text: CHARLIE begins to wash his hands but changes his mind. He
+text: shuts off the faucet in order to eavesdrop on the
+dialog: conversation.
+dialog: 
+scene_heading: INT. DINING ROOM - DAY
+dialog: 
+text: GIOVANNI and MARIO are calmly sipping their coffee as they
+text: listen to the old man's nervous talk.
+dialog: 
+speaker_heading: OLD MAN
+dialog: (in Italian with
+speaker_heading: ENGLISH TITLES)
+dialog: What I'm telling you is that he did
+dialog: it for Mario's honor.
+dialog: 
+speaker_heading: MARIO
+dialog: But you don't understand. I knew
+dialog: the kid. He was drunk. He made of
+dialog: fool of himself...not me.
+dialog: 
+dialog: 35.
+dialog: 
+dialog: 
+speaker_heading: OLD MAN
+dialog: (in Italian with
+speaker_heading: ENGLISH TITLES)
+dialog: Giovanni - an insult to Mario is an
+dialog: insult to you.
+dialog: 
+speaker_heading: MARIO
+dialog: There was no insult.
+dialog: 
+speaker_heading: OLD MAN
+dialog: (in Italian with
+speaker_heading: ENGLISH TITLES)
+dialog: The boy only did what was right.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Your son only did what was stupid.
+dialog: We have enough down here without
+dialog: something like that. And what for?
+dialog: ...Nothing...no reason. Protect
+dialog: him? Why? I didn't tell him to do
+dialog: anything for me. He's going to
+dialog: Miami? Good...keep him in Miami
+dialog: for six months...a year...a good
+dialog: long time. After everything's
+dialog: forgotten then I see what I can do
+dialog: for him. Right now...keep him away.
+dialog: 
+scene_heading: INT. LUNCHEONETTE AREA - DAY
+dialog: 
+text: CHARLIE is seated at a table. The waitress, MARIE,
+text: approaches and gives him his cup of coffee... The following
+text: scene is reminiscent of a TELEVISION COMMERCIAL.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Marie, are there Columbian coffee
+dialog: beans in this coffee?
+dialog: 
+speaker_heading: MARIE
+dialog: I dunno.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Just a second. Let me taste it.
+dialog: 
+text: He pauses to sip the coffee, then shakes his head.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yes, I'd say there are some
+dialog: Columbian coffee beans in this
+dialog: coffee, but only about 39%.
+dialog: 
+text: MARIE is disinterested. CHARLIE continues.
+dialog: 
+dialog: 36.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: You see. You probably don't notice
+dialog: this Marie, but Colombian coffee
+dialog: beans are rich coffee beans.
+text: Bursting with that good, deep
+dialog: coffee flavor. Picked when they
+dialog: are ripe to the point of perfection.
+dialog: The beans of course, are protected
+dialog: by the tall South American Guama
+dialog: trees.
+dialog: 
+text: MARIE chews her gum for a moment and leaves the table.
+text: CHARLIE'S monologue continues and gradually he falls back
+text: into his CONFESSION. As he talks, the CAMERA PICKS UP
+text: DETAILS of the cafe and the people in it.
+dialog: 
+speaker_heading: CHARLIE
+text: Then the bean pickers come down and
+dialog: pick each bean by hand. Bean by
+dialog: bean, all heavy with flavor. And
+text: they load them into boxes, one box
+text: at a time, box by box.
+dialog: 
+text: From time to time CHARLIE is casually glancing at MARIE who
+text: is busy with her work.
+dialog: 
+scene_heading: BLACK &amp; WHITE &amp; COLOR
+dialog: 
+text: The images now move out of the cafe and the CAMERA REVEALS
+dialog: aspects of the neighborhood - LIVE ACTION and STILLS:
+text: stores, people, streets, buildings, in short; a concise
+text: vision of the neighborhood. All this is intercut with
+text: CHARLIE mentally stripping MARIE's clothes off with his eyes.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUED)
+dialog: Like, looking at my uncle back
+dialog: there. One way is the obvious;
+dialog: ...man outside the law. On the
+dialog: other hand, instead of a breakdown
+dialog: of order there is a creation of
+dialog: order and instead of the breakdown
+dialog: of law, there is the creation of
+dialog: law...In this society which needs
+dialog: new law because 'What's a crowbar
+dialog: compared to a share of stock.
+dialog: What's the robbing of a bank
+dialog: compared to the founding of one and
+dialog: what's the murder of a man to the
+dialog: gainful employment of that man.'
+dialog: 'Do not think that I have come to
+dialog: destroy the Law or the Prophets. I
+dialog: have not come to destroy but to
+dialog: fulfill.' ...Amen.
+dialog: 
+dialog: 37.
+dialog: 
+dialog: 
+text: The image culminate in aerial shots of downtown New York
+speaker_heading: City. (STOCK FOOTAGE)
+dialog: 
+text: CHARLIE now sees MARIE totally naked as she serves the
+dialog: customers.
+dialog: 
+scene_heading: INT. DINING ROOM - DAY
+dialog: 
+text: GIOVANNI and CHARLIE are standing and talking.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Uncle, how are you feeling?
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Fine. Did you have a good time
+dialog: last night?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (QUIETLY)
+dialog: About that shooting last night...I
+dialog: was there and...
+dialog: 
+speaker_heading: GIOVANNI
+dialog: No you weren't.
+dialog: 
+text: CHARLIE is struck silent for a moment. He listens.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (EMBARRASSED)
+dialog: You're right uncle. I must have
+dialog: gotten it confused with something
+dialog: else.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Yes, you did.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: CHARLIE and GIOVANNI are now sitting at a table.
+dialog: 
+speaker_heading: CHARLIE
+dialog: About Oscar...I think he put on
+dialog: this act...about the restaurant
+dialog: being in bad shape and all that.
+dialog: He can't make the payments...I
+dialog: don't know what to make of it. He
+text: says Groppi's run off with a girl.
+dialog: I could help if you want.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: No...his business is bad. But I'll
+dialog: decide what to do and you...and you
+dialog: just keep out of anything that
+dialog: might...might...er draw attention
+dialog: to you.
+dialog: 
+dialog: 38.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yes...I understand...I'll be careful.
+dialog: 
+scene_heading: EXT. BEACH - HAMPTONS - DAY
+dialog: 
+text: CHARLIE and TERESA are sitting on the beach which is fairly
+text: deserted. There are rented cottages behind them. TERESA
+dialog: has a book and some papers from which she is supposed to
+text: write a term paper for CHARLIE'S English class.
+dialog: 
+speaker_heading: TERESA
+dialog: C'mon Charlie...one more day. I'll
+dialog: call in sick for work.
+dialog: 
+speaker_heading: CHARLIE
+dialog: No...we can come back in a couple
+dialog: of weeks. Besides, if we're both
+dialog: gone for three days it wouldn't
+dialog: look right.
+dialog: 
+speaker_heading: TERESA
+dialog: Ok.
+dialog: 
+text: CHARLIE picks up a copy of Henry James' Portrait of a Lady
+text: and tries to read it. He tosses it aside.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Bore.
+dialog: 
+speaker_heading: TERESA
+dialog: A paper on that one too?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yeah...but don't worry about that
+dialog: now. The Hemmingway one is first.
+dialog: 
+speaker_heading: TERESA
+dialog: It was nothing. I'm almost finished.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Take your time. I don't care.
+dialog: 
+speaker_heading: TERESA
+dialog: I know you don't. You've been very
+dialog: preoccupied lately.
+dialog: 
+speaker_heading: CHARLIE
+dialog: That's the word...preoccupied.
+dialog: 
+text: CHARLIE turns towards TERESA and tries to kiss her. She
+text: playfully turns away. But CHARLIE quickly gets bored with
+text: that and doesn't pursue her. She is confused by his actions.
+dialog: 
+dialog: 39.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: Let's go back inside.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: CHARLIE and TERESA already farther up the beach, walking.
+text: They notice a very beautiful house with limousines parked in
+text: front of it.
+dialog: 
+speaker_heading: CHARLIE
+dialog: See that...know who lives there?
+dialog: The name George Earhardt mean
+dialog: anything to you?
+dialog: 
+speaker_heading: TERESA
+dialog: Sure...He lives there?
+dialog: 
+speaker_heading: CHARLIE
+dialog: No. Of course he lives there.
+dialog: Would I point it out to you if he
+dialog: didn't?
+dialog: 
+text: The house is seen from a great distance. CHARLIE'S VIEWPOINT.
+text: There is great activity...all with a very businesslike air.
+dialog: 
+speaker_heading: CHARLIE
+dialog: That W.A.S.P. bastard.
+dialog: 
+speaker_heading: TERESA
+dialog: You're intolerable today.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Watch your language.
+dialog: 
+text: They arrive at the cottage.
+dialog: 
+scene_heading: INT. HAMPTONS COTTAGE - DAY
+dialog: 
+text: CHARLIE and TERESA are coming in, putting down the books and
+dialog: papers.
+dialog: 
+speaker_heading: TERESA
+dialog: I like it here...alone.
+dialog: 
+text: She caresses CHARLIE. He is still preoccupied.
+dialog: 
+speaker_heading: TERESA
+dialog: I'm going to take that apartment
+text: uptown.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Uhuh...probably a good idea. Why
+dialog: don't you do it this time?
+dialog: 
+dialog: 40.
+dialog: 
+dialog: 
+speaker_heading: TERESA
+dialog: You know why...with my parents.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Well you can't blame them in a way.
+dialog: 
+speaker_heading: TERESA
+dialog: (pulling away from him)
+dialog: I can take care of myself. You
+dialog: know that.
+dialog: 
+speaker_heading: CHARLIE
+dialog: I know...I know.
+dialog: 
+text: They embrace.
+dialog: 
+speaker_heading: FLASHBACK
+dialog: 
+scene_heading: INT. HOSPITAL ROOM
+dialog: 
+text: CHARLIE'S father is the patient in the bed. The visitors
+text: surrounding the bed are CHARLIE'S mother, TERESA, and
+text: TERESA'S mother. The CAMERA MOVES IN CLOSER AS WE HEAR the
+text: sounds of mechanical voices coming from the T.V. sets in the
+dialog: lobby.
+dialog: 
+text: TERESA'S mother leans over and whispers into CHARLIE'S
+text: father's ear.
+dialog: 
+speaker_heading: TERESA'S MOTHER
+dialog: Turridu...that's your boy Charles.
+dialog: Don't you know him. Isn't that
+dialog: Charles?
+dialog: 
+text: There is no answer. CHARLIE is embarrassed. TERESA'S
+text: MOTHER asks again.
+dialog: 
+speaker_heading: TERESA'S MOTHER
+speaker_heading: (CONTINUED)
+dialog: Who is that?
+dialog: 
+speaker_heading: CHARLIE'S FATHER
+dialog: Che Guevara.
+dialog: 
+text: CHARLIE doesn't know how to react. TERESA'S MOTHER looks up
+text: with a half smile in disbelief. The other Visitors give off
+text: a small ripple of nervous laughter, repeating it...in
+dialog: whispers.
+dialog: 
+text: CHARLIE looks about nervously. Through the door of the
+text: hospital room can be seen several of the older patients
+text: gathered around a T.V. in the hallway. They are watching
+text: the races, the announcer's voice is blaring almost
+text: incomprehensibly.
+dialog: 
+dialog: 41.
+dialog: 
+dialog: 
+scene_heading: INT. HAMPTONS COTTAGE - DAY
+dialog: 
+text: TERESA and CHARLIE make love.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+text: CHARLIE is getting dressed. TERESA is wrapped warmly in the
+text: sheets - still in bed.
+dialog: 
+speaker_heading: CHARLIE
+dialog: ...He must have heard the name from
+dialog: those T.V.'s in the hall that were
+dialog: blaring all the time. I remember
+text: GUEVARA was in town at the time.
+dialog: Must've heard it from there I
+dialog: guess...but that's funny, isn't it?
+dialog: 
+speaker_heading: TERESA
+text: Ummmmmmmmmmmmm.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Of all people. Now say the truth.
+dialog: Do I look like Che Guevara. C'mon.
+dialog: 
+text: They laugh. He crosses to TERESA and they kiss.
+dialog: 
+speaker_heading: TERESA
+dialog: I'm sleepy.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You've been running round too much.
+dialog: Bet you've been forgetting your
+dialog: medicine.
+dialog: 
+speaker_heading: TERESA
+text: The green capsules in the top drawer.
+dialog: 
+text: CHARLIE gets her the pills and heads out of the cottage for
+dialog: a walk.
+dialog: 
+scene_heading: EXT. ROADWAY - HAMPTONS - DAY
+dialog: 
+text: CHARLIE is walking along the roadway and looking at the
+text: different cottages. He is carrying a notebook to which he
+text: periodically refers. He stops in front of a luxurious
+text: cottage and checks the address on the signpost with the one
+text: in his notebook beside which is listed the name GROPPI. He
+text: remains standing at a safe distance from the cottage staring
+text: at it. It looks deserted.
+dialog: 
+speaker_heading: FANTASY
+dialog: 
+dialog: 42.
+dialog: 
+dialog: 
+scene_heading: EXT. ROADWAY IN FRONT OF COTTAGE - DAY
+dialog: 
+text: CHARLIE walks directly to the front door of the cottage and
+text: rings the bell confidently. The door is opened immediately
+text: which startles him. From inside the house we see GROPPI'S
+text: back as he holds the door open. He is in a satin robe. We
+text: can see CHARLIE'S startled face through the partially opened
+dialog: door.
+dialog: 
+speaker_heading: GROPPI
+dialog: What do you want kid?
+dialog: 
+text: At that moment a nude girl, her back to the CAMERA appears
+text: in the FOREGROUND. This startles CHARLIE even more.
+dialog: 
+speaker_heading: GROPPI
+dialog: What do you want?.......well?
+dialog: 
+speaker_heading: CHARLIE
+dialog: I...I'm selling encyclopedias...er
+dialog: a magazines...newspapers...I'm
+dialog: conducting a survey...I...
+dialog: 
+speaker_heading: GROPPI
+dialog: We don't want no fuckin' books!
+dialog: 
+text: GROPPI slams the door in CHARLIE'S face.
+dialog: 
+speaker_heading: REALITY
+dialog: 
+scene_heading: EXT. ROADWAY IN FRONT OF COTTAGE - DAY
+dialog: 
+text: CHARLIE is still standing in front of the cottage. Suddenly
+text: a little boy of about nine appears.
+dialog: 
+speaker_heading: BOY
+dialog: There's nobody here mister.
+dialog: 
+text: CHARLIE turns in surprise.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Isn't this Jack Groppi's place?
+dialog: 
+speaker_heading: BOY
+dialog: Yeah. But he ain't here now.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Know where he is?
+dialog: 
+speaker_heading: BOY
+dialog: Follow me.
+dialog: 
+text: The BOY leads him towards a heavily overgrown treed area.
+dialog: 
+dialog: 43.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: How much farther?
+dialog: 
+text: CHARLIE repeats this question periodically as he follows the
+text: BOY. Finally CHARLIE finds himself alone in the middle of a
+text: dense forest with the BOY nowhere in sight. He calls out
+text: but there is no answer. He realizes he's been had.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONFESSION)
+dialog: Now, don't get excited.
+dialog: 
+text: CHARLIE is trying to find his way out of the forest.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUED)
+dialog: 'The stone which the builders'
+dialog: reject will become the
+dialog: cornerstone'...I think.
+dialog: 
+scene_heading: INT. ITALIAN CAFE - DAY
+dialog: 
+text: A loud brass band is playing "Oh Johnny, Oh Johnny, How You
+text: Can Love" inside the cafe. They are part of a religious
+text: festival and GIOVANNI has invited them in for drinks. In
+text: return they are playing for him. GIOVANNI has been drinking.
+text: The song ends.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Play it again!!!
+dialog: 
+text: Everyone laughs and joins in.
+dialog: 
+speaker_heading: EVERYONE
+dialog: One more time...play it again...
+dialog: 
+text: The band begins the song for the second time. CHARLIE
+text: enters the cafe and goes directly to his uncle who embraces
+dialog: him.
+dialog: 
+speaker_heading: GIOVANNI
+scene_heading: (SHOUTING BOISTEROUSLY
+dialog: over the music)
+dialog: Take a drink!
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (SHOUTING)
+dialog: Ok.
+dialog: 
+text: CHARLIE sits next to his uncle and looks around at the crowd
+text: in the cafe which is now singing along with the band.
+text: GIOVANNI is smiling broadly. Loud applause follow the end
+text: of the song and the band tries clumsily to make its way
+text: through the crowd and out of the cafe.
+dialog: 
+dialog: 44.
+dialog: 
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Hey, where you been?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (SMILING NERVOUSLY)
+dialog: Oh...around...why?
+dialog: 
+speaker_heading: GIOVANNI
+speaker_heading: (LEANING CLOSER)
+dialog: You heard what happened to GROPPI,
+dialog: eh?
+dialog: 
+text: CHARLIE gets very nervous at the mention of GROPPI'S name.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (INNOCENTLY)
+dialog: Who me? ...No, I don't know, not
+dialog: me...all I know is...
+dialog: 
+speaker_heading: GIOVANNI
+speaker_heading: (cuts CHARLIE off
+text: with a gesture of his forefinger)
+dialog: Our friend, Groppi, went to his
+dialog: mother's house. And when he was
+dialog: there...at night...
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: DARKENED ROOM - NIGHT
+dialog: 
+text: An old woman is sitting in front of the television watching
+text: JOHNNY CARSON'S TONIGHT SHOW.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: (continues in voice over)
+text: ...he walks into his mother's room
+text: where she's watching
+text: television...and he says to her...
+dialog: 
+text: GROPPI has entered the room with his back to the camera.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: ...that he's sorry.
+dialog: 
+text: GROPPI leaves the frame. The old woman looks up from the
+dialog: television.
+dialog: 
+speaker_heading: OLD WOMAN
+dialog: It's all right.
+dialog: 
+text: WE SEE GROPPI walking towards the bathroom.
+dialog: 
+dialog: 45.
+dialog: 
+dialog: 
+speaker_heading: GIOVANNI
+dialog: (voice over continued)
+dialog: ...he goes in the next room...
+dialog: 
+text: GROPPI TURNS ON the bathroom light.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: (voice over continued)
+text: ...he takes a gun and puts it in
+dialog: his mouth and...
+dialog: 
+text: GROPPI stands with the gun in his hand. He lifts it to his
+text: head. He puts the barrel into his mouth. He pulls the
+dialog: trigger.
+dialog: 
+text: FAST FADE TO WHITE
+dialog: 
+scene_heading: INT. ITALIAN CAFE - DAY
+dialog: 
+speaker_heading: GIOVANNI
+dialog: (with an Italian hand gesture)
+dialog: ...so...
+dialog: 
+text: CHARLIE is visibly shocked.
+dialog: 
+speaker_heading: GIOVANNI
+speaker_heading: (SMILING)
+dialog: How do you like that, eh? He was
+dialog: always a little crazy, y'know...
+dialog: Groppi... a little crazy.
+dialog: 
+text: CHARLIE looks up to see MICHAEL, standing at the entrance of
+text: the cafe. He waves to CHARLIE in a friendly manner. CHARLIE
+text: waves back and GIOVANNI looks up, squinting to see who it is.
+text: MICHAEL does not approach the table. In respect to GIOVANNI
+text: he signals to CHARLIE that he would like to see him outside.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (GRUDGINGLY)
+dialog: Not now...in a few minutes...ok?
+dialog: 
+text: MICHAEL is surprised at being spoken to in such a curt
+text: manner, especially in GIOVANNI'S presence because he feels
+text: he has lost status. CHARLIE and GIOVANNI continue their
+dialog: conversation.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. STREET CORNER - NEAR CAFE - DAY
+dialog: 
+speaker_heading: MICHAEL
+dialog: I gave him all the breaks I can give.
+dialog: 
+dialog: 46.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: Oh Michael, look...
+dialog: 
+speaker_heading: MICHAEL
+dialog: Nevamind 'look'...This punk
+dialog: bastard...I call him at work...I
+dialog: say 'Johnny Boy there?'...He
+dialog: doesn't even show up for work
+dialog: anymore...
+dialog: 
+speaker_heading: CHARLIE
+dialog: Look...I've talked to him and I've
+dialog: talked to him...what more can I
+dialog: do...? Tonight at the party all
+dialog: three of us get together and we
+dialog: knock some sense into his head...ok?
+dialog: 
+speaker_heading: MICHAEL
+dialog: All right...but understand, I don't
+dialog: like being taken advantage of. I
+dialog: mean you're in there talking with
+dialog: your uncle and all...This is
+text: embarassing.
+dialog: 
+speaker_heading: CHARLIE
+dialog: We'll settle it tonight.
+dialog: 
+text: Two YOUNG BOYS about 15 years old walk up to CHARLIE.
+dialog: 
+speaker_heading: BOY #1
+dialog: Hey, you sell firecrackers?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Firecrackers! No...no.
+dialog: 
+speaker_heading: BOY #1
+dialog: You know where we can get some?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Sure, see that guy over there...
+dialog: 
+text: He points to MICHAEL.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUING)
+dialog: ...him. He's got the best.
+dialog: 
+text: The BOYS go over to MICHAEL.
+dialog: 
+speaker_heading: BOY #1
+dialog: Hey - fella...you sell firecrackers?
+dialog: 
+dialog: 47.
+dialog: 
+dialog: 
+speaker_heading: MICHAEL
+dialog: Sssh! Quiet.
+dialog: (He looks around)
+dialog: Y'know that's illegal.
+dialog: 
+speaker_heading: BOY #2
+dialog: Well the guy over there said...
+dialog: 
+speaker_heading: MICHAEL
+speaker_heading: (INTERRUPTING)
+dialog: Yeah, yeah, never mind. You gotta
+dialog: be careful.
+dialog: 
+speaker_heading: BOY #1
+dialog: We went down to Chinatown but they
+dialog: don't have any.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Yeah, well, keep away from those
+dialog: Chinx. They don't have shit.
+dialog: 
+speaker_heading: BOY #2
+dialog: Well, we got $40, and we wanna buy...
+dialog: 
+speaker_heading: MICHAEL
+speaker_heading: (INTERRUPTING)
+dialog: All right! Quiet! For $40 I could
+dialog: give you...
+dialog: 
+speaker_heading: BOY #1
+dialog: Well, I don't know if we want to
+dialog: buy all $40 worth...
+dialog: 
+speaker_heading: MICHAEL
+dialog: Hey! You want good stuff, or you
+dialog: want shit?
+dialog: 
+speaker_heading: BOY #2
+dialog: Well, we want good stuff.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Well, my stuff comes from Maryland...
+dialog: you know what that means?
+dialog: 
+speaker_heading: BOY #1
+dialog: No.
+dialog: 
+speaker_heading: MICHAEL
+dialog: That means it's good.
+dialog: 
+speaker_heading: BOY #1
+dialog: You got sparklers?
+dialog: 
+dialog: 48.
+dialog: 
+dialog: 
+speaker_heading: MICHAEL
+dialog: Yeah.
+dialog: 
+speaker_heading: BOY #2
+dialog: And cherry bombs...ash cans...and
+dialog: rockets?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Ok. For another $5.00 a special on
+dialog: the packs.
+dialog: 
+speaker_heading: BOY #1
+dialog: No, all we got is $40.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You sure?
+dialog: 
+speaker_heading: BOYS
+dialog: Yeah.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Ok. Wait here.
+dialog: 
+text: MICHAEL goes to TONY, who has been standing in front of the
+text: cafe with a group of boys. They talk for a minute, and go
+text: back to the waiting boys.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (to the boys)
+dialog: C'mon. Get in the car.
+dialog: 
+text: The four of them get into TONY'S car. They drive to
+scene_heading: CHINATOWN.
+dialog: 
+scene_heading: EXT. CHINATOWN - DAY IN TONY'S CAR
+dialog: 
+speaker_heading: MICHAEL
+dialog: Ok, you guys get out, and wait here
+dialog: for me.
+dialog: 
+speaker_heading: BOYS
+dialog: Why?
+dialog: 
+speaker_heading: MICHAEL
+dialog: I gotta get the stuff.
+dialog: 
+speaker_heading: BOYS
+dialog: Can't we come with you?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Nobody sees where I get the stuff.
+dialog: That's good business. I'll be back
+dialog: in thirty minutes.
+dialog: 
+dialog: 49.
+dialog: 
+dialog: 
+text: They start to get out.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Hey hold it! Gimmie the cash.
+dialog: 
+speaker_heading: BOYS
+dialog: Uh...can we give you a check?
+dialog: 
+speaker_heading: MICHAEL
+dialog: A check? What the...hey, where you
+dialog: kids from?
+dialog: 
+speaker_heading: BOY #1
+dialog: Riverdale.
+dialog: 
+speaker_heading: MICHAEL
+speaker_heading: (CONTEMPTUOSLY)
+dialog: Well, maybe they do that in
+dialog: Riverdale, but down here we take
+dialog: cash. Now, you got it or not?
+dialog: 
+dialog: They give him the money.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Ok. Now wait here...and keep your
+dialog: mouths shut!
+dialog: 
+text: The car pulls away.
+dialog: 
+speaker_heading: TONY
+dialog: How much?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Not bad. $20. Here, $5.
+dialog: 
+speaker_heading: TONY
+dialog: Can you spare it?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Sure.
+dialog: 
+speaker_heading: TONY
+speaker_heading: (SARCASTICALLY)
+dialog: Thanks.
+dialog: 
+scene_heading: EXT. LOWER EAST SIDE - DAY
+dialog: 
+text: The car pulls up at TONY'S PLACE. TONY yells to CHARLIE,
+text: who is standing outside.
+dialog: 
+speaker_heading: TONY
+dialog: Hey Charlie. Get in.
+dialog: 
+text: CHARLIE gets in.
+dialog: 
+dialog: 50.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: What's a'matter?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Nothin'. Just stiffed those kids.
+dialog: Don't want'em comin' back and
+dialog: findin' you...start asking you
+dialog: questions.
+dialog: 
+speaker_heading: CHARLIE
+dialog: How much?
+dialog: 
+speaker_heading: MICHAEL
+dialog: $20.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Let's go to the movies...on you.
+dialog: 
+speaker_heading: TONY
+dialog: Yeah.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Ok guys...have a heart. This is my
+dialog: business.
+dialog: 
+scene_heading: BLACK &amp; WHITE
+dialog: 
+scene_heading: EXT. NIGHT - IN FRONT OF MOVIE THEATER
+dialog: 
+text: The boys are paying for their tickets.
+dialog: 
+scene_heading: INT. MOVIE THEATER - NIGHT
+dialog: 
+text: DONOVAN'S REEF is showing. We see a brief scene from the
+text: film which has JOHN WAYNE fighting LEE MARVIN in a big bar-
+text: room brawl.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: The boys smile and watch.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. CHINATOWN - NIGHT BLACK &amp; WHITE
+dialog: 
+text: The two boys from Riverdale are still watching on the
+text: corner, in the dark.
+dialog: 
+scene_heading: INT. CHARLIE'S APARTMENT - DAY
+dialog: 
+text: CHARLIE is at home shaving.
+dialog: 
+dialog: 51.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONFESSION)
+dialog: You know damn well what's going to
+dialog: happen tonight. I'll probably get
+dialog: drunk at that party...it isn't
+dialog: every day you send one of your best
+dialog: friends off to war for God and
+dialog: country... gotta have a party. I
+dialog: mean, he's a nice kid.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: CHARLIE is gluing on a fake beard.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (VOICE OVER)
+dialog: I don't know what You think of him
+dialog: but that's between You and him
+dialog: anyway...I can't help feeling sorry
+dialog: for him though. Has a talent but
+dialog: doesn't use it...His brain. An
+dialog: 'Unprofitable servant who shall be
+text: cast forth into the darkness
+dialog: outside, where there will be...
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: Television image of old women mourning their dead in India.
+text: The images are slow motion. The news continues with more
+dialog: trivial news images...(Washington investigations,
+dialog: demonstrations, etc.)
+dialog: 
+speaker_heading: CHARLIE
+dialog: (continued voice over)
+text: ...the weeping and the gnashing of
+dialog: teeth'...or something like that.
+dialog: My talent's my brain too but I use
+dialog: my talent...I'm not saying that I'm
+dialog: a genius...You'll probably be the
+dialog: first one to agree on that, but I
+dialog: can tell the difference between the
+dialog: intelligent and the stupid. Take
+dialog: the army for example...
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: CHARLIE grabbing a white robe off his bed. We don't see his
+dialog: face.
+dialog: 
+speaker_heading: CHARLIE
+dialog: (continued voice over)
+dialog: That's there and I'm here and
+dialog: that's the way it's going to stay!
+dialog: 
+dialog: 52.
+dialog: 
+dialog: 
+scene_heading: INT. WEST SIDE TENEMENT APARTMENT BATHROOM - NIGHT
+dialog: 
+text: TONY enters the bathroom, turns on the light and locks the
+text: door. Party noises can be heard in the background TONY is
+text: wearing an overcoat and is dressed as a World War I "dough
+text: boy". Atop his head is a mask, the features of which can't
+text: be seen. He opens the coat to reveal twenty packets of red
+text: Jello. He turns on the hot water in the bathtub and slowly
+text: begins to empty each packet of Jello into the tub of steaming
+dialog: water.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: LIVING ROOM &amp; KITCHENETTE - PARTY - NIGHT
+dialog: 
+text: Most of the characters that were at the club the other night
+text: are present at the party. Many of them are dressed in semi-
+text: masquerade outfits. Some are wearing soldiers' uniforms.
+text: One wears a sheet made up to be a Roman Toga. The girls are
+text: in costumes also. All of the costumes are makeshift.
+text: MICHAEL is made up as Dracula, sporting a large cape, semi
+text: tuxedo-type suit, and a drop of blood on the corner of his
+text: mouth. His hair is slicked back to give him a "Bela Lugosi"
+text: look. He is showing a picture of a girl to one of the boys,
+text: proudly proclaiming that she is his latest conquest. TONY
+text: comes out of the bathroom and passes by. He takes the photo
+text: from MICHAEL. Group attention focuses on TONY now. He
+text: stares at the picture, holds it away from him, then closer
+text: to his face, then sideways and finally upside-down.
+dialog: 
+speaker_heading: TERESA
+dialog: Oh sure! I know her Michael...In
+dialog: fact, I saw her a few days ago
+text: under a bridge in Jersey, making
+text: out with a nigger.
+dialog: 
+text: MICHAEL grimaces in shock. He spits.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You sure?...a nigger...Uh!...and I
+dialog: kissed her.
+dialog: 
+text: He wipes his lips with his cape.
+dialog: 
+text: The guest of honor, the young soldier is very drunk. He is
+text: attempting to open his going away presents, one of which
+text: turns out to be a carefully folded American flag. He
+text: attempts to open it with one great flourish. He fails
+text: however, knocking over the glasses on the table. The group
+text: applauds.
+dialog: 
+dialog: 53.
+dialog: 
+dialog: 
+text: Suddenly, the doorbell rings and everyone looks up. The
+text: door opens and CHARLIE appears, arms outstretched, dressed
+text: as the ressurected Christ - with white robes, fake beard and
+text: hair, and artificial wounds. His arms stretch out wider.
+text: The initial shock wears off and TONY greets him.
+dialog: 
+speaker_heading: TONY
+speaker_heading: (SMILING)
+dialog: Hallelujah!!
+dialog: 
+text: CHARLIE enters in mock holiness.
+dialog: 
+speaker_heading: CHARLIE
+dialog: I have come to create order...
+dialog: Scotch and water please.
+dialog: 
+text: They all laugh. The rock music blares as CHARLIE walks to
+text: and fro blessing all in the room. TONY is delighted with
+text: the scene. CHARLIE sits at the kitchen table, TONY opposite
+text: him, and the others gather around. The party is getting
+text: noisier. TONY gives CHARLIE a glass of ice cubes. CHARLIE
+text: plays the part of a priest, during the Mass when the chalice
+text: is filled with wine and water, TONY pours the scotch over
+text: his fingers first.
+dialog: 
+text: CHARLIE lifts his hands to touch the bottle as a priest
+text: would. He signifies that there is enough in the glass.
+text: TONY then repeats the same ritual with a bottle of soda-water.
+dialog: 
+speaker_heading: CHARLIE
+dialog: May God be with you.
+dialog: 
+speaker_heading: TONY
+dialog: 'And with your spirit.'
+dialog: 
+speaker_heading: CHARLIE
+dialog: (gesturing with his drink)
+dialog: Salute!!!
+dialog: 
+text: Everyone drinks after repeating the toast. The crowd around
+text: them begins to break up as CHARLIE and TONY begin to have
+text: fun with each other. TONY pulls down his mask, revealing a
+text: skeleton death face which covers his own face except for his
+text: mouth. It completes the Dough-boy uniform quite well.
+dialog: 
+speaker_heading: TONY
+dialog: (taking on the guise
+dialog: of an interviewer)
+dialog: 'Art thou the King of the Jews'?
+dialog: 
+speaker_heading: CHARLIE
+dialog: 'Dost thou say this of thyself, or
+dialog: have others told thee of me?'
+dialog: 
+dialog: 54.
+dialog: 
+dialog: 
+speaker_heading: TONY
+dialog: 'Am I a Jew? Thy own people and
+dialog: the chief priests have delivered
+dialog: thee to me. What hast thou done?'
+dialog: 
+text: MICHAEL and a few of the others gather around again as they
+dialog: continue.
+dialog: 
+speaker_heading: CHARLIE
+dialog: 'My kingdom is not of this world.
+dialog: If my kingdom were of this world my
+dialog: followers would have fought that I
+dialog: might not be delivered to the Jews.
+dialog: But, as it is my kingdom is not
+dialog: from here.'
+dialog: 
+speaker_heading: TONY
+dialog: 'Thou art then a king?'
+dialog: 
+speaker_heading: CHARLIE
+dialog: 'Thou sayest it; I am a king. This
+dialog: is why I was born and why I have
+dialog: come into this world, to bear
+dialog: witness to the truth. Everyone who
+dialog: is of the truth hears my voice.'
+dialog: 
+text: TONY leans over towards CHARLIE.
+dialog: 
+speaker_heading: TONY
+dialog: 'What is the truth?'
+dialog: 
+text: The others around them give mock applause. TONY smiles and
+text: nods his head to them. CHARLIE laughs. They drink. Someone
+text: hits CHARLIE on the back of the head. CHARLIE startled,
+text: looks up.
+dialog: 
+speaker_heading: TONY
+dialog: Prophesy to us, oh Christ! Who is
+dialog: it that struck thee?
+dialog: 
+speaker_heading: CHARLIE
+dialog: I don't know, but God help him if
+dialog: he does it again!
+dialog: 
+text: They all laugh.
+dialog: 
+scene_heading: INT. SAME APARTMENT - NEXT ROOM - NIGHT
+dialog: 
+text: CHARLIE is talking to MICHAEL. The conversation is serious.
+text: CHARLIE has not lost his sense of humor.
+dialog: 
+speaker_heading: CHARLIE
+dialog: He said he'd be here.
+dialog: 
+dialog: 55.
+dialog: 
+dialog: 
+speaker_heading: MICHAEL
+dialog: Well, he isn't. Nice...real nice.
+dialog: 
+speaker_heading: CHARLIE
+dialog: He'll be here. Look, take this for
+dialog: now.
+dialog: 
+text: He hands MICHAEL a twenty dollar bill from under his robe.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You kiddin. The way it is now this
+dialog: isn't even interest for two hours.
+dialog: 
+speaker_heading: CHARLIE
+dialog: (putting the bill
+dialog: back into his pocket)
+dialog: How much was the original loan again?
+dialog: 
+speaker_heading: MICHAEL
+dialog: $500. He borrowed that because he
+dialog: wanted to pay off his other loans...
+dialog: now, counting the interest...it's
+dialog: almost $3,000.
+dialog: 
+speaker_heading: CHARLIE
+dialog: $3,000. Shit! Can we hold it at
+dialog: $3,000?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Charlie, this is business.
+dialog: 
+speaker_heading: CHARLIE
+dialog: (avoiding the issue)
+dialog: 'But I say to you, love your
+dialog: enemies, do good to those who hate
+dialog: you, and pray for those who
+dialog: persecute...'
+dialog: 
+speaker_heading: MICHAEL
+dialog: I'll tell you who you can pray
+dialog: for... Next payday, I'll be at
+dialog: Tony's Place...Johnny better show
+dialog: or I find him and break his
+dialog: legs...and I mean it.
+dialog: 
+speaker_heading: CHARLIE
+dialog: (in the same manner)
+dialog: 'But I say to you not to resist the
+dialog: evildoer; on the contrary, if
+dialog: someone takes thy tunic, let him
+dialog: take thy cloak as well...to him who
+dialog: asks of thee, give; and from him
+dialog: who would borrow of thee do not
+dialog: turn away!
+dialog: 
+dialog: 56.
+dialog: 
+dialog: 
+speaker_heading: MICHAEL
+speaker_heading: (EXASPERATED)
+dialog: He could at least show some respect
+dialog: and show his face, even if he
+dialog: doesn't have the money...
+dialog: 
+speaker_heading: CHARLIE
+dialog: (more serious now)
+dialog: 'Amen I say to thee, thou wilt not
+dialog: come out from it until thou hast
+dialog: paid the last penny.'
+dialog: 
+speaker_heading: MICHAEL
+dialog: You said it.
+dialog: 
+text: A loud scream is heard from the bathroom.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: APARTMENT - BATHROOM - NIGHT
+dialog: 
+text: Someone shoved a nude girl into the bathtub which is now
+text: filled with congealed red jello. The boys are laughing and
+text: shoving each other about roughly. CHARLIE comes out of the
+text: next room and walks along in a Christ like manner through
+text: the madness, his arms outstretched. One boy kneels and
+text: kisses the hem of his robe and CHARLIE blesses him. There
+text: is a great deal of pushing and shoving going on inside the
+text: bathroom and near the doorway. CHARLIE promises to save the
+text: sinner as he pushes his way through. He helps the girl
+text: remove the jello from her body and helps her out of the
+text: bathtub. It is obvious that she is quite stoned. She
+text: caresses him and they find themselves kissing. The others
+text: storm into the bathroom and grab CHARLIE.
+dialog: 
+speaker_heading: EVERYONE
+dialog: Blasphemy!...The anti-Christ!
+dialog: Crucify him!!
+dialog: 
+text: They drag CHARLIE into the next room where, amidst all the
+text: shouting and laughing, the other members of the party are
+text: placing firecrackers on model airplanes, simulating their
+text: own "dog fight". They are flying the planes out the open
+dialog: window.
+dialog: 
+text: CHARLIE takes everything in stride trying to shout a few
+text: lines over their laughter.
+dialog: 
+speaker_heading: CHARLIE
+dialog: 'Father...forgive them...for they
+dialog: know not...what they do...'
+dialog: 
+text: The doorbell rings and TONY answers it. It is TERESA and
+text: she looks very worried.
+dialog: 
+dialog: 57.
+dialog: 
+dialog: 
+speaker_heading: TERESA
+dialog: Charlie...? Charlie here...?
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: BLACK &amp; WHITE
+dialog: 
+scene_heading: EXT. STREET - NIGHT
+dialog: 
+text: CHARLIE and TERESA dash from a tenement doorway. CHARLIE is
+text: still in beard and wig but his robes are open so they give
+text: the effect of being a bulky overcoat.
+dialog: 
+speaker_heading: TERESA
+speaker_heading: (FRANTICALLY)
+text: The building on the corner. That
+dialog: one! He's been on the roof a half
+dialog: hour now!
+dialog: 
+speaker_heading: CHARLIE
+dialog: Now don't get excited. Don't get
+dialog: excited!!
+dialog: 
+text: It is very late and the streets are deserted. At the corner
+text: of the building in question, a few of JOHNNY BOY'S friends
+text: cling to the wall for safety. When they see CHARLIE and
+text: TERESA they call out.
+dialog: 
+speaker_heading: FRIENDS
+dialog: Charlie, stay there...He's crazy...
+dialog: He's got a 22.
+dialog: 
+text: TERESA gets up against a wall. CHARLIE sends her down the
+text: block and she leaves reluctantly.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Johnny it's me, Charlie.
+dialog: 
+text: JOHNNY BOY can now be seen silhouetted against the moonlight
+text: on the tenement roof. He has a gun in his hand.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Don't come any closer!!!
+dialog: 
+speaker_heading: CHARLIE
+dialog: Cut it out stupid. It's me.
+dialog: 
+text: JOHNNY BOY fires a shot into the air. CHARLIE clings to the
+text: wall with the others. A moment later he makes a quick run
+text: for the doorway of the building across the street. He
+text: enters the building that leads to the roof.
+dialog: 
+scene_heading: BLACK &amp; WHITE
+dialog: 
+dialog: 58.
+dialog: 
+dialog: 
+scene_heading: EXT. TENEMENT ROOF - NIGHT
+dialog: 
+text: CHARLIE has reached the roof.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Charlie...pssst. Over here.
+dialog: 
+text: He laughs with glee.
+dialog: 
+speaker_heading: CHARLIE
+dialog: What are you...crazy?
+dialog: 
+text: He slaps JOHNNY BOY on the back of the head.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Hey...don't do that...I'm only
+text: scaring them.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Stupid bastard...you get your
+dialog: cousin half-sick over this.
+dialog: 
+text: The boys below are still clinging to the walls of the
+text: building. JOHNNY is oblivious to CHARLIE'S statement.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Watch this.
+dialog: 
+text: He takes out a home made firecracker consisting of glass
+text: cigar tubing filled with gunpowder and a waxed fuse stick
+text: through the top layer of cork. He lights it.
+dialog: 
+speaker_heading: CHARLIE
+dialog: What the fuck...
+dialog: 
+text: JOHNNY BOY tosses it over the building and it blows up in
+text: mid-air. The boys below rush madly away. Lights go on in
+text: the tenements around them. The explosion was quite loud.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Let's get out of here.
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (LAUGHING)
+dialog: Did you see them run!
+dialog: 
+scene_heading: BLACK &amp; WHITE
+dialog: 
+scene_heading: EXT. CEMETARY - NIGHT
+dialog: 
+text: CHARLIE and JOHNNY BOY are sneaking over a fence in an old
+dialog: cemetary which is part of their neighborhood. It surrounds
+dialog: their church and dates back to the beginning of the 19th
+text: century. No one is buried there any longer.
+dialog: 
+dialog: 59.
+dialog: 
+dialog: 
+text: It is very quiet and dark. They sit and rest. CHARLIE is
+text: still in his makeup.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I swear to God Charlie...my arm
+text: still hurts from the car
+dialog: accident...that's why I didn't go
+dialog: to work. I swear it.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (ANGRY)
+dialog: That's not going to help.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I'm going to work this week...I
+dialog: mean it.
+dialog: 
+speaker_heading: CHARLIE
+dialog: It's impossible for you to catch up
+dialog: on the loan now...the interest is
+dialog: going up...$3,000...do you realize
+dialog: that, flash?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I'm sorry Charlie...I didn't mean it.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Big deal...in the meantime, it's
+dialog: done...I'll still try to help you
+dialog: out...You know that...but you gotta
+dialog: show some effort...some respect...
+dialog: understand?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Charlie, you know the best way to
+dialog: take care of this whole mess.
+dialog: 
+speaker_heading: CHARLIE
+dialog: How?
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (COAXING)
+dialog: If you had a little talk with your
+dialog: uncle...if anybody can do it, he can.
+dialog: 
+speaker_heading: CHARLIE
+dialog: That'll help you out fine. That's
+dialog: the best way for you, not for me!
+dialog: I swear to God, I'll rip you open
+dialog: if my uncle ever hears a word about
+dialog: this. You understand? I don't
+dialog: care what happens, he doesn't find
+dialog: out.
+speaker_heading: (MORE)
+dialog: 
+dialog: 60.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE (CONT'D)
+dialog: I don't get involved with anything,
+dialog: you understand that? Nothing! I'm
+dialog: clean as far as you know...right?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Yeah, take it easy. Will you relax.
+dialog: 
+speaker_heading: CHARLIE
+dialog: That's what I get for getting
+dialog: involved. Look, on pay-day at
+dialog: least show up at Tony's Place to
+dialog: meet him, ok? This way he doesn't
+dialog: think that you're trying to screw
+dialog: him. If you show good faith and
+dialog: save his face maybe we can talk and
+dialog: he'll take off the interest or make
+dialog: different payment arrangements or
+dialog: something... understand? I'm not
+dialog: asking I'm telling you!!
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I understand.
+dialog: 
+text: JOHNNY BOY closes his eyes. CHARLIE looks at JOHNNY BOY and
+text: then looks at the cemetary in the moonlight. It seems
+text: totally apart from the city with the sirens and cars far in
+dialog: the distance.
+dialog: 
+text: CHARLIE stands and unravels his robes, preparing to take
+text: them off. He projects the image of Christ delivering a
+text: sermon. Music and laughter in the distance catches his
+text: attention. The lights and the music are coming from the top
+text: floor of a tenement building where a Puerto Rican family is
+text: having a party. The sound echoes through the streets.
+text: Decorations are hanging and blowing away through the open
+text: windows. As CHARLIE watches a fight break out over one of
+text: the girls. Screams are heard. People run up and down the
+dialog: fire escape.
+dialog: 
+text: CHARLIE has pulled off the robe. He now removes the beard
+text: and wig and has become himself again. He leans over to find
+text: JOHNNY BOY fast asleep on a tomb.
+dialog: 
+speaker_heading: CHARLIE
+dialog: 'Could you not, then, watch one
+dialog: hour with me?'
+dialog: 
+text: He wakes JOHNNY BOY up.
+dialog: 
+speaker_heading: CHARLIE
+dialog: 'The spirit is willing but the
+dialog: flesh is weak.'
+dialog: 
+dialog: 61.
+dialog: 
+dialog: 
+text: They leave.
+dialog: 
+scene_heading: INT. OSCAR'S RESTAURANT - NIGHT
+dialog: 
+text: CHARLIE is sitting in the corner. The restaurant is in the
+dialog: same condition that it was the last time he was there.
+text: While CHARLIE waits for his uncle in his semi-private
+text: corner, a handful of old Mafiosi, invited by GIOVANNI, sit
+text: at another table. GIOVANNI enters with MARIO. The old
+text: Mafiosi are greeted first. They rise and kiss GIOVANNI on
+text: the cheek. CHARLIE is very impressed at their respectful
+text: showing. The waitresses and everyone else in the club treat
+dialog: them all like royalty.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: OSCAR approaches the table where CHARLIE, GIOVANNI, and
+text: MARIO are seated and greets them warmly.
+dialog: 
+speaker_heading: OSCAR
+dialog: Put the menus away. I, personally
+dialog: do the cooking tonight.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Fine...that's why I'm here.
+dialog: 
+speaker_heading: MARIO
+dialog: Calamari?
+dialog: 
+speaker_heading: OSCAR
+dialog: Capozelle, Calamari...anything you
+dialog: want...
+dialog: 
+speaker_heading: GIOVANNI
+speaker_heading: (POURING WINE)
+dialog: Drink.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. OSCAR'S RESTAURANT - LATER IN THE MEAL
+dialog: 
+speaker_heading: OSCAR sits.
+dialog: 
+speaker_heading: OSCAR
+dialog: Giovanni...er...can I talk?
+dialog: 
+text: Refering to CHARLIE.
+dialog: 
+text: GIOVANNI nods his head yes.
+dialog: 
+speaker_heading: OSCAR
+dialog: About the place, Giovanni...
+dialog: 
+dialog: 62.
+dialog: 
+dialog: 
+speaker_heading: GIOVANNI
+dialog: ...I know all about it. We'll
+dialog: discuss it later.
+dialog: 
+speaker_heading: OSCAR
+speaker_heading: (CONTINUING)
+dialog: Our arrangements about the place
+dialog: haven't changed, have they? I
+dialog: mean...
+dialog: 
+speaker_heading: GIOVANNI
+speaker_heading: (GOOD-NATUREDLY)
+dialog: No, no, not at all...look, we leave
+dialog: it the way it is for now, we talk
+dialog: later, understand?
+dialog: 
+speaker_heading: OSCAR
+speaker_heading: (SOMEWHAT RELIEVED)
+dialog: Sure, Giovanni...I understand.
+dialog: I'll bring the clams now.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. OSCAR'S RESTAURANT - DURING DINNER
+dialog: 
+text: CHARLIE is visible awed by GIOVANNI and MARIO'S confidence
+text: and power. He is behaving as if he were at a job
+dialog: interview...very formally. CHARLIE had often had dinner
+text: with his uncle but this time the conversation is more
+text: pointed. Their conversation is mostly in ITALIAN WITH
+text: ENGLISH TITLES. They are discusssing GROPPI'S suicide.
+dialog: 
+speaker_heading: CHARLIE
+dialog: I really couldn't believe it when
+dialog: you told me, you know that?
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Well, he was always a little
+dialog: crazy... he puts a gun in his
+dialog: mouth...
+speaker_heading: (HE SMILES)
+dialog: ...like your friend...comme si
+dialog: chiama...Henning? Heming?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Hemmingway. Killed himself. I was
+dialog: more upset about that than about
+dialog: Groppi, that's for sure.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: (laughing to MARIO)
+dialog: You know, this boy over here, once,
+dialog: long time ago, tried to enrich my
+dialog: mind...so he gives me a book by
+dialog: this Hemin fella...to read, so I
+dialog: read it.
+dialog: 
+dialog: 63.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: Wasn't a book...was a short story.
+dialog: 
+speaker_heading: MARIO
+dialog: What was it?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (EMBARRASSED)
+dialog: Nothing.
+dialog: 
+speaker_heading: MARIO
+dialog: No, c'mon...Y'know, I read.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (MUTTERING)
+dialog: "Francis Macomber."
+dialog: 
+speaker_heading: MARIO
+dialog: Wha?
+dialog: 
+text: THE CONVERSATION IS NOW ENGLISH.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (SOFTLY)
+dialog: "Short Happy Life of Francis
+dialog: Macomber."
+dialog: 
+speaker_heading: MARIO
+dialog: Oh yeah...didn't read it but I saw
+dialog: the movie...Gregory Peck...pretty
+dialog: good.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Yeh, Mario over here, he reads a lot.
+dialog: 
+speaker_heading: IN ITALIAN.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Surprised?
+dialog: 
+speaker_heading: MARIO
+dialog: I like this Harold Robbins...
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (POLITELY)
+dialog: Oh yes, he's pretty good.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: What I don't understand is why you
+dialog: have to go to college to read these
+dialog: books that you're gonna read anyway.
+dialog: 
+dialog: 64.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: It's only a couple of courses...just
+dialog: for the draft.
+dialog: 
+speaker_heading: MARIO
+dialog: Charlie, couple of courses isn't
+dialog: enough to get you student deferred...
+dialog: I mean if they wanted to draft you,
+dialog: you would've been drafted by now.
+dialog: 
+text: CHARLIE feels that it would be better not to pursue the point.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: What Mario's trying to tell you,
+dialog: Charlie, is that you're wasting
+dialog: your time with those "couple of
+dialog: courses" ...you don't need them.
+dialog: There are a lot of things that can
+dialog: be taken care of...you know what I
+dialog: mean?
+dialog: 
+text: They all laugh.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+text: They become aware of the T.V. set which is on in the rear of
+text: the back room where they are dining. The news is
+dialog: on...politics, society, and war.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: These politicians...they talk nice.
+dialog: 
+text: CHARLIE listen attentively, but obviously has heard
+dialog: GIOVANNI'S philosophy before.
+dialog: 
+speaker_heading: GIOVANNI
+speaker_heading: (CONTINUING)
+dialog: ...but it's the same thing, all the
+dialog: same...they're in there by having
+dialog: something on somebody...and when
+dialog: that doesn't work...they fight...Our
+dialog: life has honor...we have no show to
+dialog: put on because we do what we have
+dialog: to do. They know where to come
+dialog: when they need us. I realize this
+dialog: during the war...World War II...Vito
+dialog: Genovese... during WWII he worked
+dialog: with the government, taking care of
+dialog: the docks...
+dialog: 
+speaker_heading: CHARLIE
+dialog: What did he do?
+dialog: 
+dialog: 65.
+dialog: 
+dialog: 
+speaker_heading: GIOVANNI
+dialog: What did he do? He was there...
+dialog: that's what he did.
+dialog: 
+speaker_heading: MARIO
+dialog: In the fifties when the communists
+dialog: started in with this country and
+dialog: they tried to clean them out, we
+dialog: offered to do it for them...but
+dialog: they didn't want us to...so we kept
+dialog: out of it.
+dialog: 
+text: CHARLIE nods.
+dialog: 
+speaker_heading: GIOVANNI
+speaker_heading: (TO CHARLIE)
+dialog: I told this...the same thing to
+dialog: your father thirty years ago...I
+dialog: told him what to do...but he didn't
+dialog: listen.
+dialog: 
+scene_heading: INT. OSCAR'S RESTAURANT - COFFEE
+dialog: 
+text: The conversation turns to more direct topics while they have
+dialog: their coffee and ainsette.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: You're still around with that kid
+dialog: Johnny Boy...last night with that
+dialog: gun...Don't get mixed up with them.
+dialog: This Johnny Boy, you know, he's
+dialog: named after me...
+speaker_heading: (SARCASTIC)
+dialog: nice, eh? This Johnny Boy is like
+dialog: your mister Groppi...a little crazy.
+dialog: It's nice you should help him out
+dialog: because of his family and our
+dialog: family but watch yourself...Don't
+dialog: spoil anything.
+dialog: 
+text: CHARLIE nods, feeling very uneasy.
+dialog: 
+speaker_heading: GIOVANNI
+speaker_heading: (CONFIDENTIALLY)
+dialog: His whole family has problems...his
+text: cousin, the girl who lives next
+dialog: door to you...
+dialog: 
+speaker_heading: CHARLIE
+dialog: Teresa.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: ...The one who's sick, right? In
+dialog: the head.
+dialog: 
+dialog: 66.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: No, she's got epilepsy.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Yeah. That's what I said, sick in
+dialog: the head.
+dialog: 
+text: CHARLIE nods.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Her mother and father come to me
+dialog: and ask advice...she wants to
+dialog: leave...get her own
+dialog: apartment...worries them sick...what
+dialog: am I gonna tell them? Lock her up?
+dialog: 
+speaker_heading: CHARLIE
+dialog: What do they expect you to say?
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Who knows? It's not hard to figure
+dialog: out what she'll wind up like. When
+dialog: the respect for parents breaks
+dialog: down, that's bad...you know I'm
+dialog: "cumpari" with them...so I take an
+dialog: interest. You live next door, keep
+dialog: an eye open...but don't get involved.
+dialog: 
+speaker_heading: CHARLIE
+dialog: All right.
+dialog: 
+speaker_heading: MARIO
+dialog: Why don't you take a look around
+dialog: the place if you want?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Oh, that's ok...I've been in and
+dialog: out of this place fifty times.
+dialog: 
+speaker_heading: GIOVANNI
+dialog: Well, maybe you missed something?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CATCHING ON)
+dialog: Oh yeah, that's a possibility.
+dialog: 
+text: CHARLIE heads for the kitchen.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONFESSION)
+dialog: ...looks good...things look good,
+dialog: if I may say so myself. Don't you
+dialog: agree? Unless there's something
+dialog: You know that I don't know?
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: 67.
+dialog: 
+dialog: 
+scene_heading: INT. OSCAR'S RESTAURANT KITCHEN - NIGHT
+dialog: 
+text: CHARLIE is examining the kitchen closely. A black cook is
+text: working hard, taking a piece of meat off the grill. He
+text: carefully prepares a dish.
+dialog: 
+speaker_heading: COOK
+dialog: Hi Charlie.
+dialog: 
+text: CHARLIE smiles and moves in closer to the grill. The cook
+text: is sweating and mopping his brow.
+dialog: 
+speaker_heading: COOK
+speaker_heading: (CONTINUING)
+dialog: Man, it's hot as Hell in here,
+dialog: every day like going through Hell
+dialog: in here.
+dialog: 
+text: CHARLIE moves in closer and the COOK continues preparing the
+dialog: food.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (SMILING)
+dialog: Hot as hell...You're not the only
+dialog: one going through Hell kid.
+dialog: 
+speaker_heading: COOK
+dialog: Maybe so...but at this pay it ain't
+dialog: worth it...that much I can tell you.
+dialog: 
+text: CHARLIE hasn't been listening to the COOK. He has become
+text: fascinated with the flames on the grill. They remind him of
+text: an old device from his Catholic School days. CHARLIE brings
+text: his hand forward and closer to the fire, testing the pain of
+dialog: the "Fires of Hell."
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONFESSION)
+dialog: 'If thy hand is an occasion of sin
+dialog: to thee, cut it off. It is better
+dialog: for thee to enter into life maimed
+dialog: than having two hands to go into
+text: hell, into the unquenchable fire.
+dialog: 'Where their worm dies not and the
+dialog: fire is not quenched.'
+dialog: 
+text: CHARLIE'S hand touches the flame. He winces. Music in.
+dialog: 
+scene_heading: INT. TONY'S CAR (NEW CADILLAC CONVERTIBLE-TOP UP) - DAY
+dialog: 
+text: CHARLIE, JOHNNY, TONY and JIMMY are driving along in TONY'S
+text: car. As they talk, a derelict takes advantage of a red
+text: light to wipe their windshield.
+dialog: 
+dialog: 68.
+dialog: 
+dialog: 
+text: TONY rolls up the window and rolls the car forward a bit to
+text: force the derelict out of the way.
+dialog: 
+speaker_heading: TONY
+dialog: Is it near Sullivan Street?
+dialog: 
+speaker_heading: JIMMY
+dialog: No - by Bedford.
+dialog: 
+speaker_heading: TONY
+dialog: Oh - you gotta show me. I always
+dialog: get lost in the village.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Next time, bet with your own kind.
+dialog: 
+speaker_heading: JIMMY
+dialog: The number was 235 - I bet it
+dialog: combination.
+dialog: 
+speaker_heading: CHARLIE
+dialog: It'll be OK - I know those guys.
+dialog: They won't stiff you.
+dialog: 
+speaker_heading: JIMMY
+dialog: I bet 235. Because I dreamt of my
+dialog: grandfather - and when he died, the
+dialog: number of the funeral parlour was
+dialog: 235 - so when I dreamt...
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Yeah, yeah - enough.
+dialog: 
+text: They arrive at the bar.
+dialog: 
+speaker_heading: JOEY
+dialog: Hello Charlie, you canonized yet?
+dialog: 
+speaker_heading: CHARLIE
+dialog: No - not yet - just blessed.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: Boys are in mid-discussion.
+dialog: 
+speaker_heading: JIMMY
+dialog: On Friday, the 25th--I placed it
+scene_heading: WITH SALLY--
+dialog: 
+speaker_heading: JOEY
+speaker_heading: (BEING DISTRACT)
+dialog: I never heard of it.
+dialog: 
+dialog: 69.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: Oh Joey, really...we're all friends
+dialog: here--let's cut the bullshit.
+dialog: 
+speaker_heading: JOEY
+dialog: (begins to chuckle)
+dialog: ...Well...
+speaker_heading: (TO JIMMY)
+dialog: you got a good friend here--come to
+dialog: think of it, I do remember now.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: (under his breath)
+speaker_heading: SCUMBAG--
+dialog: 
+speaker_heading: TONY
+speaker_heading: (nudging JOHNNY BOY)
+dialog: (under his breath)
+dialog: Shut up.
+dialog: 
+speaker_heading: JOEY
+speaker_heading: (MAKING EXCUSE)
+dialog: Well, Friday's are busy--a mistake
+dialog: can be made y'know. Have another
+dialog: drink.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Whatever, just lets settle this and
+dialog: it's all forgotten.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I don't forget nothin.
+dialog: 
+text: JOEY looks at JOHNNY BOY but decides to let it pass. CHARLIE
+text: gives JOHNNY BOY a dirty look. Music is playing on a juke
+text: box. Several girls stand nearby listening to both the music
+text: and the discussion. JOHNNY BOY looks over at them and then
+speaker_heading: at JOEY.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Lower the fuckin music--I can't
+dialog: hear nothin.
+dialog: 
+speaker_heading: JOEY
+dialog: The girls like it loud.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Girls? You call those skanks girls?!
+dialog: 
+text: JOEY, his friends, and the girls all look up. JOEY'S
+dialog: attitude changes.
+dialog: 
+dialog: 70.
+dialog: 
+dialog: 
+speaker_heading: JOEY
+speaker_heading: (TO CHARLIE)
+dialog: What's the matter with this kid?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I feel fine--nothing wrong with me.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Keep your mouth shut.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: You tell me that in front of these
+dialog: creeps?
+dialog: 
+speaker_heading: JOEY
+dialog: We won't pay...
+dialog: 
+speaker_heading: JIMMY
+dialog: Why? We just said...
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (INTERRUPTING)
+dialog: We won't pay...because this guy
+speaker_heading: (pointing to JIMMY)
+dialog: is a...mook.
+dialog: 
+speaker_heading: JIMMY
+dialog: But I didn't say nothin.
+dialog: 
+text: The fellows look at each other bewildered.
+dialog: 
+speaker_heading: JOEY
+speaker_heading: (TO JIMMY)
+dialog: We don't pay mooks!
+dialog: 
+text: Nobody knows what a mook is. JIMMY'S attitude now changes.
+dialog: 
+speaker_heading: JIMMY
+speaker_heading: (ANGRILY)
+dialog: A mook...I'm a mook...
+speaker_heading: (PAUSES)
+dialog: What's a mook?
+dialog: 
+text: CHARLIE can no longer control the situation as tempers rise.
+dialog: 
+speaker_heading: JIMMY
+dialog: You can't call me a mook!
+dialog: 
+text: JIMMY swings at JOEY. A fight breaks out. JIMMY, CHARLIE,
+text: TONY and JOHNNY BOY are beaten. CHARLIE, not badly hurt
+text: manages to calm everything down. The police arrive to break
+text: up the fight. People look iin as the two cops walk into the
+text: bar. The boys stop fighting immediately as they see the
+dialog: cops.
+dialog: 
+dialog: 71.
+dialog: 
+dialog: 
+text: In fact, they treat CHARLIE and the others as friends--
+text: helping them up off the floor, dusting off the clothes, etc.
+text: The police search everyone. When they ask who started it--
+dialog: what happened, etc. everybody including CHARLIE and the
+dialog: others cover for everyone else. "It was a joke officer"
+dialog: "He's my cousin" "We were just kidding," etc.
+dialog: 
+text: The cops nod. "Play nice now" and leave.
+dialog: 
+text: Everyone apologizes to each other. They drink again.
+text: JOHNNY BOY doesn't say a word--just stares.
+dialog: 
+speaker_heading: JOEY
+dialog: We were gonna pay you Jimmy, we
+dialog: just don't like being moved in on.
+dialog: 
+speaker_heading: CHARLIE
+dialog: C'mon -- I'm movin' in on you?
+dialog: Let's have another drink and forget
+dialog: about it.
+dialog: 
+text: They drink again. JOEY gives JIMMY the money, JIMMY goes to
+dialog: count it.
+dialog: 
+speaker_heading: JOEY
+dialog: Don't count it...it's all there.
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (SARCASTIC)
+dialog: Count it.
+dialog: 
+speaker_heading: JOEY
+dialog: Hey, c'mon - no bullshit - friends.
+dialog: 
+text: JOEY extends his hand. JIMMY and CHARLIE shake. JOEY
+text: extends his hand to JOHNNY.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Don't fuckin' touch me - scumbag.
+dialog: 
+text: CHARLIE and the others "Oh no."
+dialog: 
+speaker_heading: CHARLIE
+dialog: Shut up stupid.
+dialog: 
+text: He is interrupted by a flying fist. The fight breaks out
+text: anew. They barely make it to the door. JIMMY is out first,
+text: with his cash. They run down the street. The west side
+text: boys don't chase them but stand by their bar shouting after
+dialog: them.
+dialog: 
+text: JOHNNY is laughing as he runs. CHARLIE yells at him.
+dialog: 
+dialog: 72.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: You got some mouth!
+dialog: 
+speaker_heading: JIMMY
+dialog: Johnny, you're a real jerk-off.
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (LAUGHING)
+dialog: What're ya hollering? You got your
+dialog: money.
+dialog: 
+text: They reach the car. TONY heads in first behind the wheel.
+dialog: 
+speaker_heading: TONY
+dialog: (about to take off)
+dialog: Fuck youse all.
+dialog: 
+text: The others jump in.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You got no honor Tony. Charge!
+dialog: 
+text: The car starts off.
+dialog: 
+text: Garbage and garbage pails are tosses after them as the boys
+dialog: take off.
+dialog: 
+scene_heading: INT. TONY'S PLACE
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: A LONG-HAIRED ROCK GROUP
+dialog: 
+text: The lead guitarist holds his guitar out like a machine gun
+text: and strums frantically on it swinging it back and forth at
+text: the audience and then at the rest of the group. As he does
+text: so, the rest of the group falls "dead" over their instruments.
+text: The number is over and they all get up. The place is empty
+text: except for CHARLIE, TONY, and a few others, all of whom have
+text: been listening to the band. They applaude.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TONY'S PLACE
+dialog: 
+text: CHARLIE is talking to the leader of the group.
+dialog: 
+speaker_heading: CHARLIE
+dialog: No, really, I liked it...thought it
+dialog: was great.
+dialog: 
+speaker_heading: BOY
+dialog: Thanks.
+dialog: 
+dialog: 73.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: What are your plans?
+dialog: 
+speaker_heading: BOY
+dialog: Well, we're here for about two
+dialog: weeks, then whatever else comes
+dialog: along... we're still working on our
+dialog: album and...
+dialog: 
+speaker_heading: CHARLIE
+dialog: Great...great...listen, I'm very
+dialog: interested in you guys because I'll
+dialog: be opening a new club myself soon...
+dialog: uptown...and maybe we can work
+dialog: something out...
+dialog: 
+speaker_heading: BOY
+dialog: Sounds good.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Of course, 'The Season of the
+dialog: Witch' won't be ready for a while
+dialog: yet but we have to keep in touch.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TONY'S PLACE - PHONE BOOTH
+dialog: 
+text: CHARLIE is calling TERESA. The rock group is taking a break
+text: before their evening performance and they can be heard
+text: breaking up the session in the background. TONY and the
+text: others are getting the tables ready.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Teresa?...Yeah, Charlie. Listen,
+dialog: I'm looking for your cousin. Yeah,
+dialog: well today's Tuesday, payday. I
+dialog: haven't seen him all
+dialog: day...no...well, have you got any
+dialog: idea where he is? I know it's
+dialog: early yet but I'm just getting
+dialog: worried that's all...
+dialog: 
+speaker_heading: TERESA
+dialog: Charlie...I've got to see you. I
+dialog: want to talk...
+dialog: 
+speaker_heading: CHARLIE
+dialog: Honey, I can't talk now...I've
+dialog: gotta run, bye.
+dialog: 
+speaker_heading: TERESA
+dialog: But...
+dialog: 
+dialog: 74.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: I'll see you later.
+dialog: 
+text: He hangs up.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TONY'S PLACE - DRESSING ROOM
+dialog: 
+text: CHARLIE can see the Negro stripper, DIANE, down the hall, in
+text: her dressing room. She is putting on her makeup. CHARLIE
+text: is still very attracted to her. He enters her room.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Diane, how are you feeling?
+dialog: 
+speaker_heading: DIANE
+speaker_heading: (COLDLY)
+dialog: Fine.
+dialog: 
+text: As CHARLIE continues to talk to her she undresses and begins
+text: to get into her first costume. CHARLIE feels slightly
+dialog: uncomfortable.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You know Diane...I've been wanting
+dialog: to talk to you for a while
+dialog: now...er... a...
+dialog: (she is undressing)
+dialog: aside from all that joking around
+dialog: we do out there...when you're
+dialog: on...I... a...I really...think that
+dialog: you're a terrific performer...
+dialog: 
+speaker_heading: DIANE
+dialog: Fine.
+dialog: 
+speaker_heading: CHARLIE
+dialog: No, I'm serious...You're really good.
+dialog: 
+speaker_heading: DIANE
+dialog: I know.
+dialog: 
+speaker_heading: CHARLIE
+dialog: In a little while...I'm gonna have
+dialog: the opportunity of opening my own
+dialog: place...not here...much nicer than
+dialog: this...uptown...sort of nite-club
+dialog: and restaurant and everything.
+dialog: 
+speaker_heading: DIANE
+dialog: That's nice.
+dialog: 
+dialog: 75.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+dialog: I was thinking maybe you'd do very
+dialog: nicely for the place.
+dialog: 
+speaker_heading: DIANE
+dialog: Stripper?
+dialog: 
+speaker_heading: CHARLIE
+dialog: No...no stripping...as the hostess.
+dialog: 
+speaker_heading: DIANE
+dialog: Hostess?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yeah, you know...you greet the
+text: people...see them to their tables...
+dialog: well...it'll be different though...
+dialog: Listen...why don't we get together
+dialog: and talk after your show tonight.
+dialog: 
+speaker_heading: DIANE
+dialog: Chinese food?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Ok. Chinese. We'll meet on the
+dialog: corner of 6th Avenue and Waverly
+dialog: Place after you finish.
+dialog: 
+speaker_heading: DIANE
+dialog: Why not here...Ok nevermind...6th
+dialog: Avenue and Waverly.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Bye.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. TONY'S PLACE - NEAR ENTRANCE
+dialog: 
+text: CHARLIE bumps into MICHAEL and a friend as he is leaving.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Be seeing you and Johnny tonight...
+dialog: here...right?
+dialog: 
+speaker_heading: CHARLIE
+dialog: We'll be here.
+dialog: 
+text: MICHAEL is sarcastic. He points to the parked car in front
+dialog: of him.
+dialog: 
+speaker_heading: MICHAEL
+dialog: I tell you, Charlie. If that kid
+dialog: doesn't show up tonight...
+dialog: 
+dialog: 76.
+dialog: 
+dialog: 
+text: MICHAEL'S plan is seen on the screen as he speaks.
+dialog: 
+speaker_heading: MICHAEL
+dialog: ...I'm gonna find him, drag him
+dialog: down here, tie one of his legs to
+dialog: that Ford bumper over here...
+dialog: 
+text: JOHNNY BOY is dragged to the car and MICHAEL'S friend ties
+text: his leg to the car.
+dialog: 
+speaker_heading: MICHAEL
+dialog: ...and his other leg to that
+dialog: Chrysler over there.
+dialog: 
+text: JOHNNY BOY'S other leg is tied to the Chrysler.
+dialog: 
+speaker_heading: MICHAEL
+dialog: ...and bam!!!
+dialog: 
+text: We see a close-up of a foot slamming down on the gas pedal,
+text: twice. One car heads for the West Side--the other to the
+text: East Side. Tires screech and exhaust fumes fill the air.
+dialog: 
+text: All three laugh.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Look, Michael, I'll get him here.
+dialog: What do you want me to do, kill him?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Whatever.
+dialog: 
+text: CHARLIE leaves.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. CHARLIE'S APARTMENT
+dialog: 
+text: CHARLIE is on the phone trying to locate JOHNNY BOY. TERESA
+text: is pacing back and forth nervously in the background.
+text: CHARLIE hangs up.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Are you sure he didn't say anything
+dialog: to you about tonight?
+dialog: 
+speaker_heading: TERESA
+dialog: For God's Sakes...I told you
+dialog: before...nothing.
+dialog: (she moves closer)
+dialog: Charlie, I can't stay in here too
+dialog: long at this hour...will you please
+dialog: listen to me?
+dialog: 
+dialog: 77.
+dialog: 
+dialog: 
+text: CHARLIE turns and smiles at her. He kisses her because he
+text: doesn't feel like listening. TERESA is too preoccupied to
+text: respond. CHARLIE turns.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (MUTTERING)
+dialog: ...that sonofabitch.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. NIGHT - BLACK AND WHITE
+dialog: 
+text: JOHNNY BOY walking through Greenwich Village looking around
+text: as if being chased.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. CHARLIE'S APARTMENT
+dialog: 
+text: CHARLIE is kissing TERESA who is still very upset.
+dialog: 
+speaker_heading: TERESA
+dialog: But Charlie...it's uptown and it's
+dialog: perfect. It's big enough for two
+dialog: people...she's going to get out by
+dialog: the end of the month. If you don't
+dialog: act right away, it'll go in no time.
+dialog: What do you think?
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. STREET - NIGHT - BLACK AND WHITE
+dialog: 
+text: JOHNNY BOY is making his way back to the apartment by
+text: sneaking along the sides of the buildings in the darkened
+dialog: street.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. CHARLIE'S APARTMENT
+dialog: 
+text: CHARLIE tries to make love to TERESA out of his nervous
+text: energy and impatience at waiting so long for JOHNNY BOY.
+text: TERESA is rejecting his attempts.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. STREET - NIGHT - BLACK AND WHITE
+dialog: 
+text: JOHNNY BOY imagines he is being followed and dashes into the
+text: door of a nearby building and up the stairs.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: 78.
+dialog: 
+dialog: 
+scene_heading: INT. CHARLIE'S APARTMENT
+dialog: 
+text: CHARLIE is doubly frustrated by TERESA'S rejection of his
+text: attempts at lovemaking because of his concern for JOHNNY BOY.
+text: He becomes sarcastic and abrupt.
+dialog: 
+speaker_heading: TERESA
+dialog: Don't you realize what that
+dialog: apartment means?
+dialog: 
+text: CHARLIE doesn't answer. TERESA continues.
+dialog: 
+speaker_heading: TERESA
+dialog: Do you? For both of us. Think...
+dialog: after a while you might even be
+dialog: able to move in yourself.
+dialog: 
+text: CHARLIE laughs. TERESA is visibly shaken but CHARLIE cannot
+dialog: be bothered.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Are you serious? Me move in with
+dialog: you. You crazy?
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. ROOFTOP - NIGHT - BLACK AND WHITE
+dialog: 
+text: JOHNNY BOY is silhouetted against the moonlight. He makes
+text: his way quietly over the roofs of the tenements and climbs
+text: down CHARLIE'S fire escape.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. CHARLIE'S APARTMENT
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONTINUES)
+dialog: Teresa, get these ideas out of your
+dialog: head...I've got enough on my hands
+dialog: right now...with that bastard
+dialog: cousin of yours. You wanna move?
+dialog: Go ahead. By all means! But keep
+dialog: me out of it...I've got nothing to
+dialog: do with it...you
+dialog: understand...nothing.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+speaker_heading: CHARLIE'S WINDOW
+dialog: 
+text: JOHNNY BOY is at CHARLIE's window. Through it he can see
+text: TERESA lying on the bed in tears and CHARLIE pacing back and
+text: forth across the room.
+dialog: 
+dialog: 79.
+dialog: 
+dialog: 
+text: He is still talking loudly, JOHNNY BOY doesn't seem to pay
+text: any attention to the fact that TERESA is in CHARLIE'S
+text: bedroom. He opens the window and jumps in, smiling
+text: sarcastically. TERESA and CHARLIE are startled. CHARLIE
+text: grabs JOHNNY BOY by his coat collar.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Where were you? Answer me, you
+dialog: sonofabitch! Where were you?
+dialog: 
+text: TERESA is frightened and rushes towards CHARLIE. JOHNNY BOY
+text: reacts to the scene with uncontrolled laughter. CHARLIE is
+text: outraged and slaps him across the face but JOHNNY continues
+text: to laugh. TERESA screams.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (TO TERESA)
+dialog: Shut up!
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (TO TERESA)
+dialog: Yeah, Teresa, shut up! We don't
+dialog: wanna get Charlie here in trouble,
+dialog: do we?...We love Charlie.
+dialog: 
+text: CHARLIE flings JOHNNY BOY against a wardrobe, letting go of
+text: his collar.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You had me going crazy!
+dialog: 
+text: TERESA is crying. JOHNNY goes into the kitchen and CHARLIE
+text: follows. TERESA stays in the doorway.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. KITCHEN - CHARLIE'S APARTMENT
+dialog: 
+text: JOHNNY BOY takes a drink of water from the sink as he talks.
+text: CHARLIE is calmer now; calm enough to realize that JOHNNY
+text: has figured out his true relationship to TERESA. He tries
+dialog: to protect himself.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Your cousin here was getting sick,
+dialog: worrying about you. We've been in
+dialog: here calling...
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Oh, that's too bad, Teresa...
+dialog: 
+text: CHARLIE is embarrassed and TERESA is afraid.
+dialog: 
+dialog: 80.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (CONTINUES)
+dialog: Well kids...have the bans been
+dialog: announced yet?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Don't be smart.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I'm not smart...I'm stupid, remember.
+dialog: I'm so stupid that you have to look
+dialog: out for me, remember?
+dialog: 
+text: TERESA is crying.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Don't be upset Teresa. You have to
+dialog: understand Charlie, here...he gives
+dialog: of himself to help others...
+dialog: 
+speaker_heading: TERESA
+dialog: I'm going to go home.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: No, you stay.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Johnny, I swear to God, if you open
+dialog: your mouth about any of this...
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (ANGRY)
+dialog: Me? I wouldn't say a word to my
+dialog: aunt and uncle...or even your
+dialog: uncle, Charlie...
+dialog: 
+text: TERESA makes it to the door and opens it quickly. JOHNNY
+text: BOY grabs her to keep her from leaving. CHARLIE rushes
+text: towards them and pulls JOHNNY BOY away. By now, they are
+text: halfway down the hall.
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (SHOUTING)
+dialog: Charlie...I always wondered about
+dialog: her...what happens when she comes?
+dialog: Does she get one of those fits? Eh?
+dialog: That would be something to see...
+dialog: 
+text: JOHNNY BOY is interrupted by CHARLIE'S fist as it lands a
+text: solid punch on the right side of his hand. TERESA screams
+text: and rushes to separate them.
+dialog: 
+dialog: 81.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: You rat bastard!! Don't hit me
+dialog: again!!
+dialog: 
+text: CHARLIE stops.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I think I will fuckin go see your
+dialog: uncle right now...he'd be interested.
+dialog: 
+text: CHARLIE rushes JOHNNY BOY towards the stairs. They bump
+text: into TERESA, slamming her against the wall.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Go ahead! Go on! And we'll see
+dialog: what happens to you without me.
+dialog: 
+text: TERESA is terrified that JOHNNY BOY will really go to
+text: CHARLIE'S uncle.
+dialog: 
+speaker_heading: TERESA
+dialog: No...no...don't.
+dialog: 
+text: TERESA falls, hitting the stairs with a thud. She lies
+text: there moaning and tossing her head. CHARLIE and JOHNNY BOY
+dialog: go to help her.
+dialog: 
+speaker_heading: CHARLIE
+dialog: What do I do? You know anything
+dialog: about this?
+dialog: 
+text: JOHNNY BOY steps over TERESA to go down the stairs. He turns.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I don't know...she's your girl...I
+dialog: gotta go.
+dialog: 
+text: CHARLIE is furious. JOHNNY BOY points to TERESA who is
+dialog: getting worse.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Hate to miss the floor show, though.
+dialog: 
+text: CHARLIE lunges out at JOHNNY BOY shoving him halfway down
+text: the stairs. He has gotten hold of his coat so that JOHNNY
+text: BOY can't leave. Neighbors from downstairs open their doors
+text: and come up the stairs. CHARLIE, in complete panic, tries
+text: to put something into TERESA'S mouth while holding JOHNNY
+text: BOY at the same time. He shoves his hand into her mouth
+text: trying to pry it open but she bites into it. CHARLIE
+text: screams as the blood streams out. He lets go of JOHNNY BOY.
+dialog: 
+dialog: 82.
+dialog: 
+dialog: 
+text: The neighbors take over. One woman appears to know how to
+dialog: administer aid to TERESA.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. CHARLIE'S BUILDING - STAIRS
+dialog: 
+text: JOHNNY BOY is halfway down the stairs by now. The neighbor
+text: takes care of TERESA. While CHARLIE dashes down the stairs,
+text: CHARLIE grabs JOHNNY in the ground floor hallway.
+dialog: 
+scene_heading: EXT. STREET - NIGHT - BLACK AND WHITE
+dialog: 
+text: In the deserted factory section of Manhattan, JOHNNY BOY and
+text: CHARLIE stand next to a corregated metal garage door.
+text: CHARLIE smashes JOHNNY BOY against the door sending
+text: resounding echoes into the street.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You crazy bastard! What are you
+dialog: trying to do, ruin me?
+dialog: 
+text: JOHNNY BOY is not fighting back anymore. He is on the verge
+text: of tears. CHARLIE smashes him against the door again--again
+text: the crashing sound reverberates in the empty street.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You...
+dialog: 
+text: Again, JOHNNY BOY is thrown up against the door.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You threaten me with my uncle?
+dialog: After what I'm doing for you?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: What you're doing for me isn't
+dialog: worth it...believe me!
+dialog: 
+text: CHARLIE slaps JOHNNY BOY and pushes him against the door
+dialog: again.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Then don't show up tonight and see
+dialog: what happens.
+dialog: 
+text: CHARLIE stops. He digs his hands into JOHNNY'S pockets but
+text: he can't find anything.
+dialog: 
+speaker_heading: CHARLIE
+dialog: How much have you got for Michael
+dialog: tonight?
+dialog: 
+dialog: 83.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I only got eight bucks on me.
+dialog: 
+text: CHARLIE stares at JOHNNY BOY for a moment then puts his hand
+text: into his own pocket and pulls out three ten dollar bills and
+dialog: three ones.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Here, take twenty bucks. With your
+dialog: eight that makes twenty-eight bucks
+dialog: you give Michael. I keep the
+dialog: thirteen for the weekend. Maybe
+dialog: we'll eat some Chinese food later.
+dialog: 
+text: JOHNNY BOY doesn't take it. CHARLIE forces it into his hand.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Take it. I'm doing it for you,
+dialog: stupid!
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: No you're not...
+dialog: 
+text: CHARLIE, calmer now, is feeling ashamed.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Oh, cut it out, will ya?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Charlie, twenty-eight bucks is
+dialog: nothing. The only way to do it is
+dialog: through your uncle...think about it
+dialog: will you?
+dialog: 
+speaker_heading: CHARLIE
+dialog: NO!!! What do you think I am,
+dialog: crazy???
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: No, I just want to help myself,
+dialog: that's all.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Come on.
+dialog: 
+text: He tugs JOHNNY BOY along.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TONY'S PLACE - BAR
+dialog: 
+speaker_heading: TONY
+dialog: You're over an hour late. Michael
+dialog: said he'll be back later, though...
+dialog: 
+dialog: 84.
+dialog: 
+dialog: 
+text: CHARLIE takes a drink. JOHNNY BOY sits at the bar. The
+text: place is beginning to empty and the show is over. CHARLIE
+text: takes TONY aside.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Watch this kid for me. I have to
+dialog: go someplace but I'll be back soon
+dialog: to get Michael and him together.
+dialog: Don't even let him go to the
+dialog: bathroom.
+dialog: 
+text: He turns to JOHNNY BOY.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Don't you move!!!
+dialog: 
+speaker_heading: JOHNNY BOY
+speaker_heading: (SULKING)
+dialog: I'll be here. Don't worry.
+dialog: 
+text: JOHNNY orders a drink.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. CAB - NIGHT - BLACK AND WHITE
+dialog: 
+text: CHARLIE gets into the cab.
+dialog: 
+speaker_heading: CHARLIE
+dialog: 6th Avenue and Waverly Place, fast
+dialog: please.
+dialog: 
+text: The cab takes off. They soon arrive at their destination.
+dialog: 
+speaker_heading: CAB DRIVER
+dialog: Where do you want me to stop?
+dialog: 
+text: CHARLIE leans back into the seat and peeks out the window.
+dialog: 
+speaker_heading: CHARLIE
+dialog: No...don't stop...just pass real
+dialog: slow, OK?
+dialog: 
+text: CHARLIE looks out the window and sees DIANE, the negro
+text: stripper. She is standing on the corner waiting for him.
+text: CHARLIE nods his head for the driver to stop.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Stop here.
+speaker_heading: (HE HESITATES)
+dialog: No...what am I...crazy??? Take me
+dialog: back to where you picked me up.
+dialog: 
+dialog: 85.
+dialog: 
+dialog: 
+speaker_heading: CAB DRIVER
+speaker_heading: (SIGHING)
+dialog: Ok.
+dialog: 
+text: The car drives away, passing DIANE who is on the corner.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TONY'S PLACE
+dialog: 
+text: CHARLIE is back inside the club.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Back so soon.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Mind your own business.
+dialog: 
+text: TONY sets up drinks for them and pours them into shot glasses.
+dialog: 
+text: CHARLIE strikes a match and lights each glass... little blue
+text: flames dance along the rims of the glasses.
+dialog: 
+speaker_heading: TERESA
+dialog: Hey, cut it out. Will ya?
+dialog: 
+text: He blows out the flames. CHARLIE moves to the other and of
+text: the room with his drink.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONFESSION)
+dialog: You can see things aren't going too
+dialog: well for me at the moment. My
+dialog: willpower and powers of persuasion
+dialog: are not what they usually are today.
+dialog: My ability to control events and
+dialog: situations are wanting. I know. I
+dialog: know...what can I say...I offer
+dialog: this as part of my penance.
+dialog: 
+text: A young couple, two of the few people left in the place, are
+text: having a hushed quarrel at the end of the bar. The boy
+text: leaves for the men's room.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (TO TONY)
+dialog: Who's the girl?
+dialog: 
+speaker_heading: TONY
+dialog: Jewish...
+dialog: 
+speaker_heading: CHARLIE
+dialog: How do you know?
+dialog: 
+dialog: 86.
+dialog: 
+dialog: 
+speaker_heading: TONY
+dialog: Look at her.
+dialog: 
+speaker_heading: CHARLIE
+dialog: She don't look Jewish.
+dialog: 
+speaker_heading: TONY
+dialog: Sure she is. She's always in here
+dialog: with some different guy. You know
+dialog: the way they are.
+dialog: 
+text: CHARLIE approaches the girl.
+dialog: 
+speaker_heading: CHARLIE
+dialog: I love you.
+dialog: 
+text: The girl looks at him, first embarrassed, then annoyed.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (SMILING)
+dialog: Ever since that first day I saw you
+text: at the convent with the nuns,
+dialog: playing volleyball, I couldn't help
+dialog: myself.
+dialog: 
+speaker_heading: GIRL
+dialog: You Italian?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yeah why?
+dialog: 
+speaker_heading: GIRL
+dialog: You don't look it.
+dialog: 
+text: The girl laughs. Her boyfriend comes out of the men's room.
+text: He has her coat in his hand.
+dialog: 
+speaker_heading: GIRL
+dialog: (to the Boy)
+dialog: Fuck off.
+dialog: 
+speaker_heading: BOY
+speaker_heading: (STUNNED)
+dialog: What do you mean?
+text: (he looks at CHARLIE)
+dialog: ...let's go.
+dialog: 
+speaker_heading: GIRL
+dialog: You go...I'm staying.
+dialog: 
+speaker_heading: BOY
+dialog: Let's go!
+dialog: 
+dialog: 87.
+dialog: 
+dialog: 
+text: CHARLIE reaches over and grabs the GIRL'S arm tightly. She
+text: looks up, startled, and the boy appears to be frightened.
+dialog: 
+speaker_heading: CHARLIE
+text: It's obvious that the girl doesn't
+dialog: want to accompany you, isn't it?
+dialog: 
+speaker_heading: BOY
+dialog: Look fella...this is private...
+dialog: 
+speaker_heading: CHARLIE
+dialog: Nothing's private...
+dialog: 
+text: The GIRL is really scared now.
+dialog: 
+speaker_heading: GIRL
+dialog: I'd like to leave.
+dialog: 
+text: CHARLIE won't let go of her arm. She tries to pull away but
+text: his grip tightens.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Whether she wants to or not...she's
+dialog: not going.
+dialog: 
+speaker_heading: BOY
+text: Let go of her.
+dialog: 
+text: The GIRL is in tears.
+dialog: 
+speaker_heading: GIRL
+dialog: Stop it...you're hurting me.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Take her away from me...I mean
+dialog: physically take her away from me.
+dialog: 
+text: He is holding her so tightly that she is doubling over in
+text: pain. The BOY, although he is scared, lunges at CHARLIE.
+text: There is a brief scuffle which TONY breaks up.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. TONY'S PLACE - BACK ALLEY - BLACK AND WHITE - NIGHT
+dialog: 
+text: JOHNNY BOY is lifting the lid of a garbage pail. He takes
+text: out a brown paper bag and opens it. He takes a small .22
+text: pistol from it and puts it inside his jacket, then replaces
+text: the bag in the garbage pail.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: 88.
+dialog: 
+dialog: 
+scene_heading: INT. TONY'S PLACE - BAR AREA
+dialog: 
+text: MICHAEL has entered the club. The BOY and GIRL are gone.
+text: TONY is with CHARLIE and JOHNNY BOY, whose return went
+dialog: unnoticed.
+dialog: 
+speaker_heading: MICHAEL
+dialog: What's it gonna be? I was here
+dialog: tonight...you kept me waiting for
+text: over an hour.
+dialog: 
+text: MICHAEL has two friends with him.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: Hello, Michael. I've got something
+dialog: for you...not much...but...
+dialog: 
+speaker_heading: CHARLIE
+dialog: He has about twenty-eight bucks...
+dialog: it's all he has on him.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Better than nothing.
+dialog: 
+text: JOHNNY BOY takes out a ten dollar bill and hands it to him.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Where's the rest?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yeah, where's the rest?
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I bought a few rounds of drinks
+dialog: while waiting.
+dialog: 
+text: CHARLIE is stunned.
+dialog: 
+speaker_heading: MICHAEL
+speaker_heading: (ANGRY)
+dialog: Twenty-eight bucks is enough of an
+dialog: insult...I was gonna take the
+dialog: twenty-eight bucks because of
+dialog: Charlie here...but ten bucks!
+dialog: 
+text: MICHAEL takes the ten dollars, crumples it and flings it
+text: into JOHNNY BOY'S face. JOHNNY BOY picks it up and slowly
+text: smooths it out. He sets it on fire as he talks.
+dialog: 
+dialog: 89.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: You make me laugh, Michael...you
+dialog: know that? I've borrowed money all
+dialog: over the neighborhood and never
+dialog: paid it back...so I couldn't borrow
+dialog: anymore from them...so who's the
+dialog: only jerk off left that I can
+dialog: borrow from without paying
+dialog: back...YOU. Because that's what I
+dialog: think of you...Jerk off. I fuck
+dialog: you where you breathe!
+dialog: 
+text: MICHAEL lashes out at JOHNNY BOY with the back of his hand.
+text: JOHNNY BOY tosses the flaming bill at MICHAEL and quickly
+text: pulls out his .22 pistol. Everyone is shocked.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (MUTTERING)
+dialog: You're really crazy.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You're not going to use that gun,
+dialog: Johnny.
+dialog: 
+text: JOHNNY BOY doesn't answer but holds the gun straight at
+text: MICHAEL'S face. MICHAEL turns to go, defying JOHNNY BOY.
+text: His friends follow. When he reaches the doorway, he turns.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You don't have the guts to use
+dialog: that...be seeing you Charlie, Tony,
+dialog: and of course you John...be seeing
+dialog: you.
+dialog: 
+text: They leave.
+dialog: 
+text: JOHNNY BOY is still frozen with the gun in his hand, pointing
+text: it at mid-air. CHARLIE slams JOHNNY BOY across the face
+text: with his fist. TONY takes the gun from his hand.
+dialog: 
+speaker_heading: CHARLIE
+dialog: You stupid bastard! Never pull a
+dialog: gun unless you intend to use it.
+dialog: 
+text: He hits JOHNNY BOY again.
+dialog: 
+speaker_heading: TONY
+speaker_heading: (HOLDING GUN)
+dialog: ...No bullets in it.
+dialog: 
+text: CHARLIE hits JOHNNY BOY again.
+dialog: 
+dialog: 90.
+dialog: 
+dialog: 
+speaker_heading: TONY
+dialog: Get out of here before this really
+text: goes up.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Hide the gun. Throw it away.
+dialog: Anything. Listen, I gotta borrow
+dialog: your car...I think we should take a
+dialog: ride...away from here for the
+dialog: night...you know what I mean?
+dialog: 
+speaker_heading: TONY
+speaker_heading: (RELUCTANTLY)
+dialog: Ok...but go to a movie first or
+dialog: something...not good to be driving
+dialog: around right away. You know you
+dialog: can't do much for him now...it's
+dialog: out of your hands.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: SCENE FROM "TOMB OF LIGEIA"
+dialog: 
+text: A young girl is in her room with her maid. The maid is
+text: helping her dress. Eerie music creates a frightening
+text: atmosphere. CHARLIE and JOHNNY BOY watch nervously affected
+text: by the film's mood. The theatre is a 42nd street one with
+text: lots of sleeping drunks.
+dialog: 
+text: Suddenly, the maid's face begins to contort as if she's
+text: seeing something horrible. The audience is on edge. The
+text: young girl sees the maid and shouts "What is it?" - but the
+text: maid only sneezes.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. NIGHT - TONY'S CONVERTIBLE - BLACK AND WHITE
+dialog: 
+text: CHARLIE is driving. JOHNNY BOY is beside him in the front
+text: seat. The top od the car is down and CHARLIE is driving
+text: with no particular destination in mind.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: I think we should see your uncle.
+dialog: 
+speaker_heading: CHARLIE
+dialog: No.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: This can't be settled any other way
+dialog: now...I'll take full blame.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Forget it.
+dialog: 
+dialog: 91.
+dialog: 
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: What are you going to do? Hide me?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Good idea.
+dialog: 
+text: JOHNNY BOY turns away and tunes in the radio to a loud rock
+dialog: song.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (CONFESSION)
+dialog: I guess you could safely say that
+dialog: this evening has been so far very
+dialog: unimpressive as far as my efforts
+dialog: are concerned...more unproductive.
+dialog: Now, I'd like to know what you do,
+dialog: for an encore, Lord? I know
+dialog: penance is penance but this is
+dialog: something else.
+dialog: 
+text: JOHNNY BOY opens his eyes.
+dialog: 
+speaker_heading: JOHNNY BOY
+dialog: What are you talking to yourself???
+dialog: 
+text: He turns up the radio.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (SARCASTIC)
+dialog: Go ahead! Play the radio...play
+dialog: music...you're going to a party...
+dialog: louder! Go ahead. Louder. A
+dialog: party. Lots of fun.
+dialog: 
+text: A black sedan has been driving along parallel to CHARLIE'S
+text: car, unnoticed by CHARLIE. Otherwise the street is deserted.
+text: The car begins to drive CHARLIE off the road.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Hey, what is this guy, crazy?
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. NIGHT - BLACK AND WHITE
+dialog: 
+scene_heading: BLACK SEDAN - MICHAEL AND ANOTHER BOY.
+dialog: 
+speaker_heading: VOICE
+dialog: Now, now's the time!
+dialog: 
+text: CHARLIE turns his head to look. JOHNNY BOY looks up. They
+dialog: fire the gun.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: 92.
+dialog: 
+dialog: 
+speaker_heading: FULL COLOR SHOTS
+dialog: 
+text: A barage of bullets (5 gunshots) hit CHARLIE'S car. CHARLIE
+text: is hit in the hand. JOHNNY BOY has been hit in the throat.
+text: He stands up and leans over the windshield of the car,
+text: spewing blood onto it and into the wind. He is screaming.
+text: The black sedan turns onto another street.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: TONY'S CONVERTIBLE
+dialog: 
+text: CHARLIE is so shocked that the car is completely out of
+text: control. It goes screeching along the street, swerves, and
+text: slams into a fire hydrant, breaking it off and causing water
+text: to shoot out onto the sidewalk, car and street. CHARLIE has
+text: been thrown from the car. He kneels in the street holding
+text: his wrist. He is on the yellow letters "FIRE LANE." JOHNNY
+text: BOY lies against the side of a building--still. CHARLIE
+text: goes to the curb and sits there holding his bleeding hand.
+text: The police arrive with their guns drawn.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. NEIGHBORHOOD STREET
+dialog: 
+text: Back in the neighborhood, the religious fiesta is ending.
+text: The singers on the bandstand are singing the last song of
+text: the evening, "Vincino Amare." A crowd of elderly Italian-
+text: Americans stand below the bandstand and listen. There are
+text: four singers, their voices projected through a PA system.
+dialog: 
+speaker_heading: MUSIC:
+dialog: 
+text: CONTINUES THROUGH ALL CUTS.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+speaker_heading: TERESA'S ROOM
+dialog: 
+text: TERESA is in bed, asleep. The music can be heard echoing in
+dialog: the background.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. STREET CORNER
+dialog: 
+text: CHARLIE is still sitting on the curb holding his injured
+text: wrist. The ambulance and the police are going about their
+text: business. A crowd has gathered.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: GIOVANNI'S LIVING ROOM
+dialog: 
+dialog: 93.
+dialog: 
+dialog: 
+text: GIOVANNI is watching the Late Late Show on T.V. (Car
+text: explosion scene from "The Big Heat"). Aside from the light
+text: of the screen, the room is darkened.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: ALL NIGHT VILLAGE LUNCHEONETTE
+dialog: 
+text: DIANE is alone, sipping coffee.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. STREET CORNER
+dialog: 
+text: The police are standing around CHARLIE with open notebooks,
+text: questioning him. He doesn't answer. JOHNNY BOY'S body is
+text: being taken into the ambulance.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: TONY'S PLACE - MEN'S ROOM
+dialog: 
+text: TONY is relieving himself. He washes his hands.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: NEIGHBORHOOD STREET
+dialog: 
+text: The last song of the festival is ending now. As the singers
+text: come to a stirring climax they wave and shout in Italian.
+dialog: 
+speaker_heading: SINGERS
+dialog: Good night...Good night...thank
+dialog: you...good night!
+dialog: 
+text: The band plays a few bars of "Home Sweet Home." The singers
+text: throw kisses to the dispursing crowd. People who have been
+text: watching the festival pull down the blinds of shades and go
+dialog: in.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: MICHAEL'S CAR - PARKED
+dialog: 
+text: MICHAEL'S car is parked in a deserted area on the docks. He
+text: has his head in his hands. The BOY with him says nothing.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+speaker_heading: STREET CORNER
+dialog: 
+text: CHARLIE is still in shock, sitting on the curb.
+dialog: 
+text: The police are still walking around in a businesslike manner.
+dialog: 
+dialog: 94.
+dialog: 
+dialog: 
+text: CHARLIE stares down at his feet. The wrecked car is being
+text: pulled away.
+dialog: 
+text: CHARLIE is being put into an ambulance. He is muttering to
+text: himself and seems shocked and bewildered.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. POLICE STATION - DAY
+dialog: 
+text: Early morning. A door in the far corner of the room opens.
+text: CHARLIE is motioned through by a cop, who shuts the door
+text: immediately behind him. There is an unnaturally loud
+text: clanging sound that echoes in the room. CHARLIE looks
+text: around, still a little dazed, and spots MARIO standing over
+text: by the door. MARIO has made no move to greet him. He just
+text: stands there watching. CHARLIE walks over to him, sensing
+text: something a little ominous.
+dialog: 
+speaker_heading: CHARLIE
+dialog: My uncle didn't come?
+dialog: 
+text: MARIO says nothing, just nods at him to step outside.
+text: CHARLIE goes out into the street. MARIO follows.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. STREET - DAY
+dialog: 
+text: There is practically no one on the street. The early
+text: morning light makes everything a clammy grey. CHARLIE waits
+text: at the bottom of the steps.
+dialog: 
+speaker_heading: MARIO
+dialog: (pauses for a moment)
+dialog: Giovanni says now he done enough.
+dialog: He got you outta jail. Now...
+dialog: (reaching in pocket)
+dialog: he wants you outta the way.
+dialog: 
+text: MARIO hands CHARLIE an envelope containing an airline ticket.
+dialog: 
+speaker_heading: MARIO
+dialog: He says use it. Don't sell it. He
+dialog: says he'll see you. Someday. Maybe.
+dialog: 
+text: CHARLIE stares at the ticket in his hand. MARIO is obviously
+dialog: uncomfortable.
+dialog: 
+speaker_heading: MARIO
+speaker_heading: (ABRUPTLY)
+dialog: Things worked out rotten kid. Sorry.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: 95.
+dialog: 
+dialog: 
+scene_heading: INT. CAR - DAY
+dialog: 
+text: TONY'S car. He is driving CHARLIE to the airport. A
+text: suitcase can be seen in the back seat.
+dialog: 
+speaker_heading: TONY
+dialog: Where to?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (PREOCCUPIED)
+dialog: Kennedy.
+dialog: 
+speaker_heading: TONY
+dialog: (trying to be jolly)
+dialog: I know, I know, stupid. I mean
+dialog: where you goin'?
+dialog: 
+speaker_heading: CHARLIE
+dialog: It's an open ticket. I can go
+dialog: anywhere up to $350.
+dialog: 
+speaker_heading: TONY
+dialog: So?
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (EDGY)
+dialog: So I'll send you a postcard from
+dialog: wherever. If I get there.
+dialog: 
+speaker_heading: TONY
+dialog: Nervous?
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yeah.
+dialog: 
+speaker_heading: TONY
+dialog: You flew before?
+dialog: 
+speaker_heading: CHARLIE
+dialog: No.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+text: CHARLIE'S face - slightly upset.
+dialog: 
+text: CHARLIE snapping seat belt in car.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: STOCK SHOT: airplane exploding BLACK AND WHITE (FANTASY)
+dialog: 
+speaker_heading: CUT BACK TO:
+dialog: 
+text: CHARLIE in car - more upset.
+dialog: 
+dialog: 96.
+dialog: 
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (IRRITATED)
+dialog: Hey, come on...
+dialog: 
+speaker_heading: TONY
+dialog: Take it easy. I only asked because
+dialog: maybe I could, you know, let you
+dialog: have a little something.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Yeah, well thanks, but I got enough
+dialog: to hold me. My mother can send me
+dialog: some. I don't know.
+dialog: 
+speaker_heading: TONY
+dialog: How about Teresa? I could talk...
+dialog: 
+speaker_heading: CHARLIE
+dialog: (trying not to be impatient)
+dialog: Listen, I appreciate it, but I'll
+dialog: handle it myself. I'll write.
+dialog: 
+speaker_heading: TONY
+dialog: And say what?
+dialog: 
+speaker_heading: CHARLIE
+dialog: I'll say that I'm travelling.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. AIRPORT - DAY
+dialog: 
+text: The TWA terminal at Kennedy. TONY'S car pulls up to the
+text: curb, CHARLIE gets out, waves away help from an idle porter,
+text: and pulls his suitcases out of the back seat. TONY leans
+text: across the seat toward him.
+dialog: 
+speaker_heading: TONY
+dialog: Listen, try a place with some sun.
+dialog: Swimming pools. Palm trees. Girls
+text: in little French bathing suits.
+dialog: 
+speaker_heading: CHARLIE
+speaker_heading: (SMILES)
+dialog: Thanks for the ride.
+dialog: 
+text: CHARLIE breaks away from the handshake and grabs TONY
+text: affectionately behind the neck.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Take care of that tiger.
+dialog: 
+dialog: 97.
+dialog: 
+dialog: 
+speaker_heading: TONY
+speaker_heading: (CORRECTING HIM)
+dialog: Panther...
+dialog: 
+speaker_heading: CHARLIE
+dialog: Panther! Same thing...
+dialog: 
+speaker_heading: TONY
+dialog: Hey...no more good times like
+dialog: before. Until you come back.
+dialog: 
+speaker_heading: CHARLIE
+dialog: Sure. And you're gonna take the
+dialog: vows next Tuesday, right.
+dialog: 
+speaker_heading: TONY
+speaker_heading: (LAUGHS)
+dialog: Yeah, I'm gonna worry about you, too.
+dialog: 
+text: TONY gives CHARLIE'S hand a last slap, then gets back behind
+dialog: the wheel.
+dialog: 
+speaker_heading: TONY
+dialog: See you.
+dialog: 
+text: CHARLIE nods and watches the car pull away. Then he picks
+text: up his bag from the sidewalk and walks into the terminal.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TERMINAL - DAY
+dialog: 
+text: The place is huge and there is a lot of bustle and excitement.
+text: CHARLIE is noticeable because he is the only member of the
+text: crowd who walks slowly, without any apparent mission or
+text: destination. He makes his way toward the large flight board
+text: that looms over the whole room. Loudspeakers announce
+text: planes to and from every part of the world. On the flight
+dialog: board, the origins and destinations of the days flight spin
+text: and change every moment. He passes the insurance machines
+text: and almost stops - more upset than before. A businessman
+text: calmly pays for insurance. (Muzak is heard) CHARLIE
+text: continues on past a novelty shop where some plastic crosses
+text: and St. Christopher medals hang alongside the stuffed toy
+text: dogs and flight bags. He looks at the cross.
+dialog: 
+speaker_heading: CHARLIE
+dialog: I don't know what to say to you...
+dialog: 
+text: The ticket desk is under the flight board. CHARLIE eventually
+text: works his way over to the desk, drops his bag on the floor
+text: and stands staring at the board. He sees the names of
+text: dozens of cities flashing before him. As he watches, a
+text: pretty ticket clerk speaks to him from behind the desk.
+dialog: 
+dialog: 98.
+dialog: 
+dialog: 
+speaker_heading: CLERK
+dialog: May I help you?
+dialog: 
+text: CHARLIE stares at the flight board in dismay and indecision.
+text: He apparently does not hear her.
+dialog: 
+speaker_heading: CLERK
+dialog: Sir, may I help you?
+dialog: 
+text: CHARLIE hears her this time. He reaches into his jacket
+text: pocket and pulls out the ticket which he passes across to
+text: her. The clerk starts to open it to check the destination.
+dialog: 
+speaker_heading: CHARLIE
+dialog: (questioning, challenging)
+dialog: Where can I go?
+dialog: 
+text: The question is unusual. The clerk looks up. CHARLIE stare
+text: back at her with a quality that is almost defiance.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: QUICKLY TO BLACK - MUSIC IN
+dialog: 

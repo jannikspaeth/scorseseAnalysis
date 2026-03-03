@@ -1,0 +1,5363 @@
+speaker_heading: Rev. 06/28/89 (Blue)
+speaker_heading: Rev. 09/08/89 (Pink)
+speaker_heading: GOOD FELLAS
+dialog: Written by
+dialog: Nicholas Pileggi
+dialog: and
+dialog: Martin Scorsese
+dialog: Based on the book by Nicholas Pileggi
+speaker_heading: REVISED DRAFT
+dialog: January 12, 1989
+scene_heading: WARUER BROS. INC. © 1989
+scene_heading: 4000 Yarner Boulevard WARNER BROS. INC.
+dialog: Burbaak, California 91522 All Rights Reserved
+scene_heading: JUNE 11, 1970: QUEENS, NEW YORK.
+scene_heading: INT. SUITE - NIGHT
+text: A smoky, overdecorated cocktail lounge and nightclub on
+text: Queens Boulevard. Sergio Franchi is in full voice on the
+text: JUKEBOX. It is after midnight. It has been a long
+text: night. Balloons and empty glasses litter the place.
+text: BILLY BATTS, a 50-year-old hood in an out-of-date suit,
+text: holding court at the bar. We see a younger, more
+text: sharply-dressed HOOD walk in with a beehive girl friend
+dialog: and hug Batts.
+speaker_heading: HOOD
+dialog: -Billy. You look beautiful.
+dialog: Welcome home.
+speaker_heading: BATTS
+dialog: (laughing and turn-
+dialog: ing to the
+dialog: bartender)
+dialog: What are you having? Give
+dialog: what they're drinking.
+dialog: ‘em
+text: We see four other men, including HENRY HILL and JAMES
+text: CONWAY, standing near Billy Batts at the bar, raise their
+text: glasses in salute. TOMMY DEVITO and ancther beehive
+text: blonde enter. Billy Batts looks up and sees Tommy.
+speaker_heading: BATTS
+dialog: Hey, look at him. Tommy. You
+dialog: grew up.
+speaker_heading: TOMMY
+dialog: (preening a little)
+dialog: Billy, how are you?
+speaker_heading: BATTS
+dialog: (smiling broadly at
+dialog: Tommy and the girl)
+dialog: Son of a bitch. Get over here.
+text: Tommy walks over and Billy, too aggressively, grabs Tommy
+text: around the neck. Tommy doesn't like it.
+speaker_heading: TOMMY
+dialog: (forcing a laugh)
+dialog: Hey, Billy. Watch the suit.
+speaker_heading: BATTS
+dialog: (squeezing Tommy's
+dialog: cheek, a little too
+dialog: hard)
+dialog: Listen to him. ‘Watch the suit,'
+dialog: he says.
+speaker_heading: . (MORE)
+speaker_heading: (CONTINUED)
+speaker_heading: 1
+speaker_heading: CONTINUED:
+speaker_heading: BATTS (CONT'D)
+dialog: A little pisser I've known all my
+dialog: life. Hey, Tommy, don't get too
+dialog: big.
+speaker_heading: TOMMY
+dialog: Don't go busting my balls. Okay?
+speaker_heading: BATTS
+dialog: (laughing, to the
+dialog: crowd at the bar)
+dialog: Busting his balls?
+dialog: (to Tommy)
+dialog: If I was busting your balls, I'd
+dialog: send you home for your shine box.
+text: Tommy's smile turns to a glare as he realizes Billy is
+text: making fun of him. The men at the bar are roaring with
+text: laughter. His girl is looking glumly at her shoes.
+speaker_heading: BATTS
+dialog: (to the hoods at the
+dialog: bar)
+dialog: You remember Tommy's shines? The
+dialog: kid was great. He made mirrors.
+speaker_heading: _ TOMMY
+dialog: (almost a threat)
+dialog: No more shines, Billy.
+speaker_heading: BATTS
+dialog: Come ooonnn. Tommeeee. We're
+dialog: only kidding. You can't take a
+dialog: joke? Come ooonn.
+text: We see that Tommy is still angry, but begins to relax
+text: with Billy's apparent apology, but as soon as Billy
+text: sees that Tommy is beginning to relax, he contemptuously
+text: turns his back on Tommy.
+speaker_heading: BATTS
+dialog: (facing the bar)
+dialog: Now get the hell home and get your
+dialog: shine box.
+text: Henry quickly steps in front of Tommy who is about to
+text: explode. Batts is facing the bar and does not see just
+text: how furious Tommy has become.
+speaker_heading: HENRY
+dialog: (gently. wrestling
+dialog: Tommy away from the
+dialog: bar)
+dialog: Come on, relax. He's drunk.
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: (2)
+speaker_heading: HENRY (CONT'D)
+dialog: He's been locked up for six years.
+speaker_heading: TOMMY
+dialog: I don't give a shit. The guy’s
+dialog: got no right.
+speaker_heading: HENRY
+dialog: Tommy. He doesn't mean anything.
+dialog: Forget about it.
+speaker_heading: TOMMY
+dialog: (trying to wrestle
+dialog: past Henry)
+dialog: He's insulting me. Rat bastard.
+dialog: He's never been any fuckin’ good.
+speaker_heading: HENRY
+dialog: Tommy. Come on. Relax.
+speaker_heading: TOMMY
+dialog: (te Henry)
+dialog: Keep him here. I'm going for a bag.
+text: Tommy roughly grabs his girl's arm and storms out.
+speaker_heading: HENRY
+dialog: {rejoining James and
+dialog: Billy Batts at the
+dialog: bar) .
+dialog: Batts. I'm sorry. Tommy gets
+dialog: loaded. He doesn't mean any
+dialog: disrespect.
+speaker_heading: BATTS
+dialog: He's got a hot head.
+text: We see the last two guests get up to leave. Henry puts
+text: another dollar in the jukebox and moves back behind the
+text: bar and starts to total the register receipts.
+speaker_heading: CUT TO:
+speaker_heading: ENTRANCE OF SUITE
+text: From HENRY'S POV behind the bar, we see the guests leave
+text: and suddenly we see Tommy in the doorway. Henry walks
+text: around the bar and approaches Tommy.
+text: We see James and Batts are still seated at bar with their
+text: backs to the door.
+speaker_heading: BATTS
+dialog: They're fucking mutts.
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: (3)
+text: We see James nod.
+speaker_heading: BATTS
+dialog: I seen them. They walk around
+dialog: like big shots and they don't know
+dialog: shit.
+speaker_heading: : JAMES
+text: A guy gets half a load on. He
+text: mouths off.
+speaker_heading: BATTS
+dialog: When I was a kid, I swear on my
+dialog: mother, you mouth off, you got
+dialog: your fucking legs broke.
+speaker_heading: cUuT TO:
+speaker_heading: HENRY
+text: approaching Tommy who is carrying a large folded package
+text: under one arm.
+text: Tommy, followed by Henry, walks over to the bar where
+text: James and Bill Batts are talking. Tommy drops the
+text: package on the floor.
+text: Billy Batts looks up.
+text: James turns around and sees that Tommy has a gun in his
+dialog: hand.
+text: James immediately grabs Batts's arms and we see Tommy
+text: smash the gun into the side of Batts's head. We see
+text: Tommy hit Batts again and again as James continues to
+text: hold Batts's arms.
+speaker_heading: JAMES
+dialog: (to Henry, while
+dialog: pinning Batts's
+dialog: arms}
+dialog: Quick! Lock the door.
+text: We see Tommy club Batts to the ground with James holding
+text: Batts's arms.
+speaker_heading: CUT TO:
+speaker_heading: HENRY
+text: locking the door.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: (4)
+scene_heading: BATTS'S INERT FORM
+text: on the floor.
+text: We see Tommy unfold the package he had dropped near the
+dialog: bar.
+text: It is a plastic, flower-printed mattress cover.
+text: Tommy and James start putting Batts's legs into the
+dialog: mattress cover.
+text: Henry is standing over them as James and Tommy struggle
+text: to fit Batts's body in the mattress cover.
+speaker_heading: HENRY
+dialog: What are we going to do with him?
+dialog: We can't dump him in the street.
+speaker_heading: JAMES
+dialog: (to Henry)
+dialog: Bring the car ‘round back. I ‘know
+dialog: a place upstate they'll never find
+dialog: him. .
+text: Tommy is looking brightly at Henry, as he and James
+text: finally zip Batts in the mattress cover.
+speaker_heading: TOMMY
+dialog: I didn't want to get blood on your
+dialog: floor.
+scene_heading: EXT. REAR DRIVEWAY - SUITE - NIGHT
+text: Darkness. The open trunk of Henry's car. The mattress
+text: cover is being shoved into the trunk by the three men.
+text: It is heavy work.
+speaker_heading: HENRY
+dialog: Batts's made. His whole crew is
+dialog: going to be looking for him. This
+dialog: is fucking bad.
+speaker_heading: TOMMY
+text: There's a shovel at my mother's.
+scene_heading: INT. TOMMY'S MOTHER'S HOUSE - KITCHEN - NIGHT
+text: Darkness in the kitchen. We hear noise of doors opening
+text: and tools being banged around in the dark.
+speaker_heading: TOMMY
+dialog: Sshhh. You'll wake ‘er up.
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED:
+text: Suddenly the light in the entryway goes on, and we see
+text: Tommy's MOTHER, in housecoat, beaming at her son and his
+dialog: friends.
+speaker_heading: CUT TO:
+speaker_heading: KITCHEN TABLE
+text: where Tommy's Mother hovers over the seated Tommy, Henry
+text: and James. The table is filled with plates and coffee
+text: cups and the debris of dirty dishes.
+speaker_heading: MOTHER
+dialog: (to all)
+dialog: Have some more. You hardly
+dialog: touched anything. Did Tommy tell
+dialog: you about my painting? Look.
+text: We see her reach next to the refrigerator and pull up a
+text: couple of oil paintings she props on the edge of the
+dialog: table.
+speaker_heading: MOTHER
+dialog: (proudly)
+dialog: They want me to do a portrait next.
+dialog: I'm gonna do the Mona Lisa.
+speaker_heading: CUT TO:
+speaker_heading: WINDOW
+text: where we see Henry's car with the body in‘the trunk,
+text: still parked at the curb.
+scene_heading: INT. HENRY'S CAR - NIGHT
+text: Finally on their way, Henry is driving. James, in the
+text: passenger's seat, and Tommy, in the rear seat, embracing
+text: the shovel, are dozing off. The sleepy HUMMING sound of
+text: WHEELS is suddenly interrupted by a THUMPING sound. At
+text: first, Henry thinks he has a flat, but the THUMPING is
+text: too irregular. James awakens. His eyes are on Henry.
+text: Tommy leans forward from the rear seat. Silence. THUMP!
+dialog: Silence.
+scene_heading: EXT. MERRITT PARKWAY - NIGHT
+text: Car pulls off the road onto the grass. Henry, James and
+text: Tommy, still holding the shovel, get cut of the car.
+speaker_heading: TOMMY
+dialog: Jesus Christ! Miserable bastard!
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: 5
+text: Henry opens the trunk and steps back. In the trunk light
+text: we see the mattress cover squirming around. We hear
+scene_heading: MUFFLED GROANS.
+speaker_heading: TOMMY
+dialog: (raising the shovel)
+dialog: Can you believe this no-good fuck?
+dialog: The prick! He's still alive.
+text: Tommy suddenly smashes the shovel into the moving, bloody
+text: mattress cover. He smashes it again and again and again.
+text: Cursing Batts with every swing.
+speaker_heading: TOMMY
+dialog: Rat bastard.
+dialog: (swings shovel)
+dialog: No-good, low-life fuck.
+text: Tommy swings shovel again and again.
+text: Soon the mattress cover stops squirming and Tommy stops
+text: Swinging the shovel. He is exhausted. Tommy and James
+text: get back in the car. Henry is facing the open trunk.
+text: TILT UP and FREEZE ON Henry's face slamming the trunk
+dialog: shut.
+speaker_heading: HENRY (V.0.)
+dialog: As far back as I can remember, I
+dialog: always wanted to be a gangster.
+scene_heading: MAIN TITLE - GOOD FELLAS
+speaker_heading: UNFREEZE and --
+speaker_heading: DISSOLVE TO:
+scene_heading: HENRY - AS CHILD
+text: looking out his bedroom window.
+scene_heading: TITLE - EAST NEW YORK: BROOKLYN. 1955
+speaker_heading: HENRY (V.0.)
+dialog: To me, being a gangster was better
+dialog: than being President of the United
+dialog: States.
+scene_heading: HENRY'S POV - GRIMY ONE-STORY CABSTAND - NIGHT 6
+text: with faded "Pitkin Avenue Cabs" sign above the door.
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: 6
+text: It's after midnight. We see a half-dozen, immaculately-
+text: dressed hoods wearing diamond pinky rings and silk
+text: shirts, lounging around the cabstand talking and sipping
+dialog: coffee.
+speaker_heading: HENRY (V.0.)
+dialog: Even before I first wandered into
+dialog: the cabstand for an-after-school
+dialog: job, I knew I wanted to be a part
+dialog: of them. It was there I belonged.
+speaker_heading: HENRY'S POV
+text: We see a Cadillac pull up the to cabstand. We see the car
+text: rise slightly when two huge, dapper hoods get out.
+text: On hood #1 we see large diamond pinky ring on a
+text: sausage-thick finger.
+text: On hood #2 we see a broken-nosed hood's tie hanging
+text: loosely across his monogrammed shirt like a silk
+dialog: bandolier.
+speaker_heading: HENRY (V.0.)
+dialog: To me it meant being somebody in a
+text: neighborhood full of nobodies.
+text: On the sidewalk we see the two hoods who just got out of
+text: the car hug and playfully shove TUDDY VARIO, the
+text: sloppily-dressed, solidly-built hood who runs the
+dialog: cabstand.
+speaker_heading: HENRY (V.0.)
+dialog: They weren't like anyone else.
+dialog: They did whatever they wanted.
+text: They'd double-park in front of
+dialog: the hydrant and nobody ever gave
+dialog: them a ticket. In the summer when
+dialog: they played cards all night,
+dialog: nobody ever called the cops.
+text: We see Tuddy laughingly try to push them away.
+speaker_heading: HENRY (V.0.)
+dialog: Tuddy Vario ran the cabstand and a
+dialog: pizzeria and a few other places
+dialog: for his brother, Paul, who was the
+dialog: boss over everybody in the
+dialog: neighborhood.
+text: We see a laughing hood #1 slyly slip behind. Tuddy and
+text: grab him around the neck, while hood #2 starts feigning
+text: punches to Tuddy's ample midsection.
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: (2) 6
+text: Suddenly Tuddy Vario and hoods see that PAUL CICERO, the
+text: boss, is standing in the cabstand's doorway. Cicero is a
+text: large man, standing six-feet tall and weighing over 240
+text: pounds. He appears even larger.
+speaker_heading: HENRY (V.0.)
+dialog: Paulie might have moved slow, but
+dialog: it was only because he didn't have
+dialog: to move for anybody.
+text: Tuddy and the hoods immediately stop horsing around.
+scene_heading: TITLES CONTINUE.
+scene_heading: INT. CHILD'S BEDROOM - MORNING 7
+text: CARMELLA HILL, Henry's mother, shoves his books under his
+text: arm and pushes him into the hallway. We see Henry's two
+text: brothers putting on their jackets and picking up their
+text: books and almost tripping over another brother's,
+text: MICHAEL, wheelchair. We catch a glimpse of two sisters
+dialog: eating breakfast.
+text: We see Henry's construction worker father sipping coffee
+text: in kitchen before going to work.
+speaker_heading: HENRY (V.0.)
+dialog: At first, my parents loved that I
+dialog: found a job across the street. My
+dialog: father, who was Irish, was sent to
+dialog: work at the age of eleven, and he
+dialog: liked that I got myself a job. He
+dialog: always said American kids were
+dialog: spoiled lazy.
+speaker_heading: CARMELLA
+dialog: (to the brood)
+dialog: Come on. Come on. You'll all be
+dialog: late.
+speaker_heading: HENRY (V.0.)
+dialog: And my mother was happy after she
+dialog: found out that the Ciceros came
+dialog: from the same part of Sicily as
+dialog: she did. To my mother, it was the
+dialog: answer to her prayers.
+text: We see Henry's mother shove him out the door with his
+dialog: school books.
+scene_heading: EXT. STREET SIDE OF DOOR - DAY 8
+text: Carmella, in doorway, watches Henry go down the block
+text: toward school.
+speaker_heading: (CONTINUED)
+dialog: 10
+dialog: 11
+dialog: 12
+dialog: 10.
+speaker_heading: CONTINUED: 8
+text: When Henry turns the corner, along with other school-bound
+text: youngsters, we see he suddenly stops. The other school
+text: children keep walking. Henry carefully sticks his head
+text: around the corner. His mother is no longer there.
+text: We see Henry race across the street toward the cabstand.
+speaker_heading: HENRY (V.0.)
+dialog: I was the luckiest kid in the
+dialog: world.
+scene_heading: EXT. CABSTAND - DAY to 9
+text: We see Henry leap into the air to catch a set of car
+dialog: keys.
+speaker_heading: HENRY (V.0.)
+dialog: I could go anywhere.
+scene_heading: EXT. CABSTAND PARKING LOT - DAY ‘ 10
+text: We see Henry, who can hardly see over the, dashboard,
+text: jockeying a mobster's Caddy around the cabstand parking
+text: lot. We see other kids, Henry's age, watching Henry,
+text: in awe, from behind a fence.
+speaker_heading: HENRY (V.0.)
+dialog: I could do anything.
+scene_heading: INT. CABSTAND BACKROOM - DAY . iL
+text: We see Henry watching two uniformed cops laughing with
+text: Tuddy. and some hoods while stuffing whiskey bottles
+text: under their tunics.
+speaker_heading: HENRY (V.0.)
+dialog: I knew everybody and everybody
+dialog: Knew me.
+scene_heading: EXT. SIDEWALK OUTSIDE CABSTAND - DAY 12
+text: We see Henry trying to sip hot espresso coffee just like
+dialog: the big guys, except we see Henry grimace because. the
+dialog: coffee is too het and far too bitter.
+speaker_heading: HENRY (V.0.)
+dialog: But it wasn't too long before my
+dialog: parents changed their minds. For
+dialog: them, the cabstand was supposed to
+dialog: be a part-time job, but for me, it
+dialog: was full-time.
+speaker_heading: cuT TO:
+dialog: 13
+dialog: 14
+dialog: 15
+dialog: 11.
+scene_heading: INT. REAR OF CABSTAND 13
+text: Tuddy is folding and placing long sheets with policy bets
+text: into a brown paper bag. In the b.g., we see hoods going
+text: through boxes of stolen orange and blue cardigan sweaters.
+text: Henry waits at Tuddy's side until Tuddy finishes making a
+text: notation on a slip of paper. Tuddy holds the paper bag
+dialog: in his hands and...
+speaker_heading: TUDDY
+dialog: (to Henry, with
+dialog: a smile)
+dialog: Okay.
+scene_heading: EXT. CABSTAND 14
+text: We see Henry running out the cabstand door carrying the
+text: paper bag. He runs past half a dozen hoods, lounging
+text: outside on wooden chairs, wearing orange and blue
+dialog: sweaters.
+speaker_heading: HENRY (V.0.)
+dialog: People like my father could never
+dialog: understand, but I was a part of
+dialog: something. I belonged. I was
+dialog: treated like a grown-up. Every
+dialog: day I was learning to score.
+scene_heading: INT. HENRY'S HOUSE - KITCHEN 15
+speaker_heading: FATHER
+dialog: (in mock concern)
+dialog: Did you study hard in school today?
+dialog: Did you learn a lot? Huh?
+text: Henry is silent and begins backing away.
+speaker_heading: FATHER
+dialog: I can't hear you, you little liar.
+dialog: (waving the letter)
+dialog: I got this from the school. They
+dialog: say you haven't been there in
+dialog: months.
+text: Henry tries to dart past his Father, but he cannot
+text: escape. Henry gets a blow on the back of his head.
+text: Henry's mother starts to interfere, but is pushed back.
+speaker_heading: FATHER
+dialog: (beating Henry, but
+dialog: glaring at Carmella)
+dialog: Little lying bastard.
+text: Carmella screams. Henry doubles up.
+speaker_heading: (CONTINUED)
+dialog: 12.
+speaker_heading: 15 CONTINUED: 15
+text: Henry's Father keeps pounding away.
+scene_heading: CLOSE ON HENRY'S FACE
+scene_heading: FREEZE IN ACTION ON:
+scene_heading: HENRY'S FATHER'S FACE
+speaker_heading: HENRY (V.0.)
+dialog: My father was always pissed off.
+dialog: He was pissed that he had to work
+dialog: so hard. He was pissed that he
+dialog: made such lousy money. He was
+dialog: pissed that there were seven of
+dialog: us living in a tiny house. But
+dialog: after a while, he was mostly
+dialog: pissed that I hung around the
+dialog: cabstand. He said they were bums
+dialog: and that I was a bum. He said I
+dialog: was going to get into trouble.
+dialog: I used to say I was only running
+dialog: errands after school, but he knew
+dialog: better. He knew what went on at
+dialog: the cabstand and, every once in
+dialog: a while, usually after he got his
+dialog: load on, I had to take a beating.
+dialog: But by then, I didn't care. No
+dialog: matter how many beatings I took,
+dialog: I wouldn't listen to what he said.
+dialog: I don't think I even heard him.
+dialog: The way I saw it, everybody has
+dialog: to take a beating some time.
+text: UNFREEZE and continue the beating.
+speaker_heading: cuT TO:
+scene_heading: HENRY'S SWOLLEN AND BEATEN FACE
+scene_heading: 16 INT. CABSTAND - BACKROOM 16
+speaker_heading: TUDDY
+dialog: What happened to you?
+speaker_heading: HENRY
+dialog: I can't make any more deliveries.
+speaker_heading: (CONTINUED)
+dialog: 16
+dialog: 17
+dialog: 18
+dialog: 13.
+speaker_heading: CONTINUED: 16
+speaker_heading: TUDDY
+dialog: Whadda you mean, you can't make
+dialog: any more deliveries? You're going
+dialog: to fuck up everything?
+speaker_heading: HENRY
+dialog: My father got a letter from the
+dialog: school. He said the next time
+dialog: he'll kill me.
+speaker_heading: CUT TO:
+scene_heading: INT. AUTOMOBILE 17
+text: Three HOODS and Henry in parked car outside the post
+dialog: office.
+speaker_heading: HOOD #1
+dialog: (pointing to one
+dialog: postman)
+dialog: Is that the one?
+speaker_heading: HENRY
+dialog: No.
+speaker_heading: HOOD #2
+dialog: (pointing at another)
+dialog: Him?
+speaker_heading: HENRY
+dialog: No.
+dialog: (pause)
+dialog: There. That's him. That's the guy.
+text: Hood #1 and Hood #2 get out of the car and grab the
+text: stunned MAILMAN. He loses his hat and spills some mail
+text: as they shove him into the car's rear seat.
+scene_heading: INT. NEIGHBORHOOD PIZZERIA 18
+text: Tuddy Vario is standing in front of a pizza oven. Henry
+text: watches the Hoods shove the Mailman against the side of
+text: the oven. We see Paul Cicero in the b.g.
+speaker_heading: TUDDY
+dialog: (pointing to Henry)
+dialog: You know this kid?
+speaker_heading: MAILMAN
+dialog: (barely able to speak)
+dialog: Yes.
+speaker_heading: (CONTINUED)
+scene_heading: GOOD FELLAS - Rev. 6/28/89 14.
+scene_heading: 18 CONTINUED: “Bes 18.
+dialog: 
+dialog: 
+dialog: 
+text: nods, and the Hoods’ pull
+dialog: and shove the Mailman -
+dialog: 
+dialog: 
+dialog: eg dge allegiance
+dialog: tothe Hise and ‘sit through good —
+dialog: ‘government bulishit.
+dialog: 
+speaker_heading: CUT TO: *
+scene_heading: 18A EXT. STREET 184 *
+text: Tuddy.-and Heary running in the. rain.to Paulie’s house. *
+speaker_heading: HENRY (V.0.) *.
+dialog: ‘Paulie hated phones... He wouldn't *
+dialog: . have one in his house. . *
+speaker_heading: CUT TO: *
+scene_heading: ~~ TUDDY..AND. HENRY *
+text: talking to Paul in the doorway of his house. *
+speaker_heading: (CONTINUED)
+scene_heading: GOOD FELLAS - Rev. 6/28/89 - / 14a. *
+scene_heading: - 48A.- | CONTINUED: SRE . 184
+dialog: (~~
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: _ HENRY. (¥
+dialog: ays in sleeve-
+dialog: - of the cin
+dialog: 
+speaker_heading: : REAR: YARD SOF :
+dialog: 
+dialog: 
+dialog: 
+dialog: Hoods are cook
+dialog: (are bottles -o:
+dialog: 
+dialog: satisages. cand r grill. There
+dialog: f I omemade ‘wine and eB ‘of beer.
+dialog: 
+dialog: 
+dialog: We see Paul Cicero holding court while €
+dialog: a sausage
+dialog: sandwich. : ne
+speaker_heading: { CONTINUED)
+dialog: 19
+dialog: 20
+dialog: 15.
+speaker_heading: CONTINUED: 19
+text: There are hoods standing around him at a respectful dis-
+text: tance. Only Tuddy approaches him with ease.
+text: We see a hood talk to Tuddy. We see Tuddy relay the
+text: message to Paul. We see Paul say something to Tuddy,
+text: who nods back to the hood and then motions to Henry to
+text: come over. We see Tuddy bend down a little and whisper
+text: in Henry's ear.
+text: DOLLY IN ON Paul's face.
+speaker_heading: HENRY (V.0.)
+dialog: Hundreds of guys depended on
+dialog: Paulie and he got a piece of
+dialog: everything they made. It was
+dialog: tribute, just like the old country,
+dialog: except they were doing it in
+dialog: America. All they got from Paulie
+dialog: was protection from other guys
+dialog: looking to rip them off. That's
+dialog: what it's all about. That's what
+dialog: the F.B.I. can never understand --
+dialog: that what Paulie and the organization
+dialog: does is offer protection for people
+dialog: who can't go to the cops. They're
+dialog: like the police department for
+dialog: wiseguys.
+scene_heading: EXT. USED CAR LOT - NIGHT 20
+text: We see Tuddy in his car, hand Henry a hammer, some rags,
+text: and a five gallon can of gasoline.
+speaker_heading: TUDDY
+dialog: (driving away)
+dialog: I'll be up at the corner.
+text: We see Henry BREAK the WINDOWS of about six cars parked
+text: facing the sidewalk.
+speaker_heading: HENRY (V.0.)
+dialog: People looked at me differently.
+dialog: They knew I was with somebody.
+text: We see Henry shove the gas-soaked rags through the
+text: broken car windows. Henry looks up the block where
+text: Tuddy has parked. We see Tuddy (from Henry's POV) look
+text: around and nod. Henry immediately begins tossing
+text: lighted matchbooks through the smashed car windows.
+speaker_heading: (CONTINUED)
+dialog: 20
+dialog: 21
+dialog: 16.
+speaker_heading: CONTINUED: 20
+speaker_heading: HENRY (V.0.)
+dialog: I didn't have to wait on line at
+dialog: the bakery on Sunday morning
+dialog: anymore for fresh bread. The
+dialog: owner knew who I was with, and
+text: he'd come from around the counter,
+dialog: no matter how many people were
+dialog: waiting. I was taken care of first.
+text: Suddenly the night EXPLODES in orange brightness. We
+text: see Henry begin to run toward Tuddy's car as the cars
+text: he has ignited begin to EXPLODE behind him.
+speaker_heading: HENRY (V.0.)}
+dialog: Our neighbors didn't park in our
+dialog: driveway anymore, even though we
+dialog: didn't have a car. At thirteen,
+dialog: I was making more money than most
+dialog: of the grownups in the neighborhood.
+dialog: I had more money than I could spend.
+dialog: I had it all.
+text: FREEZE ON Henry's silhouette against the darkness like a
+dialog: man in hell.
+speaker_heading: HENRY (V.0.)
+dialog: One day some of the kids from the
+dialog: neighborhood carried my mother's
+text: groceries all the way home for her.
+dialog: It was out of respect.
+speaker_heading: CUT TO:
+scene_heading: EXT. HENRY'S HOUSE - DAY 21
+text: Henry's mother opens door of house, bright daylight.
+speaker_heading: MOTHER'S POV
+text: She sees grey lizard shoes, grey pinstriped trousers,
+text: grey silk shirt, Billy Eckstein collar, yellow silk tie,
+text: and double-breasted jacket. She looks up and sees
+text: Henry's smiling face.
+speaker_heading: MOTHER (0.S.)
+dialog: (aghast )
+dialog: My God! You look like a gangster.
+speaker_heading: CUT TO:
+speaker_heading: SCREAMING MAN
+text: running toward the pizzeria, holding his hand.
+dialog: 17.
+scene_heading: 22 EXT. PIZZERIA - DAY 22
+text: We see Henry standing near front of store.
+speaker_heading: MAN
+dialog: (screaming)
+dialog: I've been shot! Help! Help!
+speaker_heading: TUDDY
+dialog: (from rear of store,
+dialog: to Henry)
+dialog: Close the door. Don't let him in,
+text: Henry grabs a chair, takes it outside for the man to sit
+text: on. and closes the pizzeria door.
+text: The man collapses in the seat and Henry immediately
+text: starts wrapping the man's shredded and bleeding hand in
+text: his apron. The man is turning white and praying.
+speaker_heading: HENRY
+dialog: (soothing the man)
+dialog: It's okay. It's okay. They're
+text: getting an ambulance.
+text: We see Henry prop the man in his chair and race into
+text: the pizzeria for more aprons which he takes outside and
+text: wraps around the man's bleeding hand, just as an ambu-
+text: lance pulls up.
+text: We see Tuddy come up behind Henry as the man is rushed
+dialog: away.
+speaker_heading: HENRY (V.0.)
+dialog: It was the first time I had ever
+dialog: seen anyone shot.
+speaker_heading: TUDDY
+dialog: (angry)
+dialog: You're some fucking jerk.
+text: We see that Henry is stunned.
+speaker_heading: TUDDY
+dialog: You wasted eight fucking aprons on
+dialog: - that guy.
+speaker_heading: HENRY (V.0.)
+dialog: I remember feeling bad about the
+dialog: guy. But I remember feeling that
+dialog: maybe Tuddy was right. I knew
+dialog: Paulie didn't want anybody dying
+text: in the building.
+speaker_heading: CUT TO:
+dialog: 23
+dialog: 18.
+scene_heading: INT. CABSTAND - NIGHT 23
+text: Henry is making a ham and cheese sandwich. CAMERA
+text: TRACKING THROUGH room full of people playing cards,
+text: THROUGH professional card dealers skittering cards across
+text: green felt tables, THROUGH bodyguards watching the door,
+text: THROUGH Tuddy Vario walking around the tables, THROUGH
+text: Paul Cicero standing quietly on the side, THROUGH Henry
+text: giving the sandwich to one of the players.
+speaker_heading: HENRY (V.0.)
+dialog: It was a glorious time. Wiseguys
+dialog: were all over the place. It was
+dialog: before Apalachin and before Crazy
+dialog: Joey decided to take on a boss and
+dialog: start a war. It was when I met
+dialog: the world. It was when I first met
+dialog: James Conway.
+text: CAMERA COMES TO REST when James Conway walks in the door.
+speaker_heading: CUT TO:
+speaker_heading: HENRY
+text: looking at James.
+speaker_heading: HENRY (V.0.)
+dialog: He couldn't have been more than
+dialog: twenty-four or twenty-five at the
+dialog: time, but he was already a legend.
+dialog: He'd walk in the door and everybody
+dialog: who worked the room went wild.
+dialog: He'd give the doorman a hundred
+dialog: just for opening the door. He
+text: shoved hundreds in the pockets of
+dialog: the dealers and who ran the games.
+dialog: The bartender got a hundred just
+dialog: for keeping the ice cubes cold.
+text: Henry sees Cicero give Conway a hug around the shoulder.
+text: Henry sees James handing money to the doorman. Henry
+text: watches players timidly move their chairs slightly to
+text: make room for James. Henry sees James pull out a wad
+text: of bills and sit down.
+speaker_heading: JAMES
+dialog: (to Henry, who is
+dialog: standing near
+dialog: the bar)
+dialog: Hey, kid! Get me a seven and seven.
+text: We see Henry make the drink and bring it to James.
+text: Cicero is standing next to James.
+speaker_heading: (CONTINUED)
+dialog: 23
+dialog: 24
+dialog: 19.
+speaker_heading: CONTINUED: 23
+speaker_heading: CICERO
+dialog: (his arm around
+dialog: Henry's shoulder)
+dialog: Henry. Say hello to James Conway.
+text: We see James slip a $20 bill in Henry's shirt pocket.
+speaker_heading: JAMES
+dialog: (lifting his drink
+dialog: to Henry)
+dialog: Keep ‘em coming.
+scene_heading: FREEZE FRAME ON James.
+speaker_heading: HENRY (V.0.)
+dialog: James was one of the most feared
+dialog: guys in the city. He was first
+dialog: locked up at eleven and was doing
+dialog: hits for mob bosses when he was
+dialog: sixteen. Hits never bothered him.
+dialog: It was business. But what he
+dialog: really loved to do was steal. I
+dialog: mean, he actually enjoyed it.
+dialog: James was the kind of guy who
+dialog: rooted for the bad guys in the
+dialog: movies. He was one of the city's
+text: biggest hijackers. Clothes.
+dialog: Razor blades. Booze. Cigarettes,
+text: Shrimp and lobsters. Shrimp and
+dialog: lobsters were the best. They went
+dialog: ast.
+scene_heading: EXT. TRAILER TRUCK (NEAR IDLEWILD AIRPORT) - NIGHT 24
+text: The trailer truck is stopped at a light in a deserted
+text: area near JFK Airport. We see the driver being quietly
+text: led to a car where James Conway is standing. We see
+text: James routinely take the driver's wallet. There is
+dialog: absolutely no resistance.
+speaker_heading: HENRY (V.0.)
+dialog: And almost all of them were
+dialog: gimmie's.
+speaker_heading: CLOSEUP - WALLET
+text: We see James put a $50 bill. in the driver's wallet.
+speaker_heading: (CONTINUED)
+dialog: 24
+dialog: 25
+dialog: 20.
+speaker_heading: CONTINUED: 24
+speaker_heading: HENRY (V.0.) .
+dialog: They called him James the Gent.
+dialog: The drivers loved him. They used
+dialog: to tip him off about the really
+dialog: good loads. Of course, everybody
+dialog: got a piece. And when the cops
+dialog: assigned a whole army to stop him...
+dialog: (pause)
+dialog: ..-. James made them partners.
+dialog: cur TO:
+scene_heading: EXT. CABSTAND PARKING LOT - CLOSEUP - ROWS oF CIGARETTE 25
+speaker_heading: CARTONS - DAY
+text: piled inside a large trailer truck.
+text: James and Tommy DeVito, a youngster about Henry's age,
+text: are moving large cigarette cartons toward truck tail-
+text: gate. While James is dressed like a truck driver, Tommy
+text: is very nattily dressed in a sharply-cut suit and highly
+dialog: buffed shoes.
+text: James and Tommy are loading the cartons into the arms of
+text: a woman SCHOOL-CROSSING GUARD who is having difficulty
+text: carrying the load.
+speaker_heading: JAMES
+dialog: Tommy. Help the lady.
+text: We see Tommy scramble down from the truck and help the
+text: School-Crossing Guard to her own car where we see she
+text: already had a load of the cartons.
+text: We see Henry standing near her car and watching.
+scene_heading: SCHOOL-CROSSING GUARD
+dialog: (driving off)
+dialog: Thank you, sweetheart.
+speaker_heading: CUT TO:
+speaker_heading: JAMES
+text: standing between Tommy and Henry.
+speaker_heading: JAMES
+dialog: (to Henry)
+dialog: Say hello to Tommy. You'll do
+dialog: good together.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED )
+dialog: 25
+dialog: 26
+dialog: 27
+dialog: 28,
+dialog: 21.
+speaker_heading: CONTINUED: 25
+speaker_heading: POLICE CAR
+text: pulling onto the sidewalk where Henry, Tommy and James
+text: are standing. The COPS recognize James.
+speaker_heading: COP #1
+dialog: Anything good?
+text: Henry watches James smile and toss a couple of cartons of
+text: cigarettes into their radio car.
+text: The Cops wave and drive off.
+scene_heading: EXT. FACTORY GATE - QUITTING TIME 26
+text: We see Henry busily selling. cartons to workers. Tommy
+text: is getting cartons out of the trunk of a car parked
+text: nearby. Henry is so busy he can hardly keep the money
+text: and cash straight. Instead of the neat roll we saw on
+text: James, Henry's cash is a wrinkled mess. Some of it is
+text: rolled, some folded, some in different pockets. We see
+text: Henry approached by two city DETECTIVES.
+speaker_heading: DETECTIVE #1
+dialog: What do you think you're doing?
+speaker_heading: DETECTIVE #2
+dialog: Where did you get these cigarettes?
+speaker_heading: HENRY
+dialog: , (offering them cartons)
+dialog: It's okay.
+text: Detective #1 roughly grabs Henry's arm. Detective #2
+text: grabs Henry's cigarette cartons, We see Henry pull his
+text: arm away and one. of the Detectives slaps him across
+dialog: the face.
+text: We see that Tommy is about to say something, but runs
+dialog: away instead.
+scene_heading: INT. CABSTAND - DAY 27
+text: We see Tommy talking to Tuddy and assorted hoods at the
+dialog: cabstand. . :
+scene_heading: INT. COURTROOM - "AR-1" (ARRAIGNMENT PART 1) 28
+text: Henry is waiting along with dozens of hookers, nodding
+text: junkies, muggers and shoplifters. When Henry's case is
+dialog: called, we PAN TO a well-dressed mob lawyer. Henry, who
+text: has never seen the lawyer before, walks to the
+text: prosecutor's, rather than the defendant's table. A court
+text: clerk nods him over toward his own lawyer.
+speaker_heading: (CONTINUED)
+dialog: 
+dialog: 31
+dialog: 32
+dialog: 33
+dialog: 23.
+speaker_heading: CONTINUED: 31
+text: We see DRIVER get out of truck with ENGINE still RUNNING
+text: and leave door open. He nods to Henry who does not
+text: respond and the Driver casually walks toward the diner.
+speaker_heading: HENRY (V.0.)
+dialog: If any of the truckers or airlines
+dialog: gave us trouble, Paulie had his
+dialog: union people scare them with a
+dialog: little strike. It was beautiful.
+dialog: It was an even bigger money-maker
+dialog: than numbers, and James was in
+dialog: charge. Whenever we needed money,
+dialog: we'd rob the airport. To us, it
+dialog: was better than Citibank.
+scene_heading: INT. TABLE IN DINER 32
+text: We see Driver rise from debris of breakfast dishes, leave
+text: a tip and pay the cashier. He walks out the door toward
+text: his truck in the parking lot.
+text: HOLD ON the door.
+text: Driver rushes back in through the door toward the
+dialog: cashier.
+speaker_heading: DRIVER
+dialog: (flushed and
+dialog: agitated)
+dialog: Hurry, gimme the phone. Two
+dialog: niggers just stole my truck.
+scene_heading: INT, SONNY BUNZ'S LOUNGE - DUSK 33
+text: A cavernous room within earshot of the airport that looks
+dialog: like a movie nightclub. No matter when you walk into
+dialog: the Bunz Lounge it's always the middle of the night.
+text: CAMERA TRACKS PAST the zebra-striped banquettes and bar
+text: stools, past sharpy businessmen, bookmakers and hoods.
+speaker_heading: HENRY (V.0.)
+dialog: There was James and Tommy and me.
+dialog: And there was Anthony Stabile,
+dialog: Franky Carbone, Fat Andy, Frankie
+dialog: the Wop, Freddy No Nose, Pete the
+dialog: Killer, Johnny Bianco, Mikey
+dialog: Franzese, and Jimmy Two Times, who
+dialog: got that nickname because he said
+dialog: everything twice. Like, ‘You
+dialog: wanna get the papers, get the
+dialog: papers.’
+speaker_heading: (CONTINUED)
+dialog: 33
+dialog: 24.
+speaker_heading: CONTINUED: 33
+text: CAMERA TRACKS TO the backroom which we see is filled with
+text: racks of clothes, boxed television sets, new toaster
+text: ovens and stereos. We see MAN rolling racks of fur coats
+dialog: i oom i ook: ike isco
+speaker_heading: MAN
+dialog: (to Sonny)
+dialog: Sonny, we got the coats.
+speaker_heading: SONNY
+dialog: (ignoring the Man
+dialog: and to Henry)
+dialog: You got any suits?
+speaker_heading: HENRY
+dialog: Not till Thursday.
+speaker_heading: SONNY
+dialog: (closing door to
+dialog: backroom)
+dialog: I need suits.
+speaker_heading: CUT TO:
+scene_heading: HENRY, JAMES, TOMMY AND ASSORTED HOODS AND THEIR GIRL
+speaker_heading: FRIENDS
+text: are having a party. There are champagne buckets around
+text: the table which is littered with steak and lobster
+text: dishes. The table is a mess and everyone is laughing.
+text: We see Henry look at his watch and look at the lounge's
+dialog: entrance. .
+speaker_heading: HENRY (V.0.)
+dialog: For us to live any other way was
+dialog: nuts. To us, those goody-good
+dialog: people who worked shitty jobs
+dialog: for bum paychecks, who took the
+dialog: subway to work every day and
+dialog: worried about their bills, were
+dialog: dead. They were suckers. They
+dialog: had no balls. If we wanted
+dialog: something, we just took it. If
+dialog: anyone complained twice, they
+dialog: got hit so bad they never
+dialog: complained again. It was routine.
+dialog: You didn’t even think about it.
+dialog: Cur To:
+speaker_heading: (CONTINUED)
+dialog: 33
+dialog: 25.
+speaker_heading: CONTINUED: (2) 33
+scene_heading: DOORWAY OF BUNZ LOUNGE
+text: We see FRENCHY McMAHON, a beefy man in a leather
+text: windbreaker, enter.
+text: We see Henry get up and go over to greet him.
+dialog: cut TO:
+speaker_heading: BAR
+text: Henry and Frenchy embrace.
+text: Frenchy is still wearing his Air France cargo worker's
+text: coveralls under his leather jacket and we see the "Air
+text: France" logo and the name "Frenchy" in script over the
+text: coverall's breast pocket.
+speaker_heading: FRENCHY
+dialog: (trying to whisper
+dialog: above the din)
+dialog: It's all there. I can get you
+dialog: past the alarms and I can get the
+dialog: ey.
+text: We see Henry turn to table and wave at James to join them
+text: at the bar.
+speaker_heading: CUT TO:
+speaker_heading: TABLE
+text: We see James get up and go to the bar.
+text: We see Tommy at the table with SONNY BUNZ, the owner,
+text: hovering around. Sonny Bunz is holding a thick sheaf
+text: of bills. We see Sonny timidly approach Tommy by
+text: whispering in his ear. In the b.g., we also see the face
+text: of a terrified waiter.
+speaker_heading: TOMMY
+dialog: (putting his arm
+dialog: around Sonny's
+dialog: shoulder)
+dialog: It's okay. Put it on the tab.
+speaker_heading: SONNY
+dialog: (whispering with fear
+dialog: all over his face)
+dialog: Tommy, it's not just this. Tommy,
+dialog: please. It's seven grand here.
+text: We see Tommy just stare menacingly at Sonny.
+speaker_heading: (CONTINUED)
+dialog: 33
+dialog: 34
+dialog: 26.
+speaker_heading: CONTINUED: (3) 33
+speaker_heading: SONNY
+dialog: (he started, he
+dialog: might as well
+dialog: finish)
+dialog: Tommy, I need the money, Tommy,
+dialog: Please. I owe the world.
+speaker_heading: TOMMY
+dialog: (leaping from the
+dialog: table in a rage)
+dialog: You sonofabitch fuck. Are you
+dialog: calling me a deadbeat? The money
+dialog: I spent here? Embarrassing me in
+dialog: front of my friends. You
+dialog: miserable fuck.
+dialog: {turning to his pals)
+dialog: Can you believe this bastard?
+dialog: (back to terrified
+dialog: Sonny)
+dialog: Ungrateful fuck! I oughta break
+dialog: your fucking legs!
+text: We see Sonny Bunz flee toward his office, with Tommy
+text: making a half-hearted gesture to follow, but instead, he
+text: walks over and joins Henry, James and Frenchy at the
+text: bar. He is smiling.
+speaker_heading: FRENCHY
+dialog: {to Tommy)
+dialog: Hey, Tommy. Have a drink.
+scene_heading: INT. CABSTAND - BACKROOM - DAY 34
+text: We see Sonny Bunz meekly seated at table facing Paul
+text: Cicero. Henry is standing behind Sonny Bunz for support.
+speaker_heading: CICERO
+dialog: (groaning)
+dialog: If you knew those fucking kids.
+dialog: They're nuts. Especially that
+dialog: Tommy. What am I going to do with
+dialog: them?
+speaker_heading: SONNY
+dialog: (sweating)
+dialog: But I'm worried. I'm hearing all
+dialog: kinds of things. Paulie. You
+dialog: know me all my life. I've always
+dialog: done the right thing.
+speaker_heading: CICERO
+dialog: You think that matters? You
+dialog: think they give a shit about
+dialog: anything? The little bastards.
+speaker_heading: (CONTINUED )
+dialog: 34
+speaker_heading: CONTINUED:
+dialog: 27.
+dialog: 34
+speaker_heading: SONNY
+dialog: But it isn't right, Paulie. That
+dialog: Tommy he's making trouble for me
+dialog: all over town. I can't go here.
+dialog: I can't go there.
+speaker_heading: CICERO
+dialog: You? You think you're the only
+dialog: one? I've talked to them a
+dialog: million times, but they don't
+dialog: listen.
+speaker_heading: SONNY
+dialog: (weakly)
+dialog: But, Paulie, please.
+speaker_heading: CICERO
+dialog: (barely listening)
+dialog: Someday they'll get what's coming
+dialog: to them. That's the only way
+dialog: they'll stop.
+speaker_heading: SONNY
+dialog: (pleading)
+dialog: Paulie, I swear, I'm afraid. The
+dialog: guy's nuts. What do I have to do?
+dialog: Whatever I gotta do, I'll do.
+speaker_heading: CICERO
+dialog: (arms outstretched
+dialog: like a saint)
+dialog: What can I do? If I could do
+dialog: something, don't you think I
+dialog: would?
+text: Sonny looks up at Henry for support.
+speaker_heading: HENRY
+dialog: (to Sonny)
+dialog: Tell him, It's okay.
+speaker_heading: CICERO
+dialog: What?
+speaker_heading: SONNY
+dialog: I was thinking that maybe you
+dialog: could come in with me. Take a
+dialog: piece of the place. If you were
+dialog: with me, maybe then they'd have
+dialog: to lay off.
+speaker_heading: CICERO
+dialog: What do I need...
+speaker_heading: (CONTINUED)
+dialog: 34
+dialog: 35
+dialog: 36
+dialog: 37
+dialog: 28.
+speaker_heading: CONTINUED: (2) 34
+speaker_heading: SONNY
+dialog: (interrupting)
+dialog: I mean it. We could do good.
+speaker_heading: CICERO
+dialog: You want a partner?
+speaker_heading: SONNY
+dialog: Please.
+scene_heading: EXT. BUNZ LOUNGE - CURBSIDE - DAY 35
+text: We see trucks with liquor, beer, sides of beef, even
+text: furniture like bar stools and large mirrors being
+text: unloaded and delivered into the front door.
+speaker_heading: HENRY (V.0.)
+dialog: Now the guy's got Paulie for a
+dialog: partner. Any problems, he goes
+dialog: to Paulie. Trouble with the bill?
+dialog: He can go to Paulie. Trouble with
+dialog: the cops? Deliveries? Tommy? He
+dialog: ean call Paulie.
+scene_heading: INT. BUNZ LOUNGE - DAY 36
+text: We see Henry and two hoods from cabstand checking the
+text: cases of liquor being delivered into the lounge. The
+text: entire room is filled floor to ceiling with cases of
+text: whiskey, wine, crates of lobster, and shrimp, and
+text: stacks of table linen and sides of beef. The place
+text: looks like a warehouse.
+speaker_heading: HENRY (V.0.)
+dialog: But now the guy has got to come
+dialog: up with Paulie's money every week,
+dialog: no matter what. Business bad?
+dialog: Fuck you, pay me. You had a fire?
+dialog: Fuck you, pay me. The place hit
+dialog: by lightning? Fuck you, pay me.
+dialog: Also, Paulie could do anything.
+dialog: Especially run up bills on the
+dialog: joint's credit. Why not?
+dialog: Nobody's gonna pay for it anyway.
+scene_heading: EXT. BUNZ LOUNGE - REAR ALLEYWAY - DAY 37
+text: We see cases of liquor, wine, etc., being carried out of
+text: the rear door of the lounge by hoods from the cabstand
+text: and loaded onto U-Haul trucks.
+speaker_heading: (CONTINUED)
+dialog: 37
+dialog: 38
+dialog: <_
+dialog: 39
+dialog: ~~
+dialog: 29.
+speaker_heading: CONTINUED: 37
+speaker_heading: HENRY (V.0.)
+dialog: As soon as the deliveries are made
+dialog: in the front door, you move the
+dialog: stuff out the back and sell it at
+dialog: a discount. You take a two
+dialog: hundred dollar case of booze
+dialog: and sell it for a hundred. It
+dialog: doesn't matter. It's all profit.
+scene_heading: INT. BUNZ LOUNGE OFFICE 38
+text: Henry, James and Tommy are standing around the small
+text: workman's table. There is no desk. The office looks
+text: denuded of furniture. A lawyer is going over papers.
+text: A terrified, unshaven Sonny Bunz is seated behind the
+text: desk. The lawyer is showing him where to sign.
+speaker_heading: HENRY (V.0.)
+dialog: And, finally, when there's nothing
+dialog: left, when you can't borrow
+dialog: another buck from the bank or buy
+dialog: another case of booze, you bust
+dialog: the joint out.
+scene_heading: CUT DIRECTLY TO:
+scene_heading: LARGE CLOSEUP - HANDS
+text: making rolls of toilet paper being kneaded into long
+text: rolls with Sterno.
+speaker_heading: CUT TO:
+speaker_heading: HENRY AND TOMMY
+text: shoving wads of Sterno paper into the ceiling rafters.
+speaker_heading: HENRY (V.0.)
+dialog: You light a match.
+dialog: Cut To:
+speaker_heading: CLOSEUP - MATCH
+text: lighting rolls of Sterno paper.
+scene_heading: EXT. BUNZ LOUNGE - CURBSIDE - NIGHT 39
+text: The street is empty. Henry and Tommy are seated in
+text: Henry's car. They are watching the Bunz Lounge.
+speaker_heading: (CONTINUED)
+dialog: 39
+dialog: 40
+dialog: 30.
+speaker_heading: CONTINUED: 39
+speaker_heading: TOMMY
+dialog: (to Henry)
+dialog: You gotta help me. Okay? This
+dialog: girl I told you about? Helene?
+dialog: She's from the Five Towns. She's
+dialog: Jewish. She won't go out with me
+dialog: alone. Can you believe this shit?
+dialog: She's fucking prejudiced, but she's
+dialog: built. She's never been out with
+dialog: an Italian before. She says
+dialog: she'll only go out on a double
+dialog: date with her girl friend. You
+dialog: believe this shit? But you gotta
+dialog: see her. I mean, she's beautiful. -
+speaker_heading: HENRY
+dialog: (laughing)
+dialog: Will you get the fuck out of here.—
+speaker_heading: TOMMY
+dialog: Is it my fault she won't go out
+dialog: without her girl friend? For
+dialog: Chrissake. Come on. You don't
+dialog: even have to stay. Jeesuz!
+dialog: What's the big deal?
+speaker_heading: HENRY
+dialog: Tommy...
+speaker_heading: CUT TO:
+speaker_heading: HENRY AND TOMMY
+text: watching smoke coming out of basement windows of Bunz
+dialog: Lounge.
+speaker_heading: TOMMY (0.8.)
+dialog: (back to
+dialog: conversation)
+dialog: I swear you don't have to do
+dialog: nothing. You. just show up and
+dialog: then leave. What do you think,
+dialog: I want you around? All I need
+dialog: is for you to get me started.
+text: We hear CAR ENGINE START.
+scene_heading: INT. QUIET PLUSH BANQUET IN VILLA CAPRA 40
+text: a red damask restaurant. Tommy and Henry are seated on
+text: the outside of.a U-shaped banquet with their two girls,
+text: Helene and Karen, seated inside. Helene is being wooed
+text: and pawed by a blissful Tommy. Helene is enjoying every
+text: bit of Tommy's undivided attention.
+speaker_heading: (CONTINUED)
+dialog: 40
+dialog: 41
+dialog: 42
+dialog: 31.
+speaker_heading: CONTINUED: 40
+text: Karen has not touched her melted baked Alaska and is
+text: looking directly at Henry. Henry is stirring his coffee.
+speaker_heading: HENRY (V.0.)
+dialog: I had a meeting with Tuddy around
+dialog: eleven o'clock and here I am a
+dialog: back-up guy.
+speaker_heading: . KAREN
+dialog: (sarcastically)
+dialog: Have more coffee. It'll wake you
+dialog: up.
+speaker_heading: HENRY (V.0.)
+dialog: I couldn't wait to get away. I
+dialog: was ordering the dessert when they
+dialog: were eating dinner. When they
+dialog: were having coffee, I was asking
+dialog: for a check.
+speaker_heading: TOMMY
+dialog: (to Henry, while
+dialog: hugging Helene)
+dialog: Isn't she great? Isn't this
+dialog: great? Let's do it tomorrow
+dialog: night? Okay?
+speaker_heading: KAREN (V.0.)
+dialog: I couldn't stand him. I thought
+dialog: he was really obnoxious. He
+text: kept fidgeting around.
+scene_heading: EXT. RESTAURANT - PARKING LOT - NIGHT 41
+text: We see Henry pushing Karen into the car.
+speaker_heading: KAREN (V.0.)
+dialog: Before it was even time to go
+dialog: home he was pushing me into the
+dialog: car...
+scene_heading: EXT. KAREN'S HOUSE - CURBSIDE - NIGHT 42
+text: We see Henry hurrying Karen out of the car.
+speaker_heading: KAREN (V.0.)
+dialog: ... and then pulling me out.
+dialog: It was ridiculous. But Helene and
+dialog: Tommy had made us promise to meet
+dialog: them again on Friday night. We
+dialog: agreed... Of course, when Friday
+dialog: night came around, Henry stood
+dialog: me up..
+dialog: 43
+speaker_heading: 44
+dialog: 32.
+scene_heading: INT. VILLA CAPRA RESTAURANT - NIGHT 43
+text: We see Tommy, Helene and Karen seated at a table set for
+dialog: four.
+speaker_heading: KAREN (V.0.)
+dialog: We were a trio instead of a
+dialog: double-date that night, but I made
+dialog: Tommy take me looking for him.
+scene_heading: EXT. CABSTAND SIDEWALK - NIGHT 44
+text: A hot night. The hoods have moved to the sidewalk where
+text: we see them sitting in sleeveless underwear, watching
+dialog: the street.
+text: ‘We see Henry leave the cabstand when suddenly a CAR
+text: SCREECHES up on the sidewalk directly in front of him.
+text: The hoods scatter and we see that Henry is terrified.
+speaker_heading: KAREN
+dialog: (charging out
+dialog: of the door,
+dialog: Screaming)
+dialog: You've got some nerve. Standing
+dialog: me up. Nobody does that to me.
+dialog: Who do you think you are? A big
+dialog: shot?
+speaker_heading: CUT TO:
+speaker_heading: HENRY
+text: who sees Tommy and Helene in the car, laughing.
+speaker_heading: HENRY
+dialog: (embarrassed and
+dialog: defensive)
+dialog: I didn't know. I swear. I
+dialog: thought it was next week.
+speaker_heading: KAREN
+dialog: Liart
+speaker_heading: CUT TO:
+speaker_heading: HENRY
+text: who sees the wiseguys laughing.
+speaker_heading: HENRY
+dialog: Take it easy. We can talk about
+dialog: it.
+speaker_heading: (CONTINUED)
+speaker_heading: 44
+dialog: 45
+dialog: 46
+dialog: 33.
+speaker_heading: CONTINUED: 44
+speaker_heading: HENRY (V.0.)
+text: She's screaming on the street
+dialog: and I mean loud, but she looked
+dialog: good. She had these viclet eyes.
+dialog: I remember she's screaming, but
+text: mostly I'm looking at her eyes.
+dialog: They were just like Elizabeth
+dialog: Taylor's. That's what everybody
+dialog: said.
+speaker_heading: KAREN
+dialog: (furious)
+dialog: Talk? To you? After what you
+dialog: did!
+speaker_heading: HENRY
+dialog: I thought you were going to stand
+dialog: me up. You looked bored. You
+dialog: didn't say anything. What did you
+dialog: expect. Tommy was all over me.
+dialog: Right?
+text: We see Karen relax for a second.
+speaker_heading: HENRY
+dialog: Come on, let me make it up.
+scene_heading: INT. ENTRY TO KAREN'S SUBURBAN HOME - ANGLE ON GOLD 45
+scene_heading: CROSS AROUND MAN'S NECK - NIGHT ~
+text: and TILT UP. Henry is all smiles and slicked-up, stand-
+text: ing in the door wearing a grey suit and open-necked black
+text: silk shirt with a gold cross on chain.
+speaker_heading: KAREN
+dialog: (filled with alarm)
+dialog: Button your shirt, quick! Hurry.
+text: Henry buttons his shirt as Karen's Mother comes to the
+dialog: door.
+speaker_heading: KAREN
+dialog: Ma, this is my friend, Henry Hill.
+speaker_heading: MOTHER
+dialog: My daughter says you're half-
+dialog: Jewish?
+scene_heading: EXT. COPACABANA - NIGHT 46
+text: Henry gives the keys and a rolled-up twenty dollar bill
+text: to the doorman at the building across the street and
+text: steers Karen toward the Copa.
+speaker_heading: (CONTINUED)
+dialog: 34.
+speaker_heading: 46 CONTINUED: 46
+speaker_heading: KAREN
+dialog: What're you doing? What about
+dialog: the car?
+speaker_heading: HENRY
+dialog: (while pushing her
+dialog: through the crowd
+dialog: waiting to get in)
+dialog: He watches it for me. It's
+text: better than waiting at a garage.
+text: We see Henry deftly steer Karen away from the Copa’s main
+text: entrance and down the basement steps. A huge bodyguard,
+text: eating a sandwich in the stairwell gives Henry a big
+text: "hello." We see Henry walk right through the basement
+text: kitchen, which is filled with Chinese and Latino cooks
+text: and dishwashers who pay no attention. Karen is being
+text: dragged along, open-mouthed, at the scene. Henry starts
+text: up a stained kitchen staircase through a pair of swinging
+text: doors and suddenly Karen sees she is inside the main
+text: room. The harried maitre d’ (he is surrounded by
+text: customers clamoring for their tables) waves happily at
+text: Henry and signals to a CAPTAIN. We see a table held
+text: aloft by two waiters wedging their way toward the stage
+text: and plant the table smack in front of what had until that
+text: moment been a ringside table. As Henry leads Karen to
+text: their seat, she sees that he is nodding and shaking
+text: hands with many of the other guests. We see Henry
+text: quietly slip twenty dollar bills to the waiters.
+speaker_heading: KAREN
+dialog: (sitting down)
+dialog: You gave them twenty dollars each?
+text: We see the Captain approach with champagne.
+speaker_heading: CAPTAIN
+dialog: This is with Mister Tony, over
+dialog: there.
+speaker_heading: HENRY
+dialog: Where, over there?
+speaker_heading: . CAPTAIN
+dialog: Over there, over there.
+text: Karen watches Henry turn around and wave at a 280-pound
+dialog: hood.
+speaker_heading: KAREN
+dialog: What do you do?
+speaker_heading: (CONTINUED)
+dialog: 46
+dialog: 47
+dialog: 48
+dialog: 35.
+speaker_heading: CONTINUED: (2) 46
+speaker_heading: HENRY
+dialog: (toasting Karen
+dialog: and clinking
+dialog: glasses)
+dialog: I'm in construction.
+speaker_heading: KAREN
+dialog: (taking his-hands)
+dialog: They don't feel like you're in
+dialog: construction.
+text: Henry turns to the stage where the lights begin to dim
+text: and Henny Youngman walks out.
+speaker_heading: HENRY
+dialog: I'm a union delegate.
+scene_heading: EXT. AIR FRANCE CARGO AREA - NIGHT 47
+text: On loading platform we see Henry and Tommy dressed in
+text: Air France coveralls.
+text: Henry is carrying a large suitcase.
+text: Suddenly we see Frenchy McMahon come through a door,
+text: slip Henry a key and lead them back into the office area
+text: near the entrance.
+text: Henry goes to the door marked "SECURITY AREA” that
+text: Frenchy points out and opens it with the key. Henry and
+text: Tommy go inside.
+speaker_heading: CUT TO:
+speaker_heading: HENRY AND TOMMY
+text: coming out with the suitcase, close the door and walk
+text: right past Frenchy without saying a word.
+scene_heading: INT. CABSTAND - BACKROOM - NIGHT 48
+text: We see the suitcase open on the desk. We see Cicero,
+text: James, Henry and Tommy standing around, wreathed in
+text: smiles. Henry is counting stacks of cash, spreading
+text: them all over the desk.
+speaker_heading: HENRY (V.0.)
+dialog: Air France made me. We walked out
+dialog: with four hundred and twenty
+dialog: thousand dollars without.a gun.
+dialog: And we did the. right thing.
+text: Henry counts up $420,000 and slides ten packages of $100
+text: bills in front of Cicero who stands up and proudly kisses
+dialog: Henry on the cheek. °
+speaker_heading: (CONTINUED)
+dialog: 48
+dialog: 49
+dialog: 50
+dialog: 36.
+speaker_heading: CONTINUED: 48
+text: James and Tommy, both aglow with the moment, look on. It
+text: is clear that Henry has come of age.
+speaker_heading: CUT TO:
+speaker_heading: HENRY'S FACE
+speaker_heading: CICERO
+dialog: (to Henry)
+dialog: It's a lot of money for a kid.
+dialog: If anyone asks, just say you won
+dialog: it shooting crap.
+scene_heading: EXT. BEACH CLUB ~ DAY 49
+text: Henry and Karen are at a sun-drenched table after paper-
+text: cup and paper plate lunch where Henry is trying to pay
+dialog: cash.
+speaker_heading: KAREN
+dialog: (touching Henry's arm)
+dialog: No. No. You've got to sign for
+dialog: it.
+text: We see athletic young men and women in white clothes
+text: carrying tennis and squash rackets walk by. One young
+text: man, Bruce, says hello to Karen. She introduces him to
+dialog: Henry.
+speaker_heading: KAREN
+dialog: (after Bruce walks
+dialog: on)
+text: He lives across the street.
+speaker_heading: CUT TO:
+speaker_heading: CHAMPAGNE
+text: being sent to table.
+scene_heading: INT. NIGHTCLUB - NIGHT 50
+text: CAMERA PANS TO stage where we see singer's back and
+text: Henry and Karen at a luxurious ringside table with linen,
+dialog: silver, and crystal.
+speaker_heading: KAREN (V.0.)
+dialog: One night Billy Daniels sent us
+dialog: champagne. There was nothing like
+dialog: it. I didn't think that there was
+dialog: anything strange in any of this --
+dialog: you know, a twenty-one-year-old
+dialog: kid with such connections.
+speaker_heading: CUT TO:
+dialog: i”
+dialog: 51
+dialog: 52
+dialog: 37.
+scene_heading: INT. HENRY'S CAR - DAWN 51
+text: Henry and Karen are sipping champagne from Copa glasses
+text: in car parked outside her house.
+speaker_heading: KAREN (V.0.)
+dialog: He was an exciting guy. He was
+dialog: really nice. He introduced me to
+dialog: everybody. Everybody wanted to be
+dialog: nice to him. And he knew how to
+dialog: handle it:
+speaker_heading: CUT TO:
+scene_heading: INT. MORRIS KESSLER'S QUEENS BOULEVARD WIG AND BEAUTY 52
+scene_heading: SALON - ANGLE ON MORRIS'S TELEVISION COMMERCIAL - DAY
+text: We see Morris swimming the length of a pool, surrounded
+text: by adoring models in bathing suits.
+speaker_heading: MORRIS (V.0.)
+dialog: (on TV)
+dialog: They'll stay put even in a
+dialog: typhoon. And I should know.
+dialog: I'm the president of the company.
+text: We see Morris and Henry standing near TELEVISION set,
+text: COMMERCIAL is repeated over and over. Morris is taking
+text: bets on the phone and complaining to Henry.
+text: We see an agitated James Conway in b.g. poking at wigs
+text: and looking toward Henry and Morris.
+speaker_heading: MORRIS
+dialog: (complaining sotto
+dialog: voce to Henry while
+dialog: taking bets on the
+dialog: phone)
+text: James's busting my chops.
+dialog: (into phone)
+dialog: Okay, give ‘em eight to five on
+dialog: Cleveland.
+dialog: (hangs up phone
+dialog: and to Henry,
+dialog: while nervously
+dialog: eyeing in the
+dialog: other room)
+dialog: He wants three points over the
+dialog: vig. From me? I don't believe
+dialog: this shit?
+speaker_heading: HENRY
+dialog: (pleading)
+dialog: Morris. Please. You know James.
+dialog: You borrowed his money. Pay ‘em.
+speaker_heading: (CONTINUED)
+dialog: 52
+dialog: 38.
+speaker_heading: CONTINUED: 52
+speaker_heading: MORRIS
+dialog: (so outraged his
+dialog: voice gets louder)
+dialog: I didn't agree to three points
+dialog: over the vig. What am I, nuts?
+dialog: I didn't need it that much.
+speaker_heading: HENRY
+dialog: (getting exasperated)
+dialog: What are you gonna do? Fight
+dialog: with him? He wants his money.
+speaker_heading: MORRIS
+dialog: Fuck ’em. I never paid points.
+dialog: I always did the right thing. Did
+dialog: I ever bust his balls? Did I?
+dialog: Did I? I could have dropped a
+dialog: dime a million times, and I
+dialog: wouldn't have had to pay dick.
+speaker_heading: HENRY
+dialog: (getting annoyed)
+dialog: Morris, you're talking crazy.
+dialog: Drop a dime? Call the cops?
+dialog: Don't even let anybody hear such
+dialog: bullshit. Why don't you just
+dialog: pay the man his money and shut
+dialog: the fuck up.
+text: We see James in b.g. start toward Henry and Morris when
+text: he hears Henry raise his voice.
+text: We see James come up behind Morris and wrap the long
+text: telephone extension cord around Morris's neck. We see
+text: Morris's eye begin to pop. We see Henry try to get his
+text: hands between the wire and Morris's neck while trying
+dialog: to get James to stop.
+speaker_heading: JAMES
+dialog: (total fury)
+dialog: You got money for your bullshit
+dialog: television, don't you? I gotta
+dialog: watch you swimming back and forth
+dialog: on T.V. all night long, don’t I?
+dialog: You got money for that, but you
+dialog: don't have my money?
+speaker_heading: HENRY
+dialog: James. He'll be okay. He's good
+dialog: for it. Relax.
+text: We see Morris nodding in agreement that he will pay.
+text: Suddenly, the PHONE RINGS.
+speaker_heading: (CONTINUED)
+dialog: 52
+dialog: a
+dialog: 53
+speaker_heading: 54
+dialog: io
+dialog: 55
+speaker_heading: CONTINUED: (2)
+text: We see James, Henry and Morris frozen for.a second.
+text: see James relax the cord. We see Morris pick up the
+text: phone. The extension cord is still loosely wrapped
+text: around his neck.
+speaker_heading: MORRIS
+dialog: (handing Henry
+dialog: the phone)
+dialog: It's for you.
+text: Henry takes the phone.
+speaker_heading: HENRY
+dialog: (fury crosses
+dialog: his face)
+dialog: Wait there.
+text: Henry races out the door, leaving Morris and James
+text: docilely looking after him as he runs out the door.
+scene_heading: EXT. ROADSIDE TELEPHONE BOOTH ON HIGHWAY
+text: We see Karen waiting at booth as Henry pulls up.
+scene_heading: INT. HENRY'S CAR
+speaker_heading: KAREN
+dialog: (erying and dishev-
+dialog: elled)
+dialog: I've known him all my life. He
+dialog: just started grabbing at me. He
+dialog: wouldn't stop. And when I hit him
+dialog: across the nose with my shoe, he
+dialog: got mad and shoved me out.
+scene_heading: EXT. KAREN'S PARENTS' HOUSE
+text: Henry's car is parked at the curb. A new red Corvette is
+text: parked across the street.
+speaker_heading: HENRY
+dialog: Go inside. I'll be right there.
+speaker_heading: KAREN
+dialog: What are you gonna do?
+speaker_heading: HENRY
+dialog: Get inside!
+text: When Karen gets out of the car, we see Henry reach under
+text: the seat for a snub-nose .38 revolver.
+dialog: 52
+dialog: 53
+speaker_heading: 54
+dialog: 55
+dialog: 56
+dialog: 57
+dialog: 40.
+scene_heading: EXT. CORVETTE DRIVEWAY 56
+text: We see Henry walk down driveway to the back yard area
+text: where BRUCE and two of his brothers are talking. Bruce
+text: sees Henry and walks toward him. Bruce's two brothers
+text: are smirking.
+speaker_heading: BRUCE
+dialog: What do you want?
+text: They get close.
+speaker_heading: BRUCE
+dialog: (annoyed and
+dialog: menacing)
+dialog: Hey! Fucko! You want something?
+text: With absolutely no warning, Henry reaches out and grabs
+text: Bruce's hair with one hand and pulls his gun out of his
+text: waistband with the other. In almost one motion, Henry
+text: smashes the gun across Bruce's face. Teeth fall from
+text: Bruce's mouth. The two brothers, still not seeing the
+text: gun, start toward Henry, but Henry continues to pound the
+text: gun into Bruce's face like a dinner gong. Bruce's head
+text: is still off the ground only because Henry refuses to let
+text: go of his hair. Bruce's brothers realize Henry has a
+text: gun. They freeze and back off.
+speaker_heading: WOMAN (0.8S.)
+dialog: (from a window)
+dialog: Help! Police! He's got a gun!
+dialog: Police! Quick! Murder!
+text: Henry drops Bruce to the ground.
+scene_heading: EXT. KAREN'S DRIVEWAY 57
+text: We see Karen standing at the side door as Henry races
+text: up and puts something in her hand.
+speaker_heading: HENRY
+dialog: (panting)
+dialog: Here, hold this.
+text: We see Karen look down.
+speaker_heading: CUT TO:
+speaker_heading: KAREN'S HAND
+text: holding gun.
+speaker_heading: CLOSEUP - GUN
+speaker_heading: (CONTINUED )
+dialog: 57
+dialog: 58
+dialog: 59
+dialog: 41.
+speaker_heading: CONTINUED: 57
+speaker_heading: KAREN (V.0.)
+dialog: I know there are women, like my
+dialog: best friends, who would have
+dialog: gotten out of there the minute
+dialog: their boyfriend gave them a gun
+dialog: to hide. 'Feh! You and your gun.
+dialog: Get out of here. Who needs you?'
+dialog: That's what they would have said
+dialog: to him. But I didn't. I've got
+dialog: to admit the truth. It turned
+dialog: me on.
+text: We see Karen look around to make sure no one else has
+text: seen her. She then leans over and hides the gun in the
+dialog: milk box at her feet. ,
+scene_heading: INT. KAREN'S PARENTS' HOUSE 58
+text: We see hands carefully wrapping a white linen table
+text: napkin around some object. We see the napkin and object
+text: placed on the floor. We see a man's heel come down and
+text: smash the object, which turns out to be.a wine glass. We
+text: are at a small Jewish living room wedding with a canopy
+dialog: and rabbi and it was Henry who broke the glass as a part
+text: of the ritual. Karen's parents are glumly looking on.
+text: Henry's. parents are even glummer. Only Michael, Henry's
+text: brother in the wheelchair, looks pleased.
+scene_heading: INT. CHATEAU BLEU CATERING HALL 59
+dialog: Paulie Cicero, Frenchy, Morris Kessler, Tommy DeVito, and
+text: all of their wives and fiancees are present.
+text: PAN FROM Henry's and Karen's parents sitting uneasily at
+dialog: different tables.
+speaker_heading: JUMP CUTS TO:
+speaker_heading: PAUL CICERO
+text: “presiding at a sort of line, introducing Karen to the
+text: Cicero family and guests. Henry stands behind Karen,
+text: smiling proudly.
+speaker_heading: KAREN (V.0.)
+dialog: It was like he had two families.
+dialog: The first time I was introduced
+dialog: to them all at once, it was crazy.
+dialog: Paulie and his brothers had lots
+dialog: of sons and nephews and almost all
+dialog: of them were named Peter or Paul.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED )
+dialog: 59
+dialog: 42.
+speaker_heading: CONTINUED: 59
+speaker_heading: KAREN (V.0.) (CONT'D)
+dialog: It was unbelievable. There must
+dialog: have been two dozen Peters and
+dialog: Pauls at the wedding. Plus, they
+dialog: were all married to girls named
+dialog: Marie, and they named all their
+dialog: daughters Marie. By the time I
+dialog: finished meeting everybody, I
+dialog: thought I was drunk.
+speaker_heading: CUT TO:
+scene_heading: HENRY AND KAREN'S TABLE
+text: Seated nearby are a beaming James Conway and his wife,
+speaker_heading: MICKEY CONWAY
+text: We see Cicero approach and hand Karen an envelope.
+speaker_heading: CICERO
+dialog: Here. This is for you.
+speaker_heading: KAREN
+dialog: (leoking down at
+dialog: the envelope)
+dialog: Paulie, you shouldn't.
+text: We see that Cicero's envelope is richly embossed with
+text: hearts and flowers and has a clear window in front
+text: through which she can see several neatly-folded hundred
+text: dollar bills. When Karen looks up, she sees that every
+text: wiseguy and his wife are lined up before her and that
+text: they are all holding envelopes with clear windows in
+dialog: ‘ront .
+speaker_heading: CUT TO:
+speaker_heading: KAREN
+text: perspiring a little as she accepts and thanks the dozens
+text: of wiseguys giving her the envelopes. We also see Henry
+text: has opened a plastic supermarket shopping bag under the
+text: table where he is stuffing the envelopes just as soon as
+text: Karen accepts them.
+speaker_heading: CUT TO:
+speaker_heading: HENRY AND KAREN
+text: getting up to dance.
+speaker_heading: KAREN
+dialog: (whispering)
+dialog: My bag. My bag.
+speaker_heading: (CONTINUED)
+dialog: 59
+dialog: 60
+dialog: 43.
+speaker_heading: CONTINUED: (2) 59
+speaker_heading: HENRY
+dialog: (amused)
+dialog: What bag?
+speaker_heading: KAREN
+dialog: (desperate)
+text: The bag with the envelopes.
+speaker_heading: HENRY
+dialog: (chiding)
+dialog: Oh that. Don't worry about that.
+dialog: Nobody's gonna steal it.
+scene_heading: INT. KAREN'S MOTHER'S HOUSE - LIVING ROOM - DAWN 60
+text: We see Karen propped up, awake, in a chair. Her
+text: father is seated on a sofa, asleep. KAREN'S MOTHER is
+text: looking out the window.
+speaker_heading: KAREN'S MOTHER
+dialog: He didn't call?
+speaker_heading: KAREN
+text: He's with his friends.
+speaker_heading: KAREN'S MOTHER
+dialog: What kind of person doesn't call?
+speaker_heading: KAREN
+dialog: He's a grown man. He doesn't have
+dialog: to call every five minutes.
+speaker_heading: KAREN'S MOTHER
+dialog: If he was so grown up he'd get you
+text: two an apartment.
+speaker_heading: KAREN
+dialog: Don't bring that up. You're the
+dialog: one who wanted us here.
+speaker_heading: KAREN'S MOTHER
+dialog: (ignoring the charge)
+dialog: “ Look. He's got the whole house in
+text: an uproar.
+speaker_heading: CUT TO:
+speaker_heading: FATHER
+text: dozing on sofa.
+speaker_heading: (CONTINUED)
+dialog: 60
+dialog: 44.
+speaker_heading: CONTINUED: 60
+speaker_heading: KAREN'S MOTHER
+dialog: He's got your father upset. Good
+dialog: thing he doesn't have to go to
+dialog: work in the morning. Is this what
+dialog: he deserves?
+speaker_heading: KARE!
+dialog: Ma! Please! You're-driving: me
+dialog: crazy.
+speaker_heading: KAREN'S MOTHER
+dialog: Driving you crazy? Don't get me
+dialog: started. You're here a month and
+dialog: sometimes I know he doesn't come
+dialog: home at all. What kind of people
+dialog: are these?
+speaker_heading: KAREN
+dialog: Ma! Stop! What.do you want me to
+dialog: do?
+speaker_heading: KAREN'S MOTHER
+dialog: Do?. What can you do? What did
+dialog: you expect? He wasn't Jewish.
+dialog: Did you know how they live? Your
+dialog: father would never stay out this
+dialog: late without calling. In thirty
+dialog: years he never stayed out all
+dialog: night.
+speaker_heading: CUT TO:
+speaker_heading: FATHER
+text: sleeping on sofa.
+speaker_heading: KAREN
+dialog: Stayed out? Daddy never went out
+dialog: at all.
+speaker_heading: DISSOLVE TO:
+scene_heading: TITLE UP - 6:30 A.M.
+text: We hear CAR DOOR OPEN in front of house.
+speaker_heading: CUT TO:
+scene_heading: KAREN AND KAREN'S MOTHER
+text: open the door together and we see Henry standing in door-
+text: way, a little drunk.
+speaker_heading: (CONTINUED)
+dialog: 60
+dialog: 61
+dialog: 45.
+speaker_heading: CONTINUED: (2) 60
+text: Behind Henry we see a car with Tommy DeVito still parked
+text: at the curb.
+text: Karen is happy to see him. She smiles.
+speaker_heading: KAREN'S MOTHER
+dialog: (angrily)
+dialog: Where were you? Where have you
+dialog: been? Why didn't you call? We
+dialog: were all worried to death! A
+dialog: married man doesn't stay out like
+dialog: this!
+text: We see Henry look at Karen, look at Karen's Mother and
+text: turn around and get back in the car and drive away.
+text: Karen begins to cry.
+text: Karen's father sleepily comes to the door.
+speaker_heading: KAREN'S MOTHER
+dialog: (as Henry drives
+dialog: away)
+dialog: Normal people don't live this way.
+scene_heading: INT. JAMES AND MICKEY'S ARCHIE BUNKER HOUSE - LIVING 61
+speaker_heading: ROOM - NIGHT
+dialog: Karen and most of the women we saw at the wedding are at
+text: Mickey's cosmetic party. There are large cardboard
+text: posters of glamorous models using the cosmetics at
+text: Mickey's feet.
+speaker_heading: KAREN (V.0.)
+dialog: We weren't married to nine-to-five
+dialog: guys, but the first time I realized
+dialog: how different was when Mickey had
+text: a hostess party.
+speaker_heading: CUT TO:
+speaker_heading: MICKEY
+text: brushing another woman, ANGIE's, hair while showing off
+text: a new brush.
+speaker_heading: MICKEY
+dialog: (to Angie)
+dialog: Angie, sweetheart, you want it
+dialog: fluff?
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+dialog: 46.
+scene_heading: 61 : CONTINUED: 61
+speaker_heading: ANGIE'S TIRED FACE
+text: black-ringed eyes and thin mouth.
+speaker_heading: ANGIE
+dialog: He's the one with the hands. I'd
+text: like te smack his face.
+speaker_heading: WOMAN #1
+dialog: The red-haired guy? He looks like
+dialog: a farmer? -
+speaker_heading: ANGIE
+dialog: Sonofabitch. I swear. You can't
+dialog: go through the gate without his
+dialog: hands. I told him. Keep your
+dialog: fucking hands off, you sonofabitch,
+dialog: or I'll cut them off.
+text: We see the women laugh.
+speaker_heading: ANGIE
+dialog: He don't know how lucky he is.
+dialog: If I just mentioned it to Vince,
+dialog: I don't even want to know.
+speaker_heading: WOMAN #1
+dialog: That's the problem. How can you
+dialog: mention it? Vince'd kill him.
+speaker_heading: ANGIE
+dialog: You think I don't know? You
+dialog: think I like to keep this inside?
+dialog: But I gotta, or he'll kill the
+dialog: miserable bastard and he’1l be
+dialog: there for life. It's disgusting
+dialog: what you have to put up with.
+speaker_heading: MICKEY
+dialog: (while fluffing
+dialog: Angie's hair)
+dialog: Look at Jeannie's kid.
+speaker_heading: ANGIE
+dialog: What? What happened?
+speaker_heading: MICKEY
+dialog: The oldest one. He was in an
+text: argument. A lousy ten-dollar
+text: card game. The kid pulls out a
+dialog: gun. It goes, The. kid gets
+text: killed. The grandmother hears it
+text: and finds out he's been arrested.
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+dialog: 61
+dialog: 62
+speaker_heading: CONTINUED:
+speaker_heading: CLOSEUP -
+dialog: talking.
+dialog: 47,
+dialog: (2) 61
+speaker_heading: MICKEY (CONT'D)
+dialog: She has a heart attack, She
+text: drops dead right on the spot.
+dialog: Now Jeannie's got a husband and
+dialog: son in jail and a mother in the
+dialog: funeral parlor.
+speaker_heading: ANGIE
+dialog: But he was always a bad kid, that
+dialog: one.
+speaker_heading: MICKEY
+dialog: No. Come on. It was the younger
+dialog: one that was the bad one.
+speaker_heading: KAREN (V.0.)
+dialog: (continuing over
+dialog: dialogue)
+dialog: They had bad skin and wore too
+dialog: much makeup. I mean they didn't
+dialog: look very good. They looked beat
+dialog: up.
+speaker_heading: WOMEN
+speaker_heading: KAREN (V.0.)
+dialog: You never saw teeth like that
+dialog: where I was growing up and the
+dialog: stuff they wore was thrown
+dialog: together and cheap. A lot of
+dialog: pants suits and double-knits. And
+dialog: they talked about how rotten their
+dialog: kids were and about beating them
+text: with broom handles and leather
+dialog: belts, but that the kids still
+dialog: didn't pay any attention. When
+dialog: Henry picked me up, I was dizzy.
+scene_heading: INT. KAREN'S MOTHER'S HOUSE - BEDROOM - NIGHT 62
+text: We see they are getting ready for bed.
+speaker_heading: KAREN
+dialog: I don't know. I don't know if
+dialog: I could live that way. What if,
+dialog: God forbid, you go to prison.
+dialog: Mickey said Jeannie's husband --
+speaker_heading: HENRY
+dialog: (angrily interrupting)
+dialog: Are you nuts?
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+dialog: 62
+dialog: 63
+speaker_heading: CONTINUED:
+dialog: 48.
+dialog: 62
+speaker_heading: HENRY (CONT'D)
+dialog: Jeannie's husband went to the can
+dialog: just to get away from her, she's
+dialog: such a pain in the ass. Let me
+dialog: tell you. Nobody goes to jail
+dialog: unless they want to, unless they
+dialog: make. themselves get caught. They
+dialog: ‘do stuff with the: wrong people.
+dialog: They don't have things organized.
+dialog: You know who goes to jail? Nigger
+dialog: stickup men. That's who. And /
+dialog: they only get caught because they ..
+text: fall asleep in the getaway car. .
+text: Karen looks down. She’s listening.
+speaker_heading: HENRY
+dialog: Listen, we're beginning to make
+dialog: real money for the first time.
+dialog: It's business. Do you think I'm
+dialog: going to walk away from that?
+text: Henry puts his arm around Karen and begins to hug her.
+speaker_heading: KAREN (V.0.)
+dialog: After a while, it all got to be
+dialog: normal. None of it seemed like
+dialog: crimes. It was more that Henry
+dialog: was enterprising. That he and the
+dialog: guys were making a few bucks
+dialog: hustling, while other men were
+text: sitting on their asses waiting for
+dialog: handouts. Our husbands weren't
+dialog: brain surgeons. They were blue
+dialog: collar guys, and the only way they
+dialog: could get extra money, real extra
+dialog: money, was to go out and cut a few
+dialog: corners.
+speaker_heading: CUT TO:
+scene_heading: INT. TRUCK - ANGLE ON HENRY AND TOMMY - NIGHT 63
+text: who is carrying a brown paper bag as though it were a
+text: gun, pulling a driver out of his truck and shoving him
+text: toward another hood who pushes him into the rear seat
+text: of a car where we see another hood.
+speaker_heading: CUT BACK TO:
+speaker_heading: (CONTINUED)
+dialog: 63
+dialog: 64
+dialog: 49.
+speaker_heading: CONTINUED: 63
+speaker_heading: HENRY AND TOMMY
+text: getting into the truck.
+speaker_heading: CUT TO:
+speaker_heading: ROAD
+text: where we see the truck drive off.
+speaker_heading: CUT BACK TO:
+speaker_heading: TRUCK
+text: where we see the paper bag in Tommy's hand explode in a
+text: red burst as he wildly FIRES SHOTS into the air.
+text: We hear Henry's laughter.
+speaker_heading: KAREN (V.0.)
+dialog: And we were also very close. I
+dialog: mean, there were never any outsiders
+dialog: around. Absolutely never! And
+dialog: being together all the time made
+text: everything seem even more normal.
+scene_heading: INT. HENRY'S DOORWAY 64
+text: We see Karen looking at a search warrant being shown to
+text: her by detectives who are being very polite. The
+text: children are looking on.
+speaker_heading: KAREN (V.0.)
+dialog: There was always a little
+dialog: harassment. They always wanted to
+dialog: talk to Henry about this or that.
+dialog: They'd come with their subpoenas
+dialog: and warrants and make me sign.
+dialog: But mostly they were just looking
+dialog: for a handout. A few bucks to
+dialog: keep things quiet, not matter what
+dialog: they found.
+speaker_heading: KAREN
+dialog: (signing the paper)
+dialog: Can I make you some coffee?
+text: The detectives smile and, taking off their hats, walk
+text: into the house where kids and Karen resume watching TV.
+speaker_heading: KAREN (V.0.)
+dialog: I always asked them if they wanted
+dialog: coffee.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 64
+dialog: 65
+dialog: 50.
+speaker_heading: CONTINUED: 64
+speaker_heading: KAREN (V.0.) (CONT'D)
+dialog: Some of the wives, like Mickey
+dialog: Conway, used to curse at them and
+dialog: spit on the floor. Imagine. She'd
+dialog: spit on her own floor. That never
+dialog: made any sense to me. It was better
+dialog: to be polite and call the lawyer.
+dialog: Cut To:
+scene_heading: INT. HOUSE
+text: In background we see the detectives going through the
+dialog: house,
+dialog: cut TO:
+scene_heading: INT. JAMES CONWAY'S HOUSE - DINING ROOM - NIGHT 65
+text: We see James and Mickey and Henry and Karen and Tuddy
+dialog: and wife, Tommy and girlfriend, Morris and Karen Kessler,
+text: Franky Carbone and wife and the assorted children, all
+text: wearing party hats and blowing out the candles on nine-
+text: year-old James Conway Jr.'s huge layer cake.
+speaker_heading: KAREN (V.0.)
+dialog: We all did everything together
+dialog: and we were always the same crowd.
+dialog: Anniversaries. Christenings. We
+dialog: only went to each other's houses.
+speaker_heading: CUT TO:
+speaker_heading: SNAPSHOT
+text: of James hugging Karen and Mickey at table.
+speaker_heading: KAREN (V.0.)
+dialog: The women played cards. When my
+dialog: kids were born, James and Mickey
+dialog: were always the first at the
+dialog: hospital.
+speaker_heading: CUT TO:
+speaker_heading: SNAPSHOT
+text: of beaming James, Mickey and Henry embracing against the
+text: window of maternity hospital while a nurse holds up a
+text: baby. Mickey is in tears.
+speaker_heading: . KAREN (V.0.)
+dialog: When we went to the Islands or
+dialog: Vegas for vacation, we always went
+dialog: together,
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+dialog: 65
+dialog: 66
+dialog: 51.
+speaker_heading: CONTINUED: - 65
+speaker_heading: SNAPSHOT
+text: of James and Mickey and Henry and Karen in bathsuits
+text: standing next to their poolside chairs holding tall
+text: Trader Vic's-style drinks with tiny umbrellas and
+text: pineapple sticking out of them.
+speaker_heading: KAREN (V.0.)
+dialog: It got to be normal. I got to
+dialog: where I was even proud that I had
+dialog: the kind of husband who was willing
+dialog: to go out and risk his neck just
+dialog: to get us the little extras.
+speaker_heading: CUT TO:
+scene_heading: INT. HENRY AND KAREN'S SUBURBAN HOUSE - ANGLE ON 66
+scene_heading: HENRY'S BEDROOM CLOSET - DAY
+text: CAMERA TRACKS row after row of neatly hung suits and
+text: - sports jackets and racks of sharp shoes.
+text: We see Henry getting undressed. He neatly hangs his
+text: jacket and then lifts the front of his sport shirt to
+text: his neck, revealing thick packets of crisp $50 and
+text: $100 bills he has wedged all around his waist.
+speaker_heading: KAREN (0.8.)
+dialog: But I got my mother to watch the
+dialog: kids tomorrow night.
+speaker_heading: CUT TO:
+scene_heading: KAREN'S BEDROOM CLOSET
+text: CAMERA TRACKS PAST rows of Karen's dresses, pants suits,
+text: biouses, shoes and fur coats.
+speaker_heading: HENRY (0.S.)
+dialog: I told you I can't.
+speaker_heading: CUT TO:
+speaker_heading: KITCHEN
+text: We see Henry, now shaved and dressed in a different suit.
+text: He is on his way out.
+speaker_heading: KAREN
+dialog: (annoyed)
+dialog: I'm gonna need. some money.
+speaker_heading: HENRY
+dialog: How much?
+speaker_heading: (CONTINUED)
+dialog: 66
+dialog: 67
+dialog: 52.
+speaker_heading: CONTINUED: 66
+text: We see Karen hold her thumb and forefinger about an inch
+dialog: apart.
+text: We see Henry take about an inch and a half of money from
+text: his inside jacket pocket, slap it on the table and go
+text: out the door.
+scene_heading: , INT. SUITE - NIGHT 67
+text: A plush, overdecorated cocktail lounge and nightclub
+text: on Queens Boulevard, where we hear Sergio Franchi on
+text: the jukebox.
+dialog: (NOTE: Replay the opening of the film at 9 times normal
+dialog: speed -- Henry slamming the truck closed.)
+speaker_heading: HENRY (V.0.)
+dialog: For most of the guys, killing got
+dialog: to be accepted. They were routine.
+dialog: Murder was the only way everybody
+dialog: stayed in line. It was the ultimate
+dialog: weapon. “You got out of line, you
+dialog: got whacked. Everyone knew the
+dialog: rules,
+speaker_heading: CUT TO:
+speaker_heading: TOMMY
+text: smashing gun into Bill Batt's head.
+speaker_heading: HENRY (V.0.)
+dialog: But sometimes, even if people
+dialog: didn’t get out of line, they'd get
+dialog: whacked. Hits just became a habit
+dialog: for some guys. It didn't take
+dialog: anything to get yourself killed.
+speaker_heading: CUT TO:
+scene_heading: SILHOUETTE OF TOMMY, HENRY AND JAMES
+text: stuffing Billy's body into the truck.
+speaker_heading: HENRY (V.0.)
+dialog: Guys would get into arguments over
+dialog: nothing and before you knew it,
+dialog: one of them was dead. They were
+dialog: shooting each other all the time.
+dialog: Shooting people was a normal thing.
+dialog: It was no big deal.
+speaker_heading: cuUuT TO:
+speaker_heading: (CONTINUED)
+dialog: 67
+dialog: 68
+dialog: 69
+dialog: 53.
+speaker_heading: CONTINUED: 67
+scene_heading: TOMMY'S MOTHER'S KITCHEN
+dialog: and breakfast.
+speaker_heading: HENRY (V.0.)
+dialog: You didn't have to do anything
+dialog: and nobody was immune. You just
+dialog: had to be there.
+speaker_heading: CUT TO:
+speaker_heading: TOMMY
+text: smashing shovel into soft, bloodied mattress cover in
+text: the trunk of the car.
+speaker_heading: HENRY (V.0.)
+dialog: But we had a problem with Billy
+dialog: Batts. This was a touchy thing.
+dialog: Tommy had killed a made man.
+dialog: Billy was a part of the Gambino
+dialog: crew and untouchable.
+speaker_heading: cUuT TO:
+scene_heading: EXT. CONNECTICUT WOODLAND - NIGHT 68
+text: We. see Tommy, Henry and James burying Batts.
+speaker_heading: HENRY (V.0.)
+dialog: Before you could touch a made guy,
+dialog: you had to have a good reason.
+dialog: There had to be a sitdown. And
+dialog: you better get an okay, or you'd
+dialog: be the one who got whacked.
+text: Henry slams down trunk.
+speaker_heading: CUT TO:
+scene_heading: INT. COPACABANA - LATE SHOW - ANGLE ON TABLE - NIGHT 69
+text: being quickly set up by waiters and maitre d' as Henry,
+text: Tommy, Franky Carbone, and Joe Manri sit down. In b.g.,
+text: we see older hoods with young showgirl types.
+text: We see JANICE, a cherry California blonde, and some girl-
+text: friends seated at a table directly behind Henry's table.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED )
+dialog: 69
+dialog: 70
+dialog: 54.
+speaker_heading: CONTINUED: 69
+speaker_heading: STAGE
+text: and as stage lights dim:
+speaker_heading: HENRY (V.0.)
+dialog: Saturday night was for wives,
+dialog: but Friday night at the Copa was
+dialog: always for the girlfriends.
+speaker_heading: CUT BACK TO:
+speaker_heading: HENRY'S TABLE
+text: Henry is now sitting next to Janice. Tommy is with
+text: GIRL #1. Carbone is with GIRL #2.
+speaker_heading: GIRL #1
+dialog: Last week I saw Sammy Davis. What
+dialog: a performer. You gotta see hin.
+dialog: You gotta catch him. He does
+dialog: imitations I swear you'd think it
+dialog: was the real people.
+speaker_heading: GIRL #2
+dialog: Yeah, the way he moves. It's
+dialog: unbelievable. I mean, you can
+dialog: understand how a white girl could
+dialog: fall for him.
+speaker_heading: TOMMY
+dialog: What are you talking about?
+speaker_heading: GIRL #2
+dialog: I don't mean me. Not me. I just
+dialog: mean, you can see how some girls
+dialog: could. Like that Swedish girl.
+dialog: You can see how she fell for him.
+dialog: You can see how he has this, this,
+dialog: personality.
+speaker_heading: CUT TO:
+speaker_heading: COPA STAGE
+text: spotlight. Bobby Darren is singing.
+scene_heading: EXT. JANICE'S APARTMENT BUILDING - NIGHT 70
+text: Henry's convertible pulls up.
+text: Henry has his arm around. Janice's neck. We .see them go
+text: into the building.
+speaker_heading: DISSOLVE TO:
+speaker_heading: SAME - DAWN
+dialog: 71
+dialog: 55.
+scene_heading: INT. CICERO'S HOUSE - DAY 71
+text: Sunday. There are lots of relatives and friends present.
+text: Henry and Karen arrive. Karen is carrying their new
+text: baby and Henry has his two-year-old daughter by the hand.
+text: A great fuss is made over the new baby and over Karen by
+text: the women, including Cicero's wife. Cicero puts an arm
+text: around Henry and leads him into an alcove.
+speaker_heading: CICERO
+dialog: What did you hear about that thing?
+speaker_heading: HENRY
+dialog: What thing? The Brooklyn thing?
+speaker_heading: CICERO
+dialog: No. No. The guy from downtown.
+speaker_heading: HENRY
+dialog: The guy from near where Christie
+dialog: used to live?
+speaker_heading: CICERO
+dialog: No. The other one. The one who
+dialog: disappeared up the block from
+dialog: Christie. The one they made a
+dialog: beef on.
+speaker_heading: HENRY
+dialog: Oh! Him.
+speaker_heading: CICERO
+dialog: You: know the one I mean?
+speaker_heading: HENRY
+dialog: Oh yeah. Sure. That guy. I
+dialog: know him.
+speaker_heading: CICERO
+dialog: That Batts was a miserable fuck,
+dialog: but his people are looking still
+dialog: for him.
+speaker_heading: HENRY
+dialog: Oh yeah. Yeah. I know. I even
+dialog: looked into it myself. Nobody
+dialog: knows what the fuck happened to
+dialog: him. He came in the joint that
+dialog: one night and then he disappeared.
+speaker_heading: CICERO
+dialog: Well, keep your eyes open. They're
+dialog: busting my balls looking for the
+dialog: fuck.
+dialog: 72
+dialog: 73
+dialog: 56.
+scene_heading: INT. SUITE - NIGHT 72
+text: Henry and Janice, with the crew, are drinking. Morris
+text: Kessler is reluctantly paying off a bet at the bar.
+text: James calls Henry aside.
+speaker_heading: JAMES
+dialog: We got a problem. That thing we
+dialog: took care of upstate?
+speaker_heading: HENRY
+dialog: (surprised)
+dialog: Paulie was just taking about him.
+speaker_heading: JAMES
+dialog: Well, we gotta dig him up again.
+speaker_heading: HENRY
+dialog: (shocked)
+dialog: What?
+speaker_heading: JAMES
+dialog: The guy just sold the property.
+dialog: They're gonna build condominiums
+dialog: and I don't want anybody digging
+dialog: up the little bastard.
+speaker_heading: HENRY
+dialog: (horrified)
+dialog: It's been six months.
+speaker_heading: JAMES
+dialog: It's still better than letting
+dialog: somebody find him.
+speaker_heading: HENRY
+dialog: (nodding in agree-
+dialog: ment and concern)
+dialog: If Paulie finds out, we got
+dialog: problems.
+speaker_heading: JAMES
+dialog: Fuck Paulie. If Batts' crew finds
+dialog: we whacked him, we got real
+dialog: problems.
+scene_heading: EXT. HENRY'S CAR PARKED ON DESERTED COUNTRY ROAD - NIGHT 73
+text: A hot summer night. The car trunk is open. Henry, James
+text: and Tommy are struggling with shovels. Henry, sickened
+text: by the stench, is wearing his handkerchief over his nose
+text: and mouth. Henry looks at James and Tommy. They do not
+text: appear to be bothered by.the stench.
+dialog: 74
+dialog: 75
+dialog: 76
+dialog: 7
+dialog: 57.
+scene_heading: EXT. HENRY AND KAREN’S SUBURBAN HOME 74
+text: Henry is hosing out the trunk of his car. . He has all
+text: of the mats, the spare tire, and jack out of the trunk.
+speaker_heading: KAREN
+dialog: What happened to the car?
+speaker_heading: HENRY
+dialog: (annoyed at Karen's
+dialog: prying)
+dialog: I hit. a skunk.
+text: Henry sprinkles in a bottle of perfume and slams the
+text: trunk shut. .
+scene_heading: INT. JANICE'S APARTMENT - BEDROOM - NIGHT : 75
+text: We see Janice showing off her new apartment to the giris,
+text: including SANDY, a sexy, dark-haired girl. We hear
+text: Henry, Tommy, Carbone and Manri laughing in b.g. The
+text: apartment is decorated in Ocean Parkway Ming. There
+text: are thick velvet-covered sofa and blue-glass ‘coffee
+text: table in bedroom and we see a satin-covered, king-
+text: size bed with a doll propped against the pillows.
+text: We see Janice lean over and show her girlfriends,
+text: including Sandy, the red ruffles.
+speaker_heading: HENRY (V.0.)
+dialog: I set up Janice in an apartment
+text: around the corner from the Suite.
+dialog: That way I was able to stay over
+dialog: a couple of nights a week. Karen
+dialog: was home with the kids anyway and
+dialog: she never asked any questions
+dialog: anyway.
+scene_heading: INT. BRIDAL SHOP - BACKROOM : 76
+text: Henry is strangling the owner of a bridal shop with
+text: his own tie while Tommy and James laugh.
+speaker_heading: HENRY (V.0.)
+dialog: Janice and I were having so much
+dialog: fun, she started screwing up at
+dialog: work, and I had to straighten
+text: out her boss a little bit.
+scene_heading: INT. JANICE'S APARTMENT - BEDROOM - SAME NIGHT 77
+text: We see Janice suddenly lifted off her feet and thrown
+text: on the bed. We see Henry and the girls laughing.
+text: As Henry lifts Janice off her feet, he winks at Sandy,
+text: who smiles back.
+dialog: 58.
+scene_heading: INT. SUITE - BASEMENT CARD GAME - NIGHT 78
+text: Glazed walls, ornate sconces, and a rumpus room bar.
+text: Henry, James, Tommy and other wiseguys are playing cards.
+text: Tommy is a little drunk. Spider, a 22-year-old
+text: apprentice hood, is waiting on the players, bringing
+dialog: them drinks. The sort of thing we saw Henry doing
+text: earlier. Tommy is feeling expansive. He throws his
+text: jacket open to reveal a gun tucked in his belt.
+speaker_heading: TOMMY
+dialog: (impatiently)
+dialog: Spider. C'mon, get me a seven
+dialog: and seven.
+text: We see Spider deliver a drink to Henry and slowly back
+text: toward the bar.
+speaker_heading: TOMMY
+dialog: Spider. What did I say? Did I
+dialog: say I was dying over here? Come
+dialog: on. Move it. Don't walk, dance.
+dialog: (to his fellow
+dialog: players)
+dialog: Did you ever see in the cowboy
+dialog: movies where they make them dance?
+dialog: Did you see The Oklahoma Kid, the
+dialog: only cowboy movie Cagney ever
+dialog: made? Come on, dance, you varmit.
+text: We see Tommy taking out his guns.
+speaker_heading: SPIDER
+dialog: Tommy, don't fuck around.
+speaker_heading: TOMMY
+dialog: Yahooo.
+speaker_heading: HENRY
+dialog: Tommy, don't fuck around. Put the
+dialog: gun away. Tommy!
+speaker_heading: TOMMY
+dialog: No, no. It's okay.
+speaker_heading: HENRY
+dialog: Tommy, come on. Put the gun away.
+speaker_heading: TOMMY
+dialog: No. It's okay. Just watch this.
+dialog: Watch it.
+text: The GUN EXPLODES and we see Spider shot in the foot.
+dialog: 79
+dialog: 80
+dialog: 59.
+scene_heading: EXT. HENRY'S HOUSE - EVENING 79
+text: We see a set of keys come flying out the window. TILT
+text: DOWN TO keys.
+speaker_heading: CUT TO:
+speaker_heading: BEDROOM
+text: Henry is furious. He pushes past Karen and looks out
+dialog: window.
+speaker_heading: HENRY
+dialog: I gotta go out!
+speaker_heading: KAREN
+dialog: Not tonight, you're not. Not
+dialog: without the car keys, you're not.
+speaker_heading: HENRY
+dialog: Are you nuts?
+speaker_heading: KAREN
+dialog: I don't care. Something's going
+dialog: on.
+speaker_heading: HENRY
+dialog: (exasperated)
+dialog: That again.
+speaker_heading: KAREN
+dialog: (shrieking and
+dialog: in tears)
+dialog: You're a liar. I look at you
+dialog: and I know you're a liar.
+text: We see Henry pick up a large lamp and throw it at Karen.
+text: He misses.
+speaker_heading: HENRY
+dialog: (suddenly calm and
+dialog: walking out)
+dialog: I need some air. I need a Little
+text: peace. At least at home.
+text: We see Karen sit down on bed and begin to cry. We hear
+text: the CHILDREN CRYING in background.
+scene_heading: INT. SUITE - BASEMENT CARD GAME - ANGLE ON SPIDER - 80
+speaker_heading: NIGHT
+text: with bandaged foot, and Henry walking in, and TILT UP TO
+dialog: both of them.
+text: James, Tommy and some hoods are playing cards. Tommy is
+text: already drunk.
+speaker_heading: (CONTINUED )
+dialog: 80
+dialog: 60.
+speaker_heading: CONTINUED: 80
+speaker_heading: TOMMY
+dialog: Hey! Look at this. Fred Astaire,
+dialog: back from the wars. Can you
+dialog: believe this guy? That bandage.
+text: It's bigger than his foot.
+text: Spider ignores him.
+text: The card game is going on. Shirts are unbuttoned. The
+text: table filled with empty glasses.. Spider limps over
+dialog: with drinks.
+speaker_heading: . TOMMY
+dialog: Spider. You're so full of shit.
+dialog: Even with that food, I bet you
+dialog: can dance.
+text: Spider puts the drinks down and tries to ignore Tommy
+dialog: again.
+speaker_heading: TOMMY
+dialog: Come on, Spider. Come on. Let's
+dialog: see you dance.
+speaker_heading: SPIDER
+dialog: Why don't you go fuck yourself.
+speaker_heading: JAMES
+dialog: (laughing)
+dialog: Hey, Spider. That's very good.
+dialog: Did you hear Spider? The kid's
+dialog: got balls. See, the kid's got
+dialog: balls. He's a good kid.
+text: Spider starts to limp proudly back to the bar.
+speaker_heading: JAMES
+dialog: (whispering to Tommy)
+dialog: You going to take that shit from
+dialog: this punk? This fuckin' lowlife.
+dialog: This kid's got bigger balls than
+dialog: you'll have any day. He just got
+dialog: shot in the foot by you and he
+dialog: tells you to go fuck yourself.
+dialog: I can't believe this shit.
+dialog: (to the crew,
+dialog: roaring with
+dialog: laughter)
+dialog: Can you believe this shit?
+dialog: (to Tommy, almost
+dialog: whispering)
+dialog: Tommy! You gonna take that shit
+dialog: from a punk?
+speaker_heading: (CONTINUED)
+dialog: 80
+dialog: 81
+dialog: 82
+dialog: 61.
+speaker_heading: CONTINUED: (2) 80
+text: The players are all laughing loudly. Spider is proudly
+text: standing near the bar. And, before anyone has any idea
+text: of what is about to happen, Tommy pulls out one of his
+text: two GUNS and puts THREE DEAFENING SHOTS into Spider's
+dialog: chest.
+text: Everyone is frozen in silence. Henry is upset by
+text: shooting. There is a long pause.
+speaker_heading: JAMES
+dialog: All right, you dumb fuck, if
+dialog: you're going to be a big fuckin’
+dialog: wiseguy, you can dig the hole.
+text: We see a frowning Tommy get up from table and slowly
+text: begin moving chairs around to get ready to dig the
+dialog: hole.
+speaker_heading: HENRY (V.0.)
+dialog: After Billy Batts and Spider,
+dialog: everything was going crazy. Not
+dialog: just our crew, but everybody. ~
+speaker_heading: CUT TO:
+scene_heading: EXT. JANICE'S APARTMENT - DAY 81
+text: We see Janice in the apartment.
+speaker_heading: CUT TO:
+speaker_heading: JANICE'S DOOR
+text: We see Karen pressing the buzzer while holding two
+text: hysterical children.
+speaker_heading: KAREN
+dialog: (screaming)
+dialog: Open up! I know you're there!
+dialog: You stay away from my husband.
+speaker_heading: KAREN (V.0.)
+dialog: She wouldn't open the door. I
+dialog: rang her bell. Still, she wouldn't
+dialog: open. I rang her bell for two
+dialog: hours, and she kept on hiding.
+speaker_heading: CUT TO:
+scene_heading: INT. HENRY'S HOUSE - BEDROOM - ON HENRY'S SLEEPING FACE 82
+speaker_heading: - NIGHT
+text: CAMERA is LOOKING AT him. Feel a presence on top of him.
+speaker_heading: (CONTINUED )
+dialog: 82
+dialog: 62.
+speaker_heading: CONTINUED: 82
+text: We hear a CLICK. Henry's eyes open. Henry looks up.
+speaker_heading: CUT TO:
+speaker_heading: HENRY'S POV
+text: We see the gun aiming right THROUGH the LENS. We can see
+text: the bullets in the chamber.
+speaker_heading: KAREN
+dialog: (straddling Henry
+text: in bed, holding a
+dialog: gun)
+dialog: Henry.
+dialog: (pulls back the
+dialog: hammer)
+dialog: Wake up.
+dialog: * BACK TO SCENE
+speaker_heading: HENRY
+dialog: (always deny)
+dialog: What's the matter with you? You're
+dialog: erazy.
+speaker_heading: KAREN
+dialog: (hysterically)
+dialog: Crazy? I'm ‘crazy enough to shoot
+dialog: you and her.
+scene_heading: COVERED BY SERIES OF QUICK CLOSEUP CUTS
+text: Karen sweating, Henry's profile, the hammer of the gun,
+dialog: etc.
+speaker_heading: KAREN (V.0.)
+dialog: But still I couldn't hurt him.
+dialog: How could I hurt him? I couldn't
+dialog: even bring myself to leave him.
+speaker_heading: CUT TO:
+speaker_heading: KAREN
+dialog: sweating.
+speaker_heading: HENRY
+dialog: {carefully moving
+dialog: his head away
+dialog: from the gun)
+dialog: It's all bullshit. I swear. It's
+dialog: nothing. Whatever you want, we'll
+dialog: do.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+dialog: 82
+dialog: ~~
+dialog: io
+dialog: 83
+dialog: rm
+dialog: 63.
+speaker_heading: CONTINUED: (2) 82
+speaker_heading: HENRY'S PROFILE
+speaker_heading: CUT TO:
+scene_heading: KAREN'S TRIGGER FINGER
+speaker_heading: KAREN (V.0.)
+dialog: The truth was, that no matter how
+dialog: bad I felt, I was still very
+dialog: attracted to him. Why should I
+dialog: give him up to someone else? Why
+dialog: should she win?
+speaker_heading: HENRY
+dialog: (quickly moving
+dialog: his head away
+dialog: and grabbing
+dialog: the gun)
+dialog: Son of a bitch.
+text: We see Henry slap Karen across the face and knock her off
+dialog: the bed.
+speaker_heading: HENRY
+dialog: (angrily getting
+text: out of bed and
+dialog: packing his
+dialog: clothes)
+dialog: I don't need this bulishit. I
+dialog: got enough to worry about getting
+dialog: whacked on the street. I gotta
+dialog: come home to get whacked?
+text: We see Karen crying.
+speaker_heading: HENRY
+dialog: I swear on my mother, I should
+dialog: kill you. You're fucking crazy.
+text: We see Henry hit her. He is about to hit her again,
+text: but stops. He turns his back on her and opens the door
+text: of his closet roughly grabbing some clothes as if getting
+dialog: ready to pack.
+speaker_heading: CUT TO:
+scene_heading: INT. JANICE'S APARTMENT - DAY 83
+text: Henry opens the door and Paul Cicero and James enter.
+text: They walk toward the kitchen. The place is in disarray.
+speaker_heading: HENRY
+dialog: (to Janice)
+dialog: Honey. Go get me some cigarettes.
+speaker_heading: (CONTINUED)
+dialog: 83
+dialog: ~
+dialog: oo
+dialog: 84
+dialog: ~~
+dialog: 64.
+speaker_heading: CONTINUED: 83
+text: Janice leaves without saying a word.
+speaker_heading: CICERO
+dialog: (after watching the
+dialog: door close)
+text: Karen's come to the house. She's
+dialog: very upset. It's no goed. You
+dialog: gotta straighten this all out.
+text: Henry looks down.
+speaker_heading: JAMES
+dialog: Things gotta be calm right now,
+dialog: and Karen's so high-strung. She's
+dialog: with Mickey every day. Who knows
+dialog: what she's gonna do?
+speaker_heading: CICERO
+dialog: James and Tommy were supposed to
+dialog: pick up something in Tampa for
+dialog: me this weekend.
+text: James nods in agreement.
+speaker_heading: CICERO (V.0.)
+dialog: You go with James, instead, Get
+dialog: away for a few days. Relax.
+speaker_heading: CUT TO:
+scene_heading: INT. REAR SEAT OF CAR - NIGHT 84
+text: We see MAN's bleeding face being punched.
+speaker_heading: CICERO (V.0.)
+dialog: Enjoy yourselves. Have a good
+dialog: time. Then, when you get back
+dialog: Monday, you go home to Karen.
+text: We PULL BACK to see James and Henry beating a Man who
+text: is squashed between them.
+speaker_heading: MAN
+dialog: (pleading)
+dialog: I ain't got it. I swear.
+text: We see James and Henry beat him more.
+speaker_heading: MAN
+dialog: (crying)
+dialog: I can't. I swear.
+text: We see James and Henry look at each other.
+dialog: 85
+dialog: 86
+dialog: 65.
+scene_heading: EXT. TAMPA ZOO - EXIT SIGN TO BUSCH GARDENS - NIGHT 85
+text: We hear the ROAR of LIONS.
+text: We see James and Henry drag the bookie out of the car
+text: by his arms and legs just outside the zoo.
+speaker_heading: JAMES
+dialog: We're gonna feed the bastard to
+dialog: the lions.
+speaker_heading: HENRY
+dialog: (while dragging
+dialog: bookie)
+dialog: What lions? I'm not going near
+dialog: any lions.
+speaker_heading: JAMES
+dialog: We only have to shove'’m over the
+dialog: moat.
+text: We see the Man finally begin to squirm and scream.
+speaker_heading: CUT TO:
+scene_heading: EXT. ROADSIDE PHONE BOOTH - ANGLE ON BLEEDING MAN - 86
+speaker_heading: NIGHT
+text: on phone with James and Henry waiting outside.
+speaker_heading: HENRY (V.0.)
+dialog: They must really feed each other
+dialog: to the lions down there, because
+dialog: the guy gave the money right up
+dialog: and we got to spend the rest of
+text: the weekend at the track.
+dialog: (pause and genuine
+dialog: shock)
+dialog: But then, I couldn't believe what
+dialog: happened.
+speaker_heading: CUT TO:
+speaker_heading: NEWSPAPER PICTURE
+dialog: of Henry and James getting arrested.
+speaker_heading: , HENRY (V.0.)
+dialog: When we got home, we were all
+text: over the newspapers. At first,
+dialog: I didn't even know why we got
+dialog: picked up.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+dialog: 86
+dialog: 87
+dialog: 88
+dialog: 66.
+speaker_heading: CONTINUED: : 86
+speaker_heading: NEWSPAPER PHOTO
+text: of man they beat being arrested with his head bandaged.
+speaker_heading: HENRY (V.0.)
+dialog: Then, I found out, that the guy
+dialog: we roughed up turned out to
+dialog: have a sister working as a typist
+dialog: for the F.B.I.
+speaker_heading: GOVERNMENT OFFICE
+text: where sobbing typist is surrounded by men in business
+dialog: suits. :
+speaker_heading: HENRY (V.0.)
+dialog: Who could believe it? Of all
+dialog: the fucking people. She gave up
+dialog: everybody. James. Me. Even
+dialog: her brother. :
+dialog: cur TO:
+scene_heading: INT. COURTROOM - DAY : 87
+text: Henry and James before judge. Karen and children crying
+text: in court: Other family members present and crying.
+speaker_heading: HENRY (V.0.)
+dialog: It took the jury six hours to bring
+dialog: us in guilty. The judge gave James
+dialog: and me ten years like he was giving
+dialog: away candy.
+scene_heading: INT. MAXWELL'S PLUM - BAR - LATE AFTERNOON 88
+dialog: Tommy, Morris Kessler, Joe Manri, Stacks Edwards, Frenchy
+text: McMahon, etc., are all having drinks with Henry before
+text: he goes off to prison.
+text: We see by the bar clock that it is four o'clock.
+text: Suddenly, Karen comes charging into the bar. She is
+text: angry. She has tracked Henry down.
+speaker_heading: KAREN
+dialog: (frantic)
+dialog: I thought you were supposed to
+dialog: turn yourself in at ten o'clock
+dialog: this morning?
+speaker_heading: HENRY
+dialog: I'm just having my last few
+dialog: drinks.
+speaker_heading: (CONTINUED)
+dialog: 88
+dialog: 89
+dialog: 67.
+speaker_heading: CONTINUED: 88
+speaker_heading: KAREN
+dialog: I've been all over town. I got a
+text: call from the bondsman. He says
+dialog: they're going to rescind your bail
+dialog: if you don't show up and sign in
+dialog: right now. They're going to take
+dialog: away the house.
+speaker_heading: HENRY
+dialog: Shit.
+text: Henry looks at his pals, orders his last Screaming Eagle
+text: for a while, and gently touches the tips of Karen's
+text: fingers. He swallows his drink, hugs and kisses a
+text: tearful Karen and walks out of the bar to a long, white
+text: stretch limo waiting at the curb.
+speaker_heading: TOMMY
+dialog: Say hello to James.
+text: Henry gets in the rear seat of the limo.
+speaker_heading: HENRY
+dialog: (downing a palm
+dialog: full of Valium)
+dialog: Okay, now you can take me to jail.
+speaker_heading: CUT TO:
+scene_heading: INT. LEWISBURG FEDERAL PRISON - DORMITORY - CLOSEUP - 89
+speaker_heading: GARLIC
+text: being sliced razor thin.
+speaker_heading: HENRY (V.0.)
+dialog: Dinner was always a big thing. We
+dialog: had a pasta course and then meat
+dialog: or fish. Paulie did the prep
+dialog: work. He was doing a year for
+dialog: contempt and he had a system for
+dialog: doing garlic. He used a razor and
+dialog: he sliced it so thin it used to
+text: liquify in the pan with a little
+dialog: oil.
+speaker_heading: CUT TO:
+speaker_heading: HOT PLATE
+text: with a pot full of tomato sauce and meatballs being
+dialog: stirred.
+speaker_heading: (CONTINUED)
+dialog: wont,
+dialog: 89
+dialog: 68.
+speaker_heading: CONTINUED: 89
+speaker_heading: HENRY (V.0.)
+dialog: Vinnie was in charge of the tomato
+dialog: sauce. I felt he put in too many
+dialog: onions, but it was a good sauce
+dialog: anyway.
+speaker_heading: CUT TO:
+speaker_heading: FRYING PAN
+text: with smoking steaks.
+speaker_heading: HENRY (V.0.)
+dialog: Johnny Dio did the meat. We
+dialog: didn't have a broiler, so Johnny
+dialog: did everything in pans. He
+dialog: smelled up the joint something
+dialog: awful and the hacks used to die.
+speaker_heading: CUT TO:
+speaker_heading: HOT PLATE
+text: hooked up by long extension cord to an electric outlet in
+text: the toilet. There are huge kitchen knives, a block
+text: of ice in a tin pail covered with a cloth and large pots
+dialog: and colanders necessary for cooking pasta dishes.
+text: PULL BACK TO a large dorm with four beds separated by
+text: shoulder-height partitions. The room does not look like
+text: a prison. There are curtains over the bars. The room
+text: is filled with smoke from the pan-fried steak.
+speaker_heading: HENRY (V.0.)
+dialog: Everybody else in the joint was
+dialog: doing real time, all mixed
+text: together, living like pigs.
+speaker_heading: CUT TO:
+speaker_heading: HENRY
+text: in grey prison garb, carrying a heavy canvas mail sack
+text: marked "LEWISBURG PRISON.” He dumps the sacks on one of
+dialog: the beds. -
+speaker_heading: HENRY (V.0.) -
+dialog: We lived alone. We owned the
+dialog: joint. Even those hacks who we
+dialog: couldn't bribe would never rat on
+dialog: the guys who did.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+dialog: 89
+dialog: P™
+dialog: ro
+dialog: 90
+dialog: o~
+dialog: 69.
+speaker_heading: CONTINUED: (2) 89
+speaker_heading: HENRY
+text: opens the sack on his bed and pulls out bottles of wine,
+text: Scotch, and brandy, and holds them aloft.
+speaker_heading: HENRY
+dialog: (looking for praise)
+dialog: Nice? Good?
+speaker_heading: CICERO
+dialog: (looking up from his
+dialog: garlic surgery)
+dialog: Okay. What else?
+text: We see Henry reach in the sack and pull out cheeses,
+text: dried sausages, a large jar of vinegar peppers and dried
+dialog: mushrooms.
+speaker_heading: CICERO
+dialog: (beaming with pride)
+dialog: Now we eat.
+dialog: ,
+text: We see Henry begin to set the table.
+speaker_heading: CUT TO:
+scene_heading: CICERO AND REST OF MOB BOSSES
+text: playing cards, and sipping wine, Scotch and brandy.
+text: Henry is sitting on his bed with his back to the group.
+text: When he sees that no one is watching him, he pulis a
+text: black plastic garbage bag out of the sack. Henry opens
+text: the bag and quickly counts the clear plastic bags of
+text: marijuana, glassine envelopes of heroin and bottles of
+text: pills. Henry quickly repacks the drugs and slips them
+text: under his covers.
+scene_heading: INT. PRISON ENTRY GATE - DAY 90
+text: Visiting day. Henry is in a guard's booth watching the
+text: visitors' gate through a window. We see a GUARD in the
+text: room with Henry. There is a KNOCK. The Guard opens the
+text: door and looks at Henry. Henry nods. The Guard lets
+text: the inmate enter. While the Guard watches, the inmate
+text: gives Henry some cash and Henry gives him one of the
+text: plastic bags filled with marijuana and a bottle of pills.
+text: The inmate is then escorted out by the Guard who closes
+dialog: the door.
+speaker_heading: GUARD
+dialog: Are there any more?
+speaker_heading: (CONTINUED)
+dialog: 90
+speaker_heading: 9L
+dialog: 92
+dialog: 70.
+speaker_heading: CONTINUED: 90
+speaker_heading: HENRY
+dialog: (looking intently at
+dialog: the visiting gate)
+dialog: No, that's it. No more today.
+text: We see Henry casually stuff some bills into the Guard's
+dialog: shirt pocket.
+dialog: Cur TO:
+scene_heading: INT. VISITORS’ GATE - ANGLE ON KAREN - DAY 91
+text: coming through. She is wearing such a large, oversized |
+dialog: coat that Karen looks twice as big as she was when we
+text: last saw her. . She has the two children with her. She
+text: is carrying a large purse and some empty shopping bags.
+text: The guards see her and immediately help her get through
+text: the metal detection device and past the table where
+text: other women are emptying the contents of their bags and
+dialog: packages.
+speaker_heading: cUT TO:
+speaker_heading: REGISTRATION DESK
+text: where Karen quickly signs the visitors’ book.
+speaker_heading: cUuT TO:
+speaker_heading: GUARD'S GRINNING FACE
+text: We see him turn page of book so Karen can see the name
+dialog: of another of Henry's visitors.
+speaker_heading: CUT TO:
+speaker_heading: PAGE OF BOOK
+text: We see name, "Janice Rossi" written next to HILL, HENRY.
+speaker_heading: CUT TO:
+scene_heading: INT. PRISON WAITING ROOM 92
+text: PAN BACK TO a large gymnasium filled with formica tables
+text: and cheap plastic chairs at which we see prisoners and
+text: their wives and children eating, talking, crying and,
+text: in discreet corners -- hidden behind makeshift screens
+text: of shopping bags and scarves -- having oral sex.
+speaker_heading: (CONTINUED )
+dialog: 92
+dialog: 71.
+speaker_heading: CONTINUED: 92
+text: We see that the bored guards are indifferent to what is
+dialog: happening.
+speaker_heading: CUT TO:
+speaker_heading: TABLE
+text: Henry and Karen are talking while we see the children
+text: playing in the distance at the commissary food machines.
+speaker_heading: KAREN
+dialog: (fuming)
+dialog: You son of a bitch. She's been
+dialog: here. -
+speaker_heading: HENRY
+dialog: (acting dumb)
+dialog: What are you talking about?
+speaker_heading: KAREN
+dialog: (gottcha)
+dialog: Don't lie to me. I saw her name
+text: in the register.
+speaker_heading: HENRY
+dialog: Jezuz Christ!
+speaker_heading: KAREN ~
+dialog: You want her to visit you? Good! .
+dialog: Let her stay up all night crying
+dialog: and writing letters to the parole
+dialog: board.
+speaker_heading: HENRY
+dialog: (astounded)
+dialog: What am I doing? I'm in here!
+dialog: I'm in jail. I can't stop people
+dialog: from coming to see me.
+text: We see Karen open her coat revealing large inside pockets
+text: where she has stowed salamis, wine, cigarettes, cartons
+dialog: etc.
+speaker_heading: KAREN
+dialog: You want her? Good! Let her
+dialog: sneak this stuff in for you.
+text: We see Karen slam a salami on the table with such a thud
+text: that the other prisoners and wives turn around.
+speaker_heading: KAREN
+dialog: Let her fight with these creep
+dialog: bastards every week to make life
+dialog: easier for you!
+speaker_heading: (CONTINUED)
+dialog: 92
+dialog: 72.
+speaker_heading: CONTINUED: (2) 92
+text: We see Karen slam down cigarettes and wine with a thud,
+text: this time we see a guard turn around and look at Karen
+dialog: and Henry and the contraband on the table. Pause. We
+text: see the guard turn his head away.
+speaker_heading: HENRY
+dialog: (desperate)
+dialog: Stop! - Stop!
+speaker_heading: KAREN
+dialog: Let her carry this. shit inside.
+text: We see Karen boldly wave a baggie filled with marijuana
+text: and some plastic medicine containers with pills.
+text: Henry grab the narcotics out of Karen's hand and grabs
+text: her. We see Henry hug Karen to him and we see her drop
+text: her arms and hug him.
+speaker_heading: KAREN
+dialog: (quietly sobbing)
+dialog: Nobody's helping me. Tommy got
+dialog: four years. Morris and Belle are
+dialog: broke. I asked your friend Remo
+dialog: for the money he owed you, and
+dialog: you know what he told me?
+speaker_heading: HENRY
+dialog: (stroking her head
+dialog: and soothing her)
+dialog: It'll be okay.
+speaker_heading: KAREN
+dialog: He told me to take the kids to the
+dialog: police station and make the cops
+dialog: put me on welfare.
+text: We see Henry take the drugs from Karen's hand and slip
+text: it into his shirt.
+speaker_heading: HENRY
+dialog: We've got to help each other.
+speaker_heading: KAREN
+dialog: Even Paulie, since he got out, I
+dialog: hardly see him.
+speaker_heading: HENRY
+dialog: It's only you and me. That's what
+dialog: happens when you go away. We're
+dialog: on our own. Forget. everybody.
+dialog: Forget Paulie. As Iong as he's on
+dialog: parole he doesn't want anybody
+dialog: doing anything.
+speaker_heading: (CONTINUED)
+dialog: 92
+dialog: o~
+dialog: v~
+dialog: 93
+dialog: 94
+dialog: o~
+dialog: 73.
+speaker_heading: CONTINUED: (3) 92
+speaker_heading: KAREN
+dialog: (sobbing)
+dialog: I can't do it anymore.
+speaker_heading: HENRY
+dialog: Yes, you can. I've got it set
+dialog: up. We'll be fine. All I need
+dialog: is for you to keep bringing the
+dialog: stuff. I've got a guy in here
+dialog: from Pittsburgh who'll move it
+dialog: for me. Believe me, in a month
+dialog: we'll be fine. We won't need
+dialog: anybody.
+speaker_heading: KAREN
+dialog: I'm afraid. I'm afraid if Paulie
+dialog: finds out.
+speaker_heading: HENRY
+dialog: Don't worry about Paulie. Is he
+dialog: helping you? Is he putting food
+dialog: on the table? We've got to help
+dialog: ourselves. We just have to be
+dialog: careful while we do it.
+speaker_heading: KAREN
+dialog: (looking in his face)
+dialog: I don't want to hear about her
+dialog: anymore.
+speaker_heading: HENRY
+dialog: (hugging her to him)
+dialog: Never.
+speaker_heading: DISSOLVE TO:
+scene_heading: TITLE - FOUR YEARS LATER
+scene_heading: EXT. PRISON GATE - DAY 93
+text: Henry comes out in civilian clothes. We see his face
+text: drop. PAN OVER to the beat-up old car. Karen is behind
+text: the wheel. Henry gets in.
+scene_heading: INT. KAREN'S SMALL, CRAMPED APARTMENT 94
+text: The signs of wealth are long gone. Henry sees that
+text: Karen has been living four tough, lean years.
+text: Their daughters are watching as Henry looks around the
+dialog: house.
+speaker_heading: (CONTINUED)
+dialog: 94
+dialog: 95
+dialog: 74,
+speaker_heading: CONTINUED: 94
+speaker_heading: HENRY
+dialog: (smiling faintly)
+dialog: Get packed. We're getting out of
+dialog: here.
+speaker_heading: KAREN
+dialog: With what?
+speaker_heading: , HENRY
+dialog: (smiling, slyly)
+dialog: Don't worry with what. You just
+dialog: start looking for a new place.
+dialog: I'm going to Pittsburgh in the
+dialog: morning. The guys from Pittsburgh
+dialog: they owe me fifteen grand from our
+dialog: little partnership and it's only
+dialog: the beginning.
+speaker_heading: KAREN
+dialog: But you've got to see your parole
+dialog: officer in the afternoon and...
+dialog: (whispering)
+dialog: I promised we'd take Lois to
+dialog: F.A.O. Schwarz.
+speaker_heading: HENRY
+dialog: Don't worry about it. You
+dialog: listening to me? Now, come on.
+dialog: We gotta go see Paulie.
+speaker_heading: CUT TO:
+scene_heading: INT. CICERO'S HOUSE - ANGLE ON PLATTERS OF FOOD - DAY 95
+text: coming out of the kitchen and placed on the table.
+speaker_heading: CUT TO:
+scene_heading: DOCK - IN REAR OF CICERO'S HOUSE
+speaker_heading: DISSOLVE TO:
+speaker_heading: CICERO AND HENRY
+text: walking toward the edge of the dock.
+speaker_heading: CICERO
+dialog: I don't want any more of that
+dialog: shit.
+speaker_heading: ; HENRY
+dialog: Wha? Me?
+speaker_heading: (CONTINUED)
+dialog: 95
+speaker_heading: CONTINUED:
+dialog: 75.
+dialog: 95
+speaker_heading: CICERO
+dialog: Just stay away from the garbage.
+dialog: You know what I mean.
+speaker_heading: HENRY
+dialog: (shocked)
+dialog: Me? Why would I get into that
+dialog: shit?
+speaker_heading: CICERO
+dialog: (interrupting)
+dialog: I know what you did inside. You .
+dialog: did what you had to do. I'm not.
+dialog: talking about that. I'm talking
+dialog: from now on, outside. I'm
+dialog: talking right here.
+speaker_heading: HENRY
+dialog: Why would I get into that?
+speaker_heading: CICERO
+dialog: Don't make me a fool. You know
+dialog: what I mean. From now on, you
+dialog: gotta be careful. Just don't mess
+dialog: around with that shit, and watch
+dialog: out for James. James' a good
+dialog: earner, but he's sometimes too
+dialog: hungry. He's wild. He does
+dialog: foolish things. James is not a
+dialog: businessman. As good as he is,
+dialog: he takes too many chances.
+speaker_heading: HENRY
+dialog: I know that. I know James. You
+dialog: think I'd take chances like James?
+speaker_heading: CICERO
+dialog: And that Tommy. He's a good kid,
+dialog: but he's crazy. He's a cowboy.
+dialog: He's got too much to prove. You
+dialog: got to watch out for kids like
+dialog: that.
+speaker_heading: HENRY
+dialog: Paulie, I know. I know what they
+dialog: are. But I use them for certain
+dialog: things. Please. Believe me, you
+dialog: don't have to worry.
+speaker_heading: (CONTINUED)
+dialog: 76.
+speaker_heading: 95 CONTINUED: (2) 95
+speaker_heading: CICERO
+dialog: (not even listening
+dialog: to Henry's protest)
+dialog: I'm not going to get fucked like
+dialog: Gribbs. He's seventy years old
+dialog: and the fucking guy is going to
+dialog: die in prison. I don't need that.
+dialog: I don't care who it is. I'm
+dialog: warning everybody. Gribbs got
+dialog: twenty years just because he said
+dialog: hello to some fuck who was
+dialog: sneaking around selling junk
+dialog: behind his. back. That's not going
+dialog: to happen to me. You understand?
+speaker_heading: HENRY
+dialog: Paulie. Why would I? I swear.
+speaker_heading: CICERO
+dialog: You're only home early because
+dialog: we got you a job, right? And I
+dialog: don't need any heat. You
+dialog: understand?
+text: Henry nods.
+speaker_heading: CICERO
+dialog: And, if you hear about anybody
+dialog: else fucking around with that
+dialog: shit, you tell me.
+text: Henry nods again.
+speaker_heading: CICERO
+dialog: (gently slapping
+dialog: Henry on the
+dialog: cheek)
+dialog: Anybody! You understand?
+speaker_heading: HENRY
+dialog: I understand.
+speaker_heading: CUT TO:
+scene_heading: 96 INT. SANDY'S BASEMENT APARTMENT - ANGLE ON SANDY'S HANDS 96
+speaker_heading: - DAY
+text: mixing coke in metal bowl. We see Henry standing behind
+text: her. Sandy is an intense, sexy, 30-year-old, divorced,
+dialog: ex-airport clerk. (Sandy is described earlier in Scene
+text: #75, page 57, where. she flirts with Henry.) The apart-
+text: ment is a jumbled mess and even the table where she is
+text: cutting the drugs is littered with old coffee cups,
+text: newspapers, and day-old dirty dishes.
+speaker_heading: (CONTINUED)
+dialog: 96
+dialog: 97
+dialog: 77.
+speaker_heading: CONTINUED: 96
+speaker_heading: HENRY (V.0.)
+dialog: It took me about a week of
+dialog: sneaking around before I could
+dialog: unload the Pittsburgh stuff
+dialog: without Paulie finding out. But
+dialog: when I did, it was a real score.
+dialog: I started using Sandy's place
+dialog: ‘to mix the stuff-and-even with
+text: Sandy's snorting more than she
+dialog: mixed, I could see this was a
+dialog: good business. I made twelve
+dialog: thousand dollars in my second
+dialog: week and I had a down payment
+dialog: on my house. All I had to do
+dialog: was every once in a while, tell
+dialog: Sandy I loved her.
+speaker_heading: CUT TO:
+scene_heading: INT. PAROLE OFFICE - TIGHT ON PIECE OF PAPER - DAY 97
+text: where stubby pencil calculations are being scribbled.
+speaker_heading: HENRY (V.0.)
+dialog: It was perfect. As long as I
+dialog: kept getting the stuff from
+dialog: Pittsburgh, I knew Paulie would
+dialog: never find out. But within a
+dialog: couple of weeks it got to be so
+dialog: big I needed help. I got James
+dialog: and Tommy to come in with me.
+speaker_heading: HENRY (0.5. )
+dialog: Fifteen, sixteen, eighteen,
+dialog: twenty-one-five.
+speaker_heading: HENRY
+text: opening a shoe box he has hidden in a plastic grocery
+text: bag. James and Tommy lean close to Henry in order to
+dialog: see inside.
+speaker_heading: HENRY
+dialog: (smiling)
+dialog: Did I tell you?
+speaker_heading: CUT TO:
+speaker_heading: OPEN SHOE BOX
+text: filled with twenty dollar bills.
+speaker_heading: (CONTINUED)
+dialog: 97
+dialog: 98
+dialog: 78.
+speaker_heading: CONTINUED: : 97
+speaker_heading: JAMES (0.5S.)
+dialog: Nice. :
+speaker_heading: TOMMY (0.S.)
+dialog: Who's buying?
+text: We see Henry's thumb run through the tightly-stacked
+text: twenties like piano keys.
+speaker_heading: CUT TO:
+speaker_heading: PAROLE OFFICER
+text: in tired business suit coming out of door, over which
+text: we see sign reading "UNITED STATES DEPARTMENT OF JUSTICE
+scene_heading: - PAROLE DIVISION"...
+text: And we see that Henry, James and Tommy are in the large
+text: brightly-lit parole office counting their drug profits.
+speaker_heading: PAROLE OFFICER
+dialog: (overworked and
+dialog: looking around the
+dialog: crowded waiting
+dialog: room)
+dialog: Conway?
+text: We see James and PAROLE OFFICER walk into the office.
+speaker_heading: PAROLE OFFICER
+dialog: Still working?
+text: Door closes.
+speaker_heading: CUT BACK TO:
+speaker_heading: WHOLE FLOOR
+text: filled with ex-con parolees.
+speaker_heading: cUuT TO:
+scene_heading: INT. HENRY'S NEW HOUSE 98
+text: We see Morris Kessler and his wife, Belle, being taken on a
+text: tour of an over-decorated and expensive living room.
+dialog: (NOTE: Shot almost like a commercial.)
+speaker_heading: KAREN (0.8.)
+dialog: This we had to have made special.
+dialog: I mean, sit in it. Go ahead. Sit.
+text: Belle plops onto sofa.
+speaker_heading: (CONTINUED)
+dialog: 98
+dialog: 99
+dialog: 79.
+speaker_heading: CONTINUED: 98
+speaker_heading: KAREN (0.5.)
+dialog: The others you couldn't even sit
+dialog: in. And from here, watch the
+dialog: wall.
+text: Karen's hand flicks a switch on table next to sofa, and
+text: wall slides back, revealing TV and stereo.
+speaker_heading: KAREN (0.S.)
+dialog: See. It opens. We had the
+dialog: electricians fix it up special.
+speaker_heading: cuT TO:
+scene_heading: LARGE MARBLE TOP TABLE
+speaker_heading: KAREN (0.8.)
+dialog: This we imported. It came in two
+dialog: pieces.
+dialog: ON third object, PAN TO Karen.
+text: As Karen and Belle Kessler disappear behind swinging
+text: kitchen doors, Morris and Henry drop onto the sofa.
+speaker_heading: MORRIS
+dialog: It's a fait accompli?
+speaker_heading: HENRY
+dialog: Done.
+speaker_heading: MORRIS
+dialog: And James's in it, right?
+speaker_heading: HENRY
+dialog: Will you stop?
+speaker_heading: MORRIS
+dialog: But you don't understand. It's
+dialog: worth millions. It's once in a
+dialog: lifetime. We'll be rich. No
+dialog: more nut every week. I've been
+dialog: cultivating this thing for two
+dialog: years.
+scene_heading: INT. ROBERT'S LOUNGE 99
+text: a seedy mob hangout. We see all of the wiseguys who will
+text: be a part of the Lufthansa robbery. Morris, Henry, Tommy,
+text: and James are watching a basketbail game.
+speaker_heading: HENRY (V.0.)
+dialog: And these are the guys.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+dialog: 99
+dialog: 80.
+speaker_heading: CONTINUED: : 99
+scene_heading: TOMMY AND FRANKY CARBONE
+text: who are leaning with their backs against the bar, their
+text: jackets open, bosses of all they survey.
+speaker_heading: HENRY (V.0.)
+dialog: Tommy and Carbone were going to
+dialog: grab the outside guard and make
+dialog: him get us in the front door.
+speaker_heading: CUT TO:
+speaker_heading: FRENCHY McMAHON
+text: who is playing shuffleball.
+speaker_heading: HENRY (V.0.)
+dialog: Frenchy and --
+dialog: cut TO:
+speaker_heading: JOE BUDDHA
+text: sprinkling sawdust on the shuffleboard table.
+speaker_heading: HENRY (V.0.)
+dialog: Joe Buddha had to round up the
+dialog: workers.
+speaker_heading: CuT TO:
+speaker_heading: FAT LOUIE
+text: who is about 300 pounds and is sitting backwards in a
+text: chair, watching the TELEVISION with a drink in his hand.
+speaker_heading: HENRY (V.0.)
+dialog: Fat Louis had to keep them tied
+text: up and away from alarms.
+speaker_heading: CUT TO:
+speaker_heading: MORRIS
+text: shoving his way between James and Henry at the bar and
+text: turning to the television basketball game.
+speaker_heading: HENRY (V.0.).
+dialog: Only Morris was driving us nuts.
+text: He was busting James's balls for
+dialog: an advance on the money we were
+dialog: going to steal.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+dialog: 99
+dialog: 100
+dialog: 81.
+speaker_heading: CONTINUED: (2) 99
+speaker_heading: STACKS EDWARDS
+text: who is sitting at the bar, delicately stirring his
+text: drink with his pinky.
+speaker_heading: HENRY (V.0.)
+dialog: Even Stacks got in on it. He
+dialog: was supposed to steal the panel
+dialog: truck and afterwards compact it
+dialog: by a friend of ours in Jersey.
+speaker_heading: CUT TO:
+scene_heading: INT. KAREN AND HENRY'S BEDROOM - ANGLE ON BABY - DAY 100
+text: LOIS BYRD, a young, pale blonde woman, puts the baby and
+text: an overnight bag on the bed as Henry and Karen watch.
+speaker_heading: HENRY (V.0.)
+dialog: I had everybody working. Even our
+dialog: old babysitter.
+speaker_heading: KAREN
+dialog: (enthused)
+dialog: She's beautiful. Look at her.
+dialog: Henry, look at her.
+speaker_heading: HENRY
+dialog: (singsong)
+dialog: Hello! Hello!
+dialog: (to Lois)
+dialog: Have a good flight?
+speaker_heading: LOIS
+dialog: I hate Pittsburgh.
+text: We see Lois Byrd unwrap the baby's pink snowsuit and
+text: take off its hood and mittens as Henry opens Lois's
+text: overnight bag and takes out some Pampers and then he
+text: takes out several plastic bags with cocaine and heroin.
+speaker_heading: LOIS
+dialog: Where'd you find such creeps?
+speaker_heading: HENRY
+dialog: They're okay and it's worth it.
+dialog: Ain't it?
+speaker_heading: KAREN
+dialog: (playing with the
+dialog: baby)
+dialog: Is this the same one as last time?
+speaker_heading: (CONTINUED)
+dialog: 100
+dialog: 101
+speaker_heading: CONTINUED: 100
+speaker_heading: LOIS
+dialog: (amazed that Karen
+dialog: can't tell the
+dialog: difference)
+dialog: No. That one was my sister's.
+dialog: This is Louise's.
+speaker_heading: KARNE
+dialog: Look at her, Henry, is she sweet?
+dialog: Doesn't she look like Lois?
+speaker_heading: LOIS
+dialog: That's what the stewardess said.
+text: We see Henry barely listening while putting the drugs in
+dialog: a@ paper bag.
+speaker_heading: CUT TO:
+scene_heading: INT. SANDY'S HOUSE - EXTREME CLOSEUP - COKEBALLS 101
+text: COME BACK to see Henry at table making “"cokeballs" in a
+dialog: metal press.
+speaker_heading: CUT TO:
+scene_heading: LINE OF COKE ON MIRROR
+text: shoved under Henry's nostril.
+text: We see straw inserted into Henry's nostril as he
+text: casually inhales. He never stops pressing the cokeballs.
+text: TRACK OUT TO Sandy taking a snort herself, and the sloppy
+text: table with the drugs, scales, mixers, bowls and sieves.
+text: Sandy is razor-blading two more lines.
+speaker_heading: HENRY
+dialog: (watching out of
+dialog: the corner of his
+dialog: eye)
+dialog: Hey! Watch out.
+text: We see Sandy lick her finger and then run her finger
+text: across Henry's tongue. He licks, but does not react as
+text: he takes several golfball-size cokeballs out of the
+text: machine and puts them in a leather pouch. He gets up
+dialog: to leave.
+speaker_heading: SANDY
+dialog: Stay there.
+speaker_heading: (CONTINUED)
+dialog: —_e we we
+dialog: 101
+speaker_heading: CONTINUED:
+dialog: 83.
+dialog: 101
+speaker_heading: HENRY
+dialog: Don't start. I told you to clean
+dialog: up. Look at this place. It's a
+dialog: pigpen. Look around here. Why do
+dialog: you think I bought you the
+dialog: dishwasher? Look. Look at this.
+dialog: (sticking his finger
+dialog: under ‘Sandy's nose)
+dialog: There's enough powder around here
+dialog: to put us all away.
+speaker_heading: SANDY
+dialog: (licking Henry's finger
+text: and playfully pushing
+dialog: him into the chair)
+dialog: I hate to do dishes.
+speaker_heading: HENRY
+dialog: (sitting down again)
+dialog: Hey, come on. I gotta meet
+dialog: somebody.
+speaker_heading: SANDY
+dialog: (reaching over his
+dialog: shoulder toward
+dialog: his crotch)
+dialog: So do I.
+dialog: = =
+text: We see Henry look at his watch.
+scene_heading: 102 INT. SANDY'S SHOWER 102
+text: Henry is listening to the RADIO while taking his SHOWER.
+speaker_heading: RADIO NEWS BROADCASTER (V.0.)
+dialog: .».. and nobody knows for sure just
+dialog: how much was taken in the daring
+dialog: pre-dawn raid at the Lufthansa
+text: cargo terminal at Kennedy Airport.
+dialog: The F.B.I. says two million
+dialog: dollars, Port Authority police
+dialog: say four million dollars, the city
+dialog: cops say five. How much maximum?
+dialog: That they won't say. So far,
+dialog: Lufthansa has not said anything,
+dialog: but they've promised to break
+text: their silence soon with a press
+dialog: conference, and W.1I.N.S. will be
+dialog: there to cover it live from the
+text: scene of the heist at J.F.K.
+dialog: when they do.
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+dialog: 102
+dialog: oe
+dialog: 103
+dialog: aa
+dialog: ~~
+dialog: 84,
+speaker_heading: CONTINUED: 102
+speaker_heading: RADIO NEWS BROADCASTER (V.O.) (CONT'D)
+dialog: It looks like a big one. Maybe the
+dialog: biggest this town has ever seen.
+dialog: Stay tuned...
+text: Henry slams the soap onto the shower floor and pounds
+text: the wall with joy.
+speaker_heading: SANDY (0.8.)
+dialog: Are you okay? What happened?
+speaker_heading: HENRY
+dialog: Nothing. I dropped the soap.
+dialog: That's all.
+scene_heading: EXT. ROBERT'S LOUNGE - NIGHT ‘ 103
+text: Private Christmas party. As they arrive, Henry and Karen
+text: are hugged by James in the doorway. It is a Lufthansa
+text: victory party, but no one mentions the robbery:
+speaker_heading: JAMES
+dialog: (grabbing Henry
+dialog: around the neck
+dialog: and kissing his
+dialog: head)
+dialog: Come here.
+dialog: (to Karen)
+dialog: Look at this genius.
+text: James keeps his arms around Henry and Karen as FAT LOUIE
+text: CAFORA shows up with his new wife, Dolores, who is also
+text: over 200 pounds. They are beaming with pride.
+speaker_heading: FAT LOUIE
+dialog: (to James and
+dialog: Henry.)
+dialog: Come outside. I gotta show you.
+text: Just for a minute.
+text: We see a new pink Caddy convertible. The sticker is
+text: still in the window.
+speaker_heading: FAT LOUIE (0.8.)
+dialog: Is that beautiful? I got it for
+dialog: Dolores.
+speaker_heading: JAMES
+dialog: (whispering angrily
+dialog: at Fat Louie)
+dialog: You fucking nuts? Didn't I say
+dialog: not to go buy anything for a while.
+dialog: You got a fucking car?
+speaker_heading: (CONTINUED)
+dialog: 103
+dialog: 85.
+speaker_heading: CONTINUED: 103
+speaker_heading: FAT LOUIE
+dialog: (trying to placate
+text: James as he enters the
+dialog: bar)
+dialog: Don't get excited. It's okay.
+dialog: My mother bought it for us. It's
+text: a wedding present. It's in her
+dialog: name.
+speaker_heading: JAMES
+dialog: You're crazy. The bulls are across
+text: the street. They're watching
+dialog: everything we do.
+dialog: CUT TO:.
+scene_heading: EXT. ROBERT'S LOUNGE
+text: Cops in front.
+speaker_heading: CUT BACK TO:
+speaker_heading: JAMES
+text: as he watches Fat Louie walk into the bar.
+speaker_heading: JAMES
+dialog: (angrily whispering
+dialog: to Henry)
+dialog: The fat fuck ought to wear a sign.
+text: We see a smiling Franky Carbone walk in the door and we
+text: see that his WIFE is wearing a $30,000 sable coat.
+speaker_heading: JAMES
+dialog: Jesus Christ! Are you all fucking
+dialog: nuts?
+speaker_heading: CARBONE
+dialog: (to Henry)
+dialog: What's the matter with him?
+text: Before Henry can answer, we see James start to grab the
+text: coat off MRS. CARBONE'S back.
+speaker_heading: CARBONE
+dialog: Hey? What the fuck are you doing?
+speaker_heading: MRS. CARBONE
+dialog: (hysteria rising)
+dialog: Franky! He's taking my coat!
+dialog: Franky!
+speaker_heading: (CONTINUED)
+dialog: 103
+dialog: 86.
+speaker_heading: CONTINUED: (2) 103
+text: Meanwhile, we see James grabbing the coat off Mrs.
+text: Cabone's back and begin to roll it up and shove it under
+text: Carbone's arm.
+speaker_heading: JAMES
+dialog: (furiously, to Carbone)
+dialog: Didn't I tell you not to get
+dialog: anything big? Didn't I tell you
+dialog: not to attract attention? In two
+dialog: days, one fuck buys a Caddy and
+dialog: another buys a.ten thousand dollar
+dialog: mink.
+dialog: (to Henry}
+dialog: Can you believe this shit?
+dialog: (to Carbone, with
+dialog: Some menace)
+dialog: Now get the fuck home and get rid
+dialog: ef the coat. Bring it back to
+dialog: where you got it. I don't care
+dialog: what you do, just get rid of it.
+speaker_heading: MRS. CARBONE
+dialog: (to Carbone, hysterical
+dialog: and angry)
+dialog: I'm not giving it back. Franky?
+dialog: Do you hear me?
+text: We see Carbone angrily grab his wife's arm and leave.
+speaker_heading: CARBONE
+dialog: Did I tell you to shut up? Shut up!
+speaker_heading: JAMES
+dialog: (to Henry, as they
+dialog: walk toward the bar)
+dialog: Fucking guys. Can you believe
+dialog: them. I told them all: Don't
+dialog: attract attention. Act normal.
+text: At the bar, we see Stacks Edwards and his girlfriend drop-
+text: ping shot glasses of green creme de menthe into large
+text: glasses of chilled Dom Perignon. Tommy and his girl-for-
+text: the-night are standing with Stacks and his girlfriend.
+text: Tommy is wearing a shiny silk suit that practically glows
+text: with newness. We see Frenchy and Buddha with their wives.
+text: Everyone is dressed in new clothes and flashing gaudy
+dialog: rings.
+text: James and Henry move toward a quiet corner of the bar.
+text: We see Morris Kessler suddenly burst in on them.
+speaker_heading: MORRIS
+dialog: Oh! There you are. I've been
+dialog: looking all over for you two.’
+speaker_heading: (CONTINUED)
+dialog: we
+dialog: 103
+dialog: 87.
+speaker_heading: CONTINUED: (3) 103
+text: Henry and James stare at Morris, blankly.
+speaker_heading: MORRIS
+dialog: Listen. I need it, James. I
+dialog: need it all.
+text: James gets up to walk away without even looking at Morris.
+speaker_heading: HENRY
+dialog: Morris, relax. You saw some money.
+speaker_heading: MORRIS
+dialog: (continues anyway)
+dialog: But I need it all. I owe people,
+dialog: too, you know. .
+text: We see James walk toward small office in the back of the
+dialog: bar.
+speaker_heading: : MORRIS
+dialog: James. Wait. Listen. Please.
+text: We see that Morris is about to follow James into the room,
+text: but Henry stops him.
+speaker_heading: MORRIS
+dialog: I wanna talk to James.
+speaker_heading: HENRY
+dialog: He heard.
+speaker_heading: MORRIS
+dialog: But I got two hundred and fifty
+dialog: coming. It's my share. James
+dialog: owes me.
+speaker_heading: HENRY
+dialog: (following James
+dialog: into the backroom)
+dialog: Morris, please. Let me talk to
+dialog: him.
+speaker_heading: CUT TO:
+speaker_heading: BACKROOM
+text: James and Henry are alone.
+text: We see James take a thick stack of bills from inside his
+text: jacket pocket and press them into Henry's chest.
+speaker_heading: JAMES
+dialog: For Christmas. Your share. It's
+dialog: just a taste.
+speaker_heading: (CONTINUED)
+dialog: 103
+dialog: 104
+dialog: 88.
+speaker_heading: CONTINUED: (4) 103
+speaker_heading: HENRY
+dialog: James.
+speaker_heading: JAMES
+dialog: (embracing Henry)
+dialog: We did it. We did it.
+text: We hear a KNOCK on the door.
+text: James stops as if caught.
+speaker_heading: MALE (0.5.)
+dialog: Hey, James. James.
+text: James returns to normal.
+speaker_heading: JAMES
+dialog: Yeah, yeah. I'll be right there.
+speaker_heading: CuT TO:
+scene_heading: INT. HENRY'S HOUSE - ANGLE ON HUGE ARTIFIICAL CHRISTMAS 104
+speaker_heading: TREE - NIGHT
+text: We see Henry coming in with the tree.
+speaker_heading: HENRY
+dialog: Hey! Look what I got. The most
+dialog: expensive tree they had.
+speaker_heading: CUT TO:
+speaker_heading: HUGE WHITE TREE :
+text: all set up with large purple balis.
+text: We see Karen and the children excited by the presents
+text: revealed under the tree. We see Karen kiss Henry, who
+text: slips a thick packet of bills into the front of her
+dialog: dress.
+speaker_heading: HENRY
+dialog: Go buy yourself a coat.
+text: Karen shivers with excitement.
+text: CAMERA DOLLIES INTO tree.
+speaker_heading: HENRY (V.0.)
+dialog: Lufthansa should have been our
+dialog: ultimate.score. The heist of a
+dialog: lifetime. Six million in cash.
+dialog: More than enough to go around.
+dialog: 
+dialog: 105
+dialog: 89.
+scene_heading: INT. STACKS APARTMENT 105
+text: Stacks in bed.
+text: We hear a loud KNOCKING at the door.
+speaker_heading: TOMMY (0.5S.)
+dialog: Hey! Stacks! Come on! Open
+dialog: the door! Wake up!
+speaker_heading: CUT TO:
+speaker_heading: STACKS
+text: opening the door.
+speaker_heading: FRANKY
+dialog: You got coffee?
+speaker_heading: STACKS
+dialog: Fucks! You said you had coffee.
+speaker_heading: TOMMY
+dialog: (to Franky)
+text: Put on a pot.
+speaker_heading: STACKS
+dialog: (putting on his
+dialog: trousers)
+text: Ball-busting sons of bitches.
+dialog: cur TO:
+speaker_heading: STACKS
+text: bending over to put on his shoes.
+text: We hear WATER in the sink.
+speaker_heading: CuT To:
+speaker_heading: TOMMY
+text: pulling out a .38 caliber gun with a silencer from his
+dialog: belt.
+speaker_heading: HENRY (V.0.)
+dialog: Stacks was always crazy. Instead
+dialog: of getting rid of the truck like
+dialog: he was supposed to, he got stoned,
+dialog: went to his girlfriend's and by
+dialog: the time he woke up, the cops had
+dialog: found the truck. It was all over
+dialog: the television. They even said
+dialog: they came up with prints off the
+dialog: wheel. It was just a matter of
+dialog: time before they got to Stacks.
+speaker_heading: (CONTINUED)
+scene_heading: GOOD FELLAS - Rev. 6/28/89.
+dialog: 
+dialog: 
+dialog: 
+dialog: “We see James
+dialog: the -back -toc
+dialog: 
+dialog: : . GUT TO: :
+scene_heading: 106A BACK ROOM ee 1064, *
+dialog: ng)
+dialog: 
+dialog: ‘about it.
+speaker_heading: ~~ ck / oo HENRY
+dialog: : ‘There are cops. all over the place.
+speaker_heading: * (CONTINUED)
+dialog: 
+text: As. Henry ‘hugs Tomny. “they” hear a KNOCK at ‘the ‘door.
+text: Startled, Henry, Tommy, and James stare atthe. door.
+text: a second and leave the back room.
+dialog: oe oe
+speaker_heading: CUT TO:
+dialog: 
+speaker_heading: ~ 06D
+text: we. see Henry exit and Morris goes. off.
+scene_heading: 00D. FELLAS - Rev. 6/28/89 92,
+text: MARROW BALLWAY OUTSIDE BACK ROOM
+dialog: este ‘Belting alis oes
+dialog: ., Hine ear?» ‘Everything’ 8 ‘gonna be
+dialog: 
+dialog: Improvise with Morris making Henry laugh and...
+dialog: 
+dialog: 
+text: Henry looks. up and sees James looking ¢ at Morris.
+scene_heading: EXT.: _ SIDEWALK, OUTSIDE ROBERT'S ‘LOUNGE. BAR.- NEXT DAY 106D°-
+dialog: 
+text: We see Henry and James walking toward the door.
+dialog: “HENRY Wy, Oy Y.
+dialog: “I eould see: for the first ‘time
+dialog: that James was .a nervous. wreck.
+dialog: His mind was going in eight
+dialog: - different. directions at. once.
+speaker_heading: (CONTINUED)
+dialog: 5
+speaker_heading: 106D
+dialog: 
+speaker_heading: -106E
+scene_heading: GOOD FELLAS - Rev. 6/28/89 93, *
+speaker_heading: CONTINUED: 106D
+dialog: 
+dialog: : “Maybe. ‘T-ean' use:
+dialog: think 1é'5 okay?
+dialog: 
+scene_heading: INT. ations vie wait > DAY Se oe 106E
+text: James and Henry. continue. walking ‘toward fables in. rear.
+dialog: of the bar:
+speaker_heading: CUT TO:-
+scene_heading: CLOSEUP - “HENRY. /
+text: as he ‘sits with James.
+speaker_heading: HENRY. (V.0:)
+dialog: I was just stalling for time. 1
+dialog: ; still-chad till.eight or.nine
+dialog: o'clock to talk James out. of
+dialog: killing Morris, .but- meanwhile,
+dialog: as far as. James knew, I was going
+text: along with the pregram.
+speaker_heading: (CONTINUED)
+dialog: 
+speaker_heading: ‘107
+scene_heading: EXT. ROBERT’ s LOUNGE - - DAW Ce es 107
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: We see Morris, dJamés
+dialog: long night.” We see Mo:
+dialog: James" ears.” :
+dialog: Tommy. leaving t the bar after the
+dialog: ris lean. over and whisper: ' in
+speaker_heading: “JAMES
+text: (bursts ‘out. Laughing) -
+dialog: ‘Son of a. bitch. You're @ pisser.
+speaker_heading: (CONTINUED)
+dialog: 
+scene_heading: Goon “FELLAS - Rev. 6728/09 ee eee *
+scene_heading: 107 CONTINUED: .
+dialog: 
+dialog: and. the ‘second he closes the Tomaéy’ 1
+text: across thefront seat, pull Morris's head i back: by ‘the
+text: eye s ekets and slash ‘his: throat. :
+text: Morris’ 8 blood sprays. | ‘the windshield and dashboard.
+speaker_heading: OUT TO:
+dialog: En
+scene_heading: 108° INT. HENRE'S HOUSE - wicer 7 108
+text: We hear. a DOORBELL; waking ‘Henry. and | Karen from sleep. ~
+speaker_heading: ~~ : WOMAN (0.8. ).
+dialog: : . Open up: ~.-Henry! “Karen! It's
+dialog: me. Belle! :
+speaker_heading: (CONTINUED)
+dialog: 
+dialog: 
+dialog: 108
+dialog: 109
+dialog: 94.
+speaker_heading: CONTINUED: 108
+speaker_heading: BELLE
+dialog: In twenty years he's never been
+text: away all night without calling.
+dialog: I know something's wrong.
+speaker_heading: HENRY
+dialog: Awright, awright. Let me take
+dialog: you home and I'11 go look for
+dialog: him myself. Right now.
+scene_heading: INT. PARKING LOT OUTSIDE SHERWOOD DINER - DAWN 109
+text: Henry and James are leaving together.
+speaker_heading: . HENRY
+dialog: What'1ll I tell Belle?
+speaker_heading: JAMES
+dialog: Who gives a fuck? Tell her he
+text: ran away with a broad. What
+dialog: do you care about her.
+text: Suddenly James spots two FBI men who had been tailing
+text: him, dozing in their unmarked car. He starts toward
+dialog: their car.
+speaker_heading: JAMES
+dialog: Watch this.
+speaker_heading: HENRY
+dialog: Come on, don't fuck around, will
+dialog: ya?
+speaker_heading: JAMES
+dialog: I do it all the time. Bust their
+dialog: fucking balls.
+speaker_heading: - HENRY
+dialog: James... Come on. Fuck ‘em.
+dialog: Don't give them the satisfaction.
+text: Henry watches James tiptoe up to the Agents’ car and rap
+text: on the window. The startled agents look and see James
+text: staring at them.
+speaker_heading: JAMES
+dialog: Come on, fuckoes. Let's go for
+dialog: a ride.
+dialog: (to Henry as James
+dialog: starts his car)
+dialog: I keep ‘em up all fucking night.
+text: While Henry walks to his own car, we see James ROAR off
+text: and we hear the SQUEAL of TIRES and brakes as James and
+text: still sleepy agents in pursuit speed away from the club.
+dialog: 110
+dialog: 111
+dialog: 112
+dialog: 95.
+scene_heading: EXT. CAFORA'S PINK CADILLAC PARKED ON BROOKLYN STREET 110
+scene_heading: NEAR SCHOOL BUS STOP - MORNING
+text: We see some youngsters walk over to peek in the car. The
+text: youngsters are giggling. One boy sneaks up alongside the
+text: car door and peeks inside. We hear a yell.
+text: We see the bodies of Fat Louie Cafora and his wife,
+text: Dolores, slumped against each other on the front seat.
+text: Blood has caked all over their faces from small bullet
+text: holes in their heads.
+scene_heading: EXT. LARGE DUMPSTER BEHIND DINER NEAR AIRPORT - DAWN 111
+text: We see large garbage truck back up to the dumpster as
+text: garbage man lashes two steel cables to rings on top of
+dialog: dumpster.
+text: We see garbage man signal for 0.S. to tighten cable and
+text: tip dumpster into truck.
+scene_heading: CLOSEUP OF TOP OF DUMPSTER
+text: as it is tipped over and we see an arm fall over the
+text: side and as dumpster tips more we see another arm and
+text: the dead faces of Frenchy McMahon and Joe Buddha as
+text: garbage man screams to helper 0.5. to stop.
+scene_heading: EXT. HUNTS POINT MARKET - TRUCK PARKING LOT - MORNING 112
+text: We see the open door of a large refrigeration truck.
+text: We see bright lights and flashbulbs go off.
+text: CAMERA STEADILY MOVES IN ON frozen body hanging from a
+text: rack inside the truck.
+speaker_heading: HENRY (V.0.)
+dialog: James was cutting every link
+text: between himself and the robbery,
+dialog: but it had nothing to do with me.
+dialog: I gave James the tip and he gave
+dialog: me some Christmas money. From
+dialog: then on I kept my mouth shut. I
+dialog: knew James. He had the cash. It
+dialog: was his. I know he kicked some
+dialog: money upstairs to Paulie, but
+dialog: that was it. It made him sick
+dialog: to have to turn money over to the
+dialog: guys who stole it. He'd rather
+dialog: whack them. Anyway, what did I
+dialog: care? I wasn't asking for
+dialog: anything and, besides, James was
+dialog: making nice money with me through
+dialog: my Pittsburgh connections.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 112
+dialog: 113
+dialog: 114
+dialog: 115
+dialog: 96.
+speaker_heading: CONTINUED: 112
+speaker_heading: HENRY (V.0.) (CONT'D)
+dialog: But still, for months after the
+dialog: robbery, they were finding bodies
+dialog: all over.
+text: CAMERAS MOVES ONTO a CLOSEUP of Franky Carbone's frozen
+dialog: face.
+speaker_heading: HENRY (V.0.)
+dialog: When they found Carbone in the
+dialog: meat truck, he was frozen so stiff
+dialog: it took them two days to thaw him
+text: out for the autopsy.
+scene_heading: INT. SHERWOOD DINER - DAY . 113
+text: A bright sunny afternoon, Henry and James seated in a
+text: window booth. We see James eating eggs on pancakes with
+text: Sausages and toasted English muffins.
+speaker_heading: HENRY (V.0.)
+dialog: Still, I never saw James so happy.
+dialog: He was like a kid. We had money
+dialog: coming in through my Pittsburgh
+dialog: people and after a while even the
+dialog: Lufthansa thing began to calm
+dialog: down. But the thing that made
+dialog: James so happy that morning was
+dialog: that this was the day Tommy was
+dialog: being made.
+scene_heading: EXT. TOMMY DEVITO'S MOTHER'S HOUSE - MORNING 114
+text: We see Tommy is all dressed. He kisses his mother.
+text: Tommy walks down the stairs toward two wiseguys and into
+text: a waiting. car.
+speaker_heading: HENRY (V.0.) ~
+dialog: James was so excited, you'd think
+dialog: he was being made. He must have
+text: made four calls to Tommy's house.
+dialog: They had a signal all set up so
+dialog: he'd know the minute the ceremony
+dialog: was over.
+scene_heading: INT. SHERWOOD DINER - DAY 115
+text: James has finished his breakfast and spots Henry's
+text: untouched melon.
+speaker_heading: JAMES
+dialog: (looking at watch)
+dialog: You want the melon?
+speaker_heading: (CONTINUED)
+dialog: 115
+dialog: 116
+dialog: 117
+dialog: 118
+dialog: 97.
+speaker_heading: CONTINUED: 115
+speaker_heading: HENRY
+dialog: Nah.
+speaker_heading: JAMES
+dialog: (reaches for the
+dialog: melon and looks
+dialog: at his watch)
+dialog: I-better call again.
+speaker_heading: HENRY (V.0.)
+dialog: James and I could never be made,
+dialog: because we had Irish blood. It
+dialog: didn't even matter that my mother.
+dialog: was Sicilian. To become a member
+dialog: of the crew, you've got to be one
+dialog: hundred percent Italian so that
+dialog: they can trace all your relatives
+dialog: back to the old country.
+scene_heading: INT. ONE-FAMILY BRICK BUILDING WITH GARAGE UNDER FIRST 116
+speaker_heading: FLOOR
+text: We see the car pull into basement garage and door close.
+scene_heading: INT. SHERWOOD DINER - HENRY'S POV : 117
+text: In window, we see James cross the parking lot to an out-
+text: door phone booth on the side of the road. TRUCKS are
+text: ROARING past.
+speaker_heading: HENRY (V.0.)
+dialog: It's the highest honor they can
+dialog: give you. It means you belong to
+dialog: a family and a crew. It means
+dialog: that nobody can fuck around with
+dialog: you. It also means you can fuck
+dialog: around with anybody, as long as
+dialog: they aren't also a member. It's
+dialog: like a license to steal.
+scene_heading: INT. BASEMENT ROOM OFF GARAGE 118 .
+text: As Tommy proudly walks into the room, followed by the
+text: two wiseguys.
+speaker_heading: HENRY (V.0.)
+dialog: As far as James was concerned,
+dialog: with Tommy being made, it was like
+dialog: we were all being made. We would
+dialog: now have one of our own guys as
+dialog: a member.
+text: Tommy proudly walks into the room. We see a hood sud-
+text: denly appear behind him, put a GUN to his head and FIRE.
+speaker_heading: (CONTINUED)
+dialog: 118
+dialog: 119
+dialog: 98.
+speaker_heading: CONTINUED: 118
+text: We see Tommy inertly drop to the ground in a heap.
+speaker_heading: HENRY (V.0.)
+dialog: Except, they didn't make Tommy
+dialog: that day.
+scene_heading: INT. PHONE BOOTH - JAMES
+text: Suddenly, James slams down the phone with so much strength
+dialog: that the booth sudders.
+speaker_heading: HENRY (V.0.)
+dialog: They killed him. It was revenge
+dialog: for Billy Batts.
+text: When James turns around, we see that he is crying.
+text: We see Henry hurrying toward James to console him.
+speaker_heading: HENRY (V.0.)
+dialog: And there was nothing we could do.
+dialog: Batts was a made man and Tommy
+dialog: wasn't. We had to sit still and
+dialog: take it. It was among the
+dialog: Italians. It was real greaseball
+dialog: shit. They even shot Tommy in the
+dialog: face so his mother couldn't give
+text: him an open coffin at the funeral.
+scene_heading: COME UP ON DATE -- SUNDAY, JANUARY 11, 1979.
+text: TITLE UP -- 6:55 AM.
+scene_heading: EXT. HENRY'S DRIVEWAY - DAY 119
+text: We see Henry putting a paper bag filled with guns into
+text: the trunk of his car. We hear the loud noise of a
+text: HELICOPTER. We see Henry look up. We see a red heli-
+text: copter. Henry slams the trunk closed. We hear the
+speaker_heading: HELICOPTER.
+speaker_heading: HENRY (V.0.)
+dialog: I was going to be busy all day.
+dialog: I had to drop off some thirty-
+dialog: eights at James's to match some
+dialog: silencers he had gotten. I had
+dialog: to pick up my brother at the
+dialog: hospital and drive him back to the
+dialog: house for dinner and then I had to
+dialog: pick up some new Pittsburgh stuff
+dialog: for Lois to fly down to some
+dialog: customers I had near Atlanta.
+dialog: 120
+dialog: 121
+dialog: 122
+dialog: 123
+dialog: 99.
+scene_heading: INT. HENRY'S CAR - CLOSEUP - HENRY'S FACE 120
+text: As he drives he sees the helicopter.
+scene_heading: EXT. JAMES'S DOORWAY 121
+text: Henry full face, car in b.g. We see James grab one of
+text: the guns in his doorway and try to screw on a silencer
+text: he had in his pocket. He can't.
+speaker_heading: JAMES
+dialog: What fucking good are these things?
+dialog: They don't fit. What do I need
+dialog: this for? I'm not paying for this
+dialog: shit.
+speaker_heading: HENRY (V.0.)
+dialog: Right ‘away I knew he didn't want
+dialog: them. I knew I was going to get
+dialog: stuck for the money. I only bought
+dialog: the damn guns because he wanted
+dialog: them. And now, he didn't want
+dialog: them. I didn't say a thing. James
+dialog: was so pissed he didn't even say
+dialog: goodbye.
+speaker_heading: CUT TO:
+speaker_heading: HENRY
+text: putting torn bag with guns back into car trunk.
+text: TITLE UP - 8:05 AM.
+scene_heading: EXT. HENRY'S CAR ~ DAY 122
+text: We see Henry speeding toward top of a rise in highway
+text: approaching Queens Midtown Tunnel.
+scene_heading: INT. HENRY'S CAR - DAY 123
+speaker_heading: HENRY (V.0.)
+dialog: I knew my Pittsburgh guys always
+dialog: wanted guns, and since I was going
+dialog: to see them later in the afternoon
+dialog: to pick up a delivery, I was pretty
+dialog: sure I'd get my money back.
+text: Henry looks up and sees the red helicopter. When he
+text: looks back at the road he is suddenly confronted with
+text: a huge traffic jam spread out before him.
+text: We see him jam his foot.on the brakes.
+text: TITLE UP - 8:45 AM.
+dialog: 124
+dialog: 125
+dialog: 126
+dialog: 100.
+scene_heading: INT. HOSPITAL ROOM - DAY 124
+text: A bedraggled Henry arrives in his brother Michael's room.
+text: Michael is all dressed and sitting in his wheelchair,
+dialog: waiting to go.
+speaker_heading: HENRY (V.0.)
+dialog: When I finally got there to pick up
+dialog: Michael, his doctor wanted-to -put
+dialog: me in bed. I told him about the
+dialog: accident. I said I was partying
+dialog: all night.
+scene_heading: CLOSEUP - PILLS IN HENRY'S PALM
+speaker_heading: HENRY (V.0. )
+dialog: He took mercy on me. He gave me ten
+dialog: milligrams of Valium and sent me
+dialog: home. My plan was to drop off my
+text: brother at the house and pick up
+dialog: Karen.
+scene_heading: INT. HENRY'S CAR - DAY | 125
+text: We see Henry driving Michael. Henry looks up and sees
+text: the red helicopter.
+speaker_heading: HENRY
+dialog: (to Michael)
+dialog: I think that helicopter's following me.
+speaker_heading: MICHAEL
+dialog: Are you nuts?
+scene_heading: INT. HENRY'S KITCHEN ~ DAY 126
+text: We see Michael, in his wheelchair, chopping celery. We
+text: see Henry making meatballs. Lois Byrd is also there,
+text: helping Karen shell peas. Lois's overnight bag is on the
+text: kitchen table, surrounded by food. The children are play-
+text: ing on the kitchen floor.
+speaker_heading: HENRY (V.0.)
+dialog: I was cooking dinner that night.
+dialog: I had to start braising the beef,
+dialog: pork butt and veal shanks for the
+dialog: tomato sauce. It's Michael's
+dialog: favorite. I was making ziti and the
+dialog: meat gravy, and I'm planning to roast
+dialog: some peppers over the flames, and I
+dialog: was putting on some string beans with
+dialog: the olive oil and garlic, and I had
+dialog: some beautiful cutlets, cut just
+dialog: right, that I was going to fry up
+text: before dinner just as an appetizer.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED )
+dialog: 126
+dialog: ~~
+dialog: 127
+dialog: io
+dialog: 128
+dialog: no
+dialog: 101.
+speaker_heading: CONTINUED: 126
+speaker_heading: HENRY (V.0.) (CONT'D)
+dialog: I was home for about an hour. My
+dialog: plan was to start the dinner early,
+dialog: so Karen and I could go unload the
+dialog: guns that James didn’t want, and
+dialog: get the package for Lois to take
+dialog: to Atlanta later that night. I
+text: kept looking out the window and
+dialog: the helicopter was gone. I asked
+dialog: Michael to watch the sauce, and
+dialog: Karen and I started out.
+text: TITLE UP - 11:30 AM.
+scene_heading: INT. HENRY'S CAR - DAY 127
+text: We see.Karen and Henry in car when Karen points
+text: out the window.
+speaker_heading: CUT TO:
+speaker_heading: HELICOPTER
+speaker_heading: HENRY
+dialog: We're going to your mother's.
+speaker_heading: CUT TO:
+scene_heading: KAREN'S MOTHER'S COVERED GARAGE AREA - DAY 128
+speaker_heading: HENRY (V.0.)
+dialog: Now I'm sure we're being tailed.
+dialog: My plan was to go to her mother's
+dialog: and unload the guns. Who needed
+dialog: them in the trunk with all this
+dialog: heat?
+speaker_heading: CUT TO:
+speaker_heading: HENRY
+text: putting the guns into garbage cans.
+speaker_heading: HENRY
+dialog: (to Karen)
+dialog: Go inside. Tell her not to
+dialog: touch anything outside the house.
+dialog: Nothing.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+dialog: 128
+dialog: 129
+dialog: 130
+dialog: 102.
+speaker_heading: CONTINUED: 128
+speaker_heading: KAREN AND HENRY
+text: Looking up at helicopter.
+speaker_heading: HENRY
+dialog: Let's go shopping.
+scene_heading: EXT. LONG ISLAND SHOPPING MALL - CLOSEUP - HENRY ON 129
+speaker_heading: PHONE - DAY
+text: Nearby we see Karen standing outside of their parked car.
+text: In b.g., we see a large, busy shopping mall with cars and
+dialog: shoppers.
+text: TITLE UP - 12:30 PM.
+speaker_heading: CUT TO:
+speaker_heading: MALL PHONE BOOTH
+speaker_heading: HENRY
+dialog: I'm not nuts. It's been following
+dialog: me all fucking morning. I mean it.
+text: We see Henry slam down the phone.
+text: DOLLY INTO face.
+speaker_heading: HENRY
+dialog: (to Karen)
+dialog: They think I'm paranoid. The
+dialog: dumb fucks. I should bring
+dialog: them the helicopter, then we'll
+dialog: see how paranoid I am.
+text: TITLE UP - 1:30 PM.
+speaker_heading: CUT TO:
+speaker_heading: MALL ENTRY
+text: Henry and Karen peek out the mall deor surrounded by
+text: people with shopping carts and look into the sky for
+text: the helicopter. It is gone. He listens. No noise.
+speaker_heading: HENRY .
+dialog: Okay! Quick! Let’s get back to
+dialog: your mother's.
+scene_heading: EXT. KAREN'S MOTHER'S GARAGE AREA - ANGLE ON HENRY - 130
+speaker_heading: DAY
+text: getting guns out of garbage.
+text: TITLE UP - 3:30 PM.
+dialog: 103.
+scene_heading: 131 INT. MOTEL APARTMENT - DAY 131
+text: We see Pittsburgh DEALER laughing as Henry gives him
+text: the package of guns. A young man is also standing
+text: in the room.
+speaker_heading: DEALER
+dialog: Didn't I tell you you were
+dialog: paranoid? See, Karen, didn't
+dialog: I-tell him he was paranoid?
+speaker_heading: KAREN
+dialog: {barely looking up
+dialog: and wandering
+dialog: toward kitchen)
+dialog: I need some coffee.
+text: Dealer puts his arm around Henry and motions him toward
+text: the bedroom where they snort some coke and laugh. After
+text: snorting the coke, we see the Dealer give Henry a plastic
+text: package of heroin he has taken out of a paper bag on the
+text: dresser. Henry casually puts it in his jacket pocket.
+speaker_heading: HENRY (V.0.)
+dialog: My plan was I had to get home
+dialog: and get the package ready for
+dialog: Leis to take on her trip. Also,
+dialog: (o~ I had to get to Sandy's house to
+dialog: . give the package a whack with
+dialog: some quinine. Plus, I knew Sandy
+dialog: was gonna get on my ass. Then I
+dialog: had the cooking to finish at home,
+dialog: and I had to get Lois ready for
+dialog: the trip.
+text: PHONE RINGS in bedroom.
+text: Dealer picks it up, listens a moment and offers it to
+dialog: Henry.
+speaker_heading: DEALER
+dialog: (whispering so Karen
+dialog: cannot hear in next
+dialog: room)
+dialog: It's Sandy
+speaker_heading: HENRY
+dialog: (annoyed)
+dialog: Yeah.
+text: Henry covers the mouthpiece.
+speaker_heading: ~~ HENRY
+dialog: (to Dealer)
+dialog: A pain in the ass.
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+dialog: 131
+dialog: . 132
+dialog: ~
+dialog: ~~
+dialog: 104.
+speaker_heading: CONTINUED: 131
+speaker_heading: HENRY (CONT'D)
+dialog: (into phone)
+dialog: I'll see you in about an hour.
+dialog: (pause)
+dialog: I can't. I got my brother home
+dialog: tonight.
+dialog: (pause)
+dialog: We'll talk about it later. Okay?
+text: Henry hangs up the phone, pauses and dials again.
+scene_heading: INT. HENRY'S KITCHEN - DAY 132
+text: PHONE RINGS. We see Lois Byrd answer the phone. We see
+text: Michael is stirring the tomato sauce.
+speaker_heading: DEALER'S BEDROOM
+text: Henry is on the phone.
+scene_heading: HENRY'S KITCHEN
+speaker_heading: DEALER'S BEDROOM
+scene_heading: HENRY'S KITCHEN
+speaker_heading: CUT TO:
+speaker_heading: HENRY
+dialog: You ready?
+speaker_heading: CuT TO:
+speaker_heading: LOIS
+dialog: Yeah.
+speaker_heading: cuT TO:
+speaker_heading: HENRY
+dialog: Tell Michael not to let the sauce
+dialog: stick.
+speaker_heading: cUuT TO:
+speaker_heading: LOIS
+dialog: (to Michael, who is
+dialog: still stirring)
+dialog: Henry says don't let the sauce
+dialog: Stick.
+speaker_heading: MICHAEL
+dialog: I'm stirring.
+speaker_heading: (CONTINUED )
+dialog: 105.
+speaker_heading: 132 CONTINUED: 132
+speaker_heading: \ HENRY (V.0.)
+dialog: (on phone)
+dialog: You know what to do?
+speaker_heading: LOIS
+dialog: (bored)
+dialog: Yeah, yeah.
+speaker_heading: cuT TO:
+speaker_heading: DEALER'S BEDROOM
+speaker_heading: HENRY
+dialog: Now this is important. Make sure
+dialog: you leave the house when you make
+dialog: the call. You understand? Do you
+dialog: hear me? It's important. Call
+dialog: from an outside phone. I mean it.
+speaker_heading: CUT TO:
+scene_heading: HENRY'S KITCHEN
+speaker_heading: LOIS
+dialog: Jesus! You must think I'm dumb.
+dialog: (o What are you bugging me for?
+dialog: : I know what to do!
+speaker_heading: HENRY (V.0)
+dialog: Just make sure you do it. You
+dialog: know what I mean?
+speaker_heading: LOIS
+dialog: Jesus Christ! You can be such
+dialog: @ pain.
+speaker_heading: HENRY (V.0.)
+dialog: Just do what I say!
+speaker_heading: LOIS
+dialog: Okay.
+text: We see Lois hang up the kitchen wall phone.
+speaker_heading: MICHAEL
+dialog: (still stirring)
+dialog: What'd he say?
+speaker_heading: LOIS
+dialog: Nothing.
+speaker_heading: (CONTINUED)
+dialog: 132
+dialog: 133
+dialog: 134
+dialog: 106.
+speaker_heading: CONTINUED: 132
+text: Lois Byrd takes a puff on her cigarette and starts to
+text: fish around in the bottom of her pocketbook which is on
+text: the kitchen counter near the wall phone.
+text: We see Lois Byrd take out the airline ticket.
+speaker_heading: HENRY (V.0.)
+dialog: So, what does she do after she
+dialog: hangs up with me? After
+dialog: everything I had told her? After
+dialog: all her yeah, yeah, yeah,
+dialog: bullshit? She picks up the phone
+dialog: and calls from the house. Now,
+dialog: if anybody was listening, they'd
+dialog: know everything. They'd know that
+dialog: a package was leaving from my
+dialog: house and they'd even have the
+dialog: time and the flight number.
+dialog: Thanks to her.
+text: Lois Byrd reaches for the kitchen phone and calls.
+text: TITLE UP - 6:30 PM.
+scene_heading: INT. HENRY'S HOUSE - EVENING 133
+text: Henry is working in the kitchen.
+speaker_heading: HENRY (V.0.)
+dialog: As soon as I got home, I started
+dialog: cooking. I had a few hours until
+dialog: Lois's flight. I told my brother
+dialog: to keep an eye on the stove. All
+dialog: day long, the poor guy's been
+dialog: watching helicopters and tomato
+dialog: sauce. I had to drive over to
+dialog: Sandy's place, mix it once and
+dialog: get back to the gravy.
+scene_heading: INT. SANDY'S HOUSE - EVENING 134
+text: We see Henry watching Sandy mix the half-kilo of heroin
+text: with milk sugar, doubling the amount. There is silence
+text: between them. Henry looks at his watch. Sandy pauses
+text: for a moment and sniffs a line of coke she has cut on a
+text: mirror near the table.
+text: Henry snorts some coke, too.
+text: The table and room is a mess. Mixing bowls, scales, and
+text: sieves are strewn around the room.
+speaker_heading: (CONTINUED)
+dialog: 134
+dialog: 135
+dialog: 107.
+speaker_heading: CONTINUED: 134
+speaker_heading: SANDY
+dialog: (getting angrier
+dialog: while mixing)
+dialog: I don't need this... You said
+dialog: tonight and now it's not
+dialog: tonight...
+speaker_heading: ‘HENRY
+dialog: (watching the dope
+dialog: being mixed while
+dialog: stroking Sandy's
+dialog: neck and shoulders)
+dialog: It's okay. I'll make it up. I
+dialog: promise. Just hurry it up a
+dialog: little. Okay?
+speaker_heading: SANDY
+dialog: (finishing the
+dialog: package with tape,
+dialog: and almost purring)
+dialog: Okay?
+text: We see Henry grab the two half-kilo packages off the
+text: table and start for the door. Sandy is startled.
+speaker_heading: SANDY
+dialog: (shrieking)
+dialog: You bastard! Where are you going?
+text: We see Henry get out the door just before Sandy throws
+text: the scale at it.
+text: TITLE UP - 8:30 PM.
+scene_heading: INT. HENRY'S DINING ROOM - NIGHT 135
+text: After dinner. Everyone is feeling very expansive. Lois
+text: and Henry have left the table and are standing in the
+dialog: kitchen.
+speaker_heading: LOIS
+dialog: (to Henry)
+dialog: I gotta go home.
+speaker_heading: HENRY
+dialog: What for? I got a pound of stuff
+dialog: in my jacket I've been carrying
+dialog: around all day. We gotta start
+dialog: start taping it to your leg.
+speaker_heading: LOIS
+dialog: I gotta go home and get my hat.
+speaker_heading: (CONTINUED)
+dialog: 135
+dialog: 136
+dialog: 108.
+speaker_heading: CONTINUED: 135
+speaker_heading: HENRY
+dialog: Forget your fucking hat. What
+dialog: are you, kidding me? Just what
+dialog: I need now is a trip to Rockaway.
+dialog: Just because you want your hat.
+speaker_heading: LOIS
+dialog: Ioneed it. .I- gotta have it.
+dialog: It's my lucky hat. I never fly
+dialog: without it.
+speaker_heading: HENRY
+dialog: Do you realize what we're involved
+dialog: in here now?
+speaker_heading: LOIS
+dialog: I don't care. I need my hat. I
+dialog: won't go without. it.
+speaker_heading: HENRY (V:0.)
+dialog: What could I do? If she insisted,
+dialog: I had to drive her home for her
+dialog: goddamn hat. I threw the package
+dialog: in the kitchen and went to take
+dialog: her home.
+speaker_heading: CUT TO:
+speaker_heading: HENRY
+text: nodding to Karen that the heroin is in the kitchen.
+text: TITLE UP - 10:45 PM.
+scene_heading: EXT. HENRY'S DRIVEWAY - NIGHT 136
+text: We see Henry and Lois get into his car. As they start to
+text: move out of the driveway, Henry notices that there is a
+text: traffic jam in front of his property. People are walking
+text: around with flashlights. It looks like ‘an accident.
+text: Suddenly, a MAN in Windbreaker appears at Henry's window
+text: and jams a gun against Henry's head.
+speaker_heading: MAN
+dialog: One move, motherfucker, and I'll
+dialog: blow you away.
+speaker_heading: HENRY (V.0.)
+dialog: For a second 1 thought I was dead,
+dialog: but when I heard all the noise, I
+dialog: knew they were cops. Only cops
+dialog: talk that way. If they had been
+dialog: wiseguys, I wouldn't have heard
+dialog: a thing. I would have been dead.
+dialog: 137
+dialog: 138
+dialog: 139
+dialog: 109.
+scene_heading: INT. HENRY'S BEDROOM TOILET - NIGHT 137
+text: We see Karen hurriedly flushing heroin down the toilet
+text: upstairs while we hear FBI MEN at the door downstairs.
+text: We hear Michael and children's voices downstairs.
+text: We see Karen go to the bureau drawer and grab a small
+text: caliber gun, lift her dress and, grimacing, shove the
+text: cold metal into her underpants.
+speaker_heading: CUT TO:
+scene_heading: INT. FBI OFFICE 138
+text: Henry is seated and surrounded by FBI Men and PROSECUTOR
+text: EDWARD MCDONALD. We see Lois Byrd brought in past Henry
+text: and ushered into another room. We see the Dealer ushered
+text: past Henry and placed into yet another room.
+speaker_heading: HENRY (V.0.)
+dialog: All day I thought the guys in the
+dialog: helicopter were just local cops
+dialog: busting my balls over Lufthansa,
+dialog: but they turned out to be Narks.
+dialog: They had been on me a month.
+text: Phone taps. Surveillance.
+text: We see Sandy brought in, followed by two cops carrying
+text: cardboard boxes filled with pots, sieves and scales from
+text: Sandy's table. The cops put the boxes on a table where
+text: Henry can see them. We see one of the Narks lick his
+text: finger after wiping it across one of the bowls. He smiles
+text: at Henry and rolls his eyes.
+text: We see Henry slouch further in his seat while questioning
+dialog: continues.
+scene_heading: INT. PRISON VISITING AREA 139
+text: We see Karen and Henry seated at a table in a visiting
+text: area. Henry is nervously looking around at the guards
+text: and whispering to Karen.
+speaker_heading: CUT TO:
+speaker_heading: IN SYNCH
+speaker_heading: KAREN
+dialog: (anxious )
+dialog: James's calling every day. It's
+dialog: urgent.
+speaker_heading: HENRY
+dialog: {a little annoyed
+dialog: at Karen)
+dialog: What did he say, exactly?
+dialog: 110.
+scene_heading: 140 INT. HENRY'S HOUSE - DAY 140
+speaker_heading: KAREN (V.0.)
+dialog: (her turn to be
+dialog: annoyed)
+dialog: At least James and Mickey want to
+dialog: help. I talk to Mickey every
+dialog: day. That's more than I can say
+dialog: for the rest. :
+speaker_heading: HENRY (V..0.)
+dialog: (placating)
+dialog: Paul will calm down. You'll see.
+scene_heading: 141 INT. JAMES'S HOUSE - DAY 141
+text: We see Mickey on the phone.
+speaker_heading: KAREN (V.0.)
+dialog: I told James the cops took our
+dialog: cars and froze our bank accounts
+dialog: and he offered to get me some
+dialog: money. He wants to know what's
+dialog: happening. You gotta meet him:
+speaker_heading: HENRY (V.0.)
+dialog: Fuck James and the money. Didn't
+dialog: I tell you I gotta get out of here
+dialog: first. I gotta straighten
+dialog: everything out with Paulie or I'm
+dialog: dead.
+text: CAMERA PANS to sinister James Conway in b.g.
+scene_heading: 142 INT. PRISON VISITING AREA - DAY (CONTINUOUS) 142
+speaker_heading: KAREN
+dialog: (annoyed and
+dialog: indicating the
+dialog: jail)
+dialog: Then you're safer in here.
+speaker_heading: HENRY
+dialog: (exasperated)
+dialog: Safe? Here? They'll kill me
+dialog: here. They're all afraid I'm
+dialog: gonna rat them out. People are
+text: already looking to walk away from
+dialog: me. I'm dead in here. You gotta
+dialog: get me out.
+speaker_heading: KAREN
+dialog: (worried)
+dialog: Who's gonna do that?
+speaker_heading: (CONTINUED)
+dialog: 142
+dialog: 143
+dialog: 144
+dialog: “Ul.
+speaker_heading: CONTINUED: 142
+speaker_heading: HENRY
+dialog: (pleading)
+dialog: Just get me out.
+speaker_heading: CuT TO:
+speaker_heading: KAREN
+text: Her face drops, but she's not sure.
+scene_heading: EXT. PRISON BAIL RELEASE GATE - MIDNIGHT 143
+text: We see Henry hurry out of the prison. He looks nervous
+text: over his shoulder.
+speaker_heading: HENRY (V.0.)
+dialog: Karen finally got her mother to
+dialog: put her house up for my bail. I
+dialog: was out.
+text: We see Karen and her mother are waiting in the car.
+speaker_heading: HENRY (V.0.)
+dialog: I remember I had this feeling I
+dialog: was going to get killed right
+dialog: outside the jail. I knew Paulie
+dialog: was still pissed at me and he's
+dialog: such a hothead I was afraid he
+dialog: might have me whacked before he
+dialog: calmed down. And I was also
+dialog: worried about James. James knew
+dialog: if Paulie found out he was in the
+dialog: drug deals with me, Paulie would
+dialog: have James killed even before me.
+dialog: This is the bad time. I didn't
+dialog: feel safe until I got. home.
+speaker_heading: CUT TO:
+scene_heading: INT. HENRY AND KAREN'S HOUSE - BEDROOM - ANGLE ON 144
+speaker_heading: HENRY - NIGHT
+text: frantically looking around the bedroom.
+speaker_heading: HENRY (V.0.)
+dialog: So now my plan was to stay alive
+dialog: long enough to sell off the dope
+dialog: that the cops never found and
+dialog: disappear for a while until I got
+dialog: things straightened cut.
+speaker_heading: HENRY
+dialog: (to Karen)
+dialog: Where's the stuff?
+speaker_heading: (CONTINUED)
+dialog: 144
+dialog: 112.
+speaker_heading: CONTINUED: 144
+speaker_heading: KAREN
+dialog: What are you talking about?
+speaker_heading: HENRY
+dialog: You know. The stuff I left.
+speaker_heading: KAREN
+dialog: (beginning to cry)
+dialog: I flushed it down the toilet.
+speaker_heading: HENRY
+dialog: (anguish and anger
+dialog: mixed)
+dialog: You what?
+speaker_heading: KAREN
+dialog: (erying anguish)
+dialog: What did you want me to do with
+dialog: it? They were all over the house.
+speaker_heading: HENRY
+dialog: Are you fucking nuts? That was
+dialog: forty, fifty thousand. I need it.
+dialog: I was depending on that money.
+speaker_heading: KAREN
+dialog: (crying)
+dialog: They had a warrant. They went
+dialog: through everything. They would
+dialog: have found it. I swear.
+speaker_heading: HENRY
+dialog: Shit! You know they would have
+dialog: never found it. Why did you do
+dialog: it? Why did you do it? My God,
+dialog: why did you have to do it?
+speaker_heading: KAREN
+dialog: (a primal screen)
+dialog: Oh no! No! WNoooo!
+speaker_heading: HENRY
+dialog: (screaming)
+dialog: Why? Why?
+text: We see Henry and Karen holding onto each other as they
+text: ery and scream, with the SCREAMS ECHOING out on the
+scene_heading: SOUNDTRACK.
+speaker_heading: DISSOLVE TO:
+speaker_heading: THEIR FACES
+text: asleep, and CAMERA DOLLIES OUT to reveal a gun in Henry's
+text: hand as they sleep.
+dialog: 145
+dialog: 113.
+scene_heading: INT. GEFFKEN'S BAR 145
+text: The place is closed, but inside we see Paul Cicero in the
+text: kitchen cooking peppers and eggs in a frying pan with
+text: olive oil. We see several hoods surrounding him at a
+text: distance. Various supplicants, a local butcher, an old
+dialog: lady, etc., wait for a papal audience.
+speaker_heading: CICERO
+dialog: (looking down)
+dialog: I warned you a million times.
+speaker_heading: HENRY
+dialog: I've been all fucked up since I
+dialog: got out.
+speaker_heading: CICERO
+dialog: You think I didn't know what you
+dialog: were doing?
+speaker_heading: ‘ HENRY
+dialog: It was easy money. I did it in
+dialog: the can. Shit! I learned the
+text: junk business in the can, Paulie.
+speaker_heading: CICERO
+dialog: Right in my face. You looked in
+dialog: my face and you lied.
+speaker_heading: HENRY
+dialog: But, Paulie, I'm sorry. Believe
+dialog: me. I was fucking crazy. But I'm
+dialog: okay now. I can be trusted. I'm
+dialog: clean now. On my children.
+dialog: Believe me! Two weeks cold turkey
+dialog: waiting for bail got my head
+dialog: together.
+speaker_heading: CICERO
+dialog: You thought I was some fucking
+dialog: jerk?
+speaker_heading: HENRY
+dialog: Paulie, I couldn't come to you.
+dialog: I didn't want to put you in this
+dialog: shit.
+dialog: (pause)
+dialog: I was ashamed to come to you. I
+dialog: knew I was wrong.
+text: We see Cicero stand, mute.
+speaker_heading: HENRY
+dialog: Paulie. You're all I got. I need
+dialog: help.
+speaker_heading: (CONTINUED )
+dialog: 145
+dialog: 146
+dialog: 147
+dialog: 114.
+speaker_heading: CONTINUED: 145
+speaker_heading: CICERO
+dialog: You treated me like shit.
+text: We see Cicero reach into his pocket and take out a thick
+text: wad of bills. Without counting the money he puts the
+text: cash in Henry's hands. Cicero clasps Henry's hands in his
+dialog: own.
+speaker_heading: CICERO
+dialog: (looking down while
+dialog: handing Henry the
+dialog: cash)
+dialog: Here. Take it.
+dialog: (looking up with
+dialog: tears in his eyes)
+dialog: Now I gotta turn my back on you.
+speaker_heading: CLOSEUP - HENRY
+speaker_heading: HENRY (V.0.)
+dialog: Thirty-two hundred bucks. That's
+dialog: what he gave me. Thirty-two
+dialog: hundred bucks for a lifetime. It
+dialog: wouldn't have paid for the coffin.
+speaker_heading: cuUT TO:
+scene_heading: INT. HENRY AND KAREN'S BEDROOM: - NIGHT / 146
+speaker_heading: KAREN
+dialog: I'm not going to run. Live the
+dialog: rest of our lives like rats. Is
+dialog: that what you want? Leave my
+dialog: mother. Leave my family. Never
+dialog: see anybody again.
+speaker_heading: HENRY
+dialog: (pleading)
+dialog: We're gonna leave then anyway,
+dialog: because if we stay around here
+dialog: we're gonna be dead.
+speaker_heading: KAREN
+dialog: (angrily pulling
+dialog: away
+dialog: They're right. You are paranoid.
+scene_heading: EXT. JUKEBOX STOREFRONT - ANGLE ON JAMES - DAY 147
+text: nervously pacing near the doorway. There are jukeboxes
+text: and pinball machines of various sizes and hues on the
+text: sidewalk. Some are being loaded onto panel trucks and
+text: carted off.
+speaker_heading: (CONTINUED)
+dialog: 147
+speaker_heading: CONTINUED:
+dialog: 115.
+dialog: 147
+speaker_heading: JAMES
+dialog: (concerned)
+dialog: How is he? Okay? Are they
+dialog: busting his chops?
+speaker_heading: KAREN
+dialog: He's okay. They sobered him up.
+speaker_heading: JAMES
+dialog: Did he say what they're asking
+dialog: him about?
+speaker_heading: KAREN
+dialog: James. I don't know. I got so
+dialog: much else on my mind. I got the
+dialog: kids. We got no money.
+speaker_heading: JAMES
+dialog: I gotta talk to him as soon as
+dialog: I can.
+speaker_heading: KAREN
+dialog: He says he's too hot. He doesn't
+dialog: even know I came here today.
+dialog: It's like he's crazy, James.
+speaker_heading: JAMES
+dialog: I know. I know. But it'll be
+dialog: okay. Don't worry. I got some
+dialog: money for you. It's down the
+dialog: block.
+text: We see James lead Karen to the edge of the sidewalk and
+text: point down the block toward a row of stores.
+speaker_heading: JAMES
+dialog: (pointing)
+text: The third store down.
+speaker_heading: KAREN (V.0.)
+dialog: James just stood there on the
+dialog: Sidewalk. It felt funny. I
+text: Started walking down the block,
+dialog: but I noticed the stores were
+dialog: empty.
+speaker_heading: CUT TO:
+speaker_heading: EMPTY STOREFRONTS
+text: with chalked windows.
+speaker_heading: (CONTINUED)
+dialog: 147
+dialog: 148
+dialog: 116.
+speaker_heading: CONTINUED: (2) 147
+speaker_heading: KAREN (V.0.)
+dialog: I got a bad feeling. I just kept
+dialog: walking.
+dialog: cur TO:
+speaker_heading: JAMES
+text: standing on sidewalk.
+speaker_heading: JAMES
+dialog: (shouting)
+dialog: Inside! Go in there!
+speaker_heading: cUT TO:
+speaker_heading: EMPTY STOREFRONT
+text: with open door and dark figures waiting inside.
+speaker_heading: KAREN
+dialog: (very rattled)
+dialog: James, I'm in a hurry. I've
+dialog: got to pick up the kids at my
+dialog: mother's. I'll come back later.
+text: We see Karen hurry down the block past the stores.
+scene_heading: EXT. HENRY'S HOUSE - DRIVEWAY - DAY 148
+text: We see Karen's CAR SCREECH to a halt near the garage as
+text: Henry comes racing out of the house toward her. He has
+text: a gun pressed close to his side.
+text: We see Karen is frozen to the wheel in fear. She is
+text: visibly shaking, crying.
+text: We see Henry very gently pull her from behind the wheel.
+text: He has cradled her in his arms as, after a wary look
+text: around the street, Henry walks her toward the house.
+speaker_heading: HENRY
+dialog: What happened? You okay?
+speaker_heading: KAREN
+dialog: I got scared.
+speaker_heading: HENRY
+dialog: (soothing)
+dialog: Okay. Don't worry about it.
+dialog: It's okay.
+speaker_heading: KAREN
+dialog: (still in shock)
+dialog: I got scared.
+dialog: 149
+dialog: 117.
+scene_heading: INT. SHERWOOD DINER - LATE MORNING 149
+text: CAMERA MOVES IN ON table.
+scene_heading: HENRY'S POV - LONG TRACKING SHOT THROUGH RESTAURANT
+dialog: You don't know what you're tracking until you see all the
+text: food on the table and James looks up.
+speaker_heading: HENRY (V.0.)
+dialog: If you're part of a crew, nobody
+dialog: ever tells you that they're going
+dialog: to kill you. It doesn't happen
+dialog: that way. There aren't any
+dialog: arguments or curses like in the
+dialog: movies. Your murderers come with
+dialog: smiles. They come as your friends,
+dialog: the people who have cared for you
+dialog: all your life, and they always
+dialog: come at a time when you are at
+dialog: your. weakest and most in need of
+dialog: their help. So I met James in a
+dialog: crowded place we both knew. I got
+dialog: there fifteen minutes early and I
+dialog: saw that James was already there.
+text: He took the booth near the window
+dialog: so he could see everyone who
+text: drove up to the restaurant. He
+dialog: wanted to see if I had been
+dialog: tailed.
+text: James stands to embrace Henry. We see a table with
+text: melon, eggs, sausage, toasted English muffins, etc.
+text: Henry notices that James has not touched any of the
+text: food. Next to James, we see a large legal folder.
+speaker_heading: JAMES
+dialog: (smiling, friendly
+dialog: greeting)
+dialog: You look good.
+speaker_heading: HENRY
+dialog: (shaking his head)
+dialog: I didn't need the headache.
+speaker_heading: JAMES
+dialog: Come on, eat something.
+speaker_heading: HENRY
+dialog: I can't eat, just get me some
+dialog: coffee.
+speaker_heading: HENRY (V.0.)
+text: He was jumpy. He hadn't touched
+dialog: a thing.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 149
+speaker_heading: CONTINUED:
+speaker_heading: CLOSEUP -
+dialog: 118.
+dialog: 149
+speaker_heading: HENRY (V.0.) (CONT'D)
+dialog: In the old days, James would have
+dialog: ordered doubles and eaten it all.
+dialog: On the surface, of course, everything
+dialog: was supposed to be fine. We were
+dialog: supposed to be discussing my case,
+dialog: just like we always would, but I had
+dialog: a feeling James was trying to sense
+dialog: whether I was going to rat him out
+dialog: to save my neck.
+speaker_heading: JAMES .
+dialog: (patting the legal
+dialog: folder)
+dialog: I think you got a good shot at
+dialog: beating the case.
+speaker_heading: HENRY
+dialog: How?
+speaker_heading: JAMES
+dialog: It's that rat bastard from Pittsburgh.
+dialog: He rated you all out. He's been a
+dialog: rat since he got busted in Pittsburgh.
+speaker_heading: HENRY
+dialog: Yeah.
+speaker_heading: JAMES
+dialog: He's hiding, the son of a bitch,
+dialog: in Florida.
+speaker_heading: HENRY
+dialog: Yeah.
+speaker_heading: ’ JAMES
+dialog: I want you and Anthony to go down
+dialog: there and take care of that bastard.
+dialog: Without him, they've got no case.
+speaker_heading: JAMES'S HAND
+text: giving a piece of paper to Henry.
+text: TILT UP ON James and FREEZE.
+speaker_heading: HENRY (V.0.)
+dialog: James had never asked me to whack
+dialog: somebody before, but now he's
+dialog: asking me to go down to Florida
+dialog: and do a hit with Anthony.
+speaker_heading: CUT TO:
+speaker_heading: (CONTINUED)
+dialog: 149
+dialog: 150
+dialog: 151
+dialog: 152
+dialog: 119.
+speaker_heading: CONTINUED: (2) 149
+scene_heading: FREEZE OF HENRY, HEAD-ON
+text: looking at James.
+speaker_heading: HENRY (¥.0.)
+dialog: That's when I knew I would never
+dialog: have come back from Florida alive.
+text: UNFREEZE on Henry and BACK TO ACTION like nothing is
+dialog: wrong.
+text: CAMERA DOLLIES OUT and we see James and Henry sipping
+text: their coffee. We see James reach for some food. Henry
+text: passes James the salt. They are two guys finishing
+text: breakfast -in a diner.
+scene_heading: INT. FBI OFFICE - ANGLE ON HENRY AND McDONALD - DAY 150
+text: arguing. Karen and some FBI agents are standing nearby.
+speaker_heading: McDONALD
+dialog: We'll pack up everything and send
+dialog: it to you.
+speaker_heading: KAREN
+dialog: I got dry cleaning.
+speaker_heading: McDONALD
+dialog: We'll pick it up.
+scene_heading: EXT. JUKEBOX STOREFRONT - DAY 151
+text: We see a grim James getting into the rear seat of an
+text: unmarked FBI car while hoods watch silently.
+speaker_heading: CUT TO:
+scene_heading: INT. FBI OFFICE - DAY 152
+text: Karen is now seated next to Henry on sofa. McDonald is
+text: leaning against the desk. In b.g., we see FBI men
+text: playing with the children. We see Henry and Karen's
+text: suitcases stacked near the sofa.
+speaker_heading: McDONALD
+dialog: We'll sell your house here and
+dialog: apply the money to your new name.
+speaker_heading: HENRY
+dialog: I don't want to go anywhere it's
+dialog: cold.
+speaker_heading: McDONALD
+dialog: I can't control that.
+speaker_heading: (CONTINUED)
+dialog: 152
+dialog: 153
+dialog: 154
+dialog: 155
+dialog: 120.
+speaker_heading: CONTINUED: > 152
+speaker_heading: HENRY
+dialog: I don't care who controls it.
+dialog: Nowhere cold.
+speaker_heading: KAREN
+dialog: He's very bronchial.
+scene_heading: INT. GEFFKEN'S BAR 153
+text: We see FBI men filling the barroom and Cicero, surrounded
+text: by agents, being handcuffed and shoved toward the door.
+speaker_heading: CUT TO:
+scene_heading: INT. FBI OFFICE - ANGLE ON HENRY AND MCDONALD . 154
+dialog: arguing.
+speaker_heading: KAREN.
+dialog: (whispering to
+dialog: Henry)
+dialog: What about the schools?
+speaker_heading: : __ HENRY
+dialog: Yeah. What about the kids'
+dialog: school?
+speaker_heading: McDONALD
+dialog: Don't worry about the schools.
+dialog: We'll take care of the schools.
+speaker_heading: KAREN
+dialog: I don't want them left back.
+speaker_heading: McDONALD
+dialog: They won't be left back.
+dialog: They'll stay in their grade.
+speaker_heading: KAREN
+dialog: That's important.
+speaker_heading: CUT TO:
+scene_heading: INT. COURTROOM - ANGLE ON BACK OF HENRY'S HEAD 155
+text: and TRACK AROUND.
+speaker_heading: HENRY (V.0.)
+dialog: It was easy for all of us to
+dialog: disappear. My house was in my
+dialog: mother-in-law's name. My cars
+dialog: were registered to my wife.
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+dialog: 155
+dialog: 121.
+speaker_heading: CONTINUED: 155
+speaker_heading: HENRY (V.0.) (CONT'D)
+dialog: My social security cards and
+dialog: driver's licenses were phonies.
+dialog: I've never voted. I never paid
+dialog: taxes. My birth certificate and
+dialog: my arrest sheet, that's all you'd
+dialog: ever have to know I was alive.
+text: SLOW DOLLY IN TO Henry's face.
+speaker_heading: HENRY (V.0.)
+dialog: The hardest thing for me was
+dialog: leaving the life. I stili love
+dialog: the life. We were treated like
+dialog: movie stars with muscle. We had
+dialog: it all just for the asking.
+scene_heading: CLOSEUP - JAMES CONWAY
+text: seated at defense table in grey suit and rimless glasses.
+text: He almost looks like one of his lawyers.
+speaker_heading: HENRY (V.0.)
+dialog: Our wives, mothers, kids,
+dialog: everybody rode along. I had
+text: paper bags filled with jewelry
+text: stashed in the kitchen and a
+text: sugar bowl full of coke next to
+dialog: the bed.
+text: In b.g., we see Mickey Conway crying.
+speaker_heading: HENRY (V.0.)
+dialog: Anything I wanted was a phone call
+text: away. Free cars and the keys to
+text: a dozen hideout flats all over
+dialog: the city. I'd bet twenty, thirty
+dialog: grand over a weekend...
+scene_heading: CLOSEUP - JAMES CONWAY
+scene_heading: COME UP ON SCREEN -- TWENTY-FIVE YEARS.
+speaker_heading: HENRY (V.O.)
+dialog: . and then I'd either blow the
+dialog: winnings in a week or go to the
+dialog: sharks to pay back the bookies.
+speaker_heading: CUT TO:
+scene_heading: CLOSEUP - PAUL CICERO
+text: looking older and grey. Cicero is looking down.
+speaker_heading: (CONTINUED)
+dialog: 155
+dialog: 156
+dialog: 122.
+speaker_heading: CONTINUED: (2) . 155
+text: COME UP ON SCREEN -- FOUR YEARS.
+scene_heading: DOLLY IN TO:
+scene_heading: EXTREME CLOSEUP - HENRY
+text: as he speaks; in synch, directly TO CAMERA. DOLLY IN
+text: TO EXTREME CLOSEUP as he speaks.
+speaker_heading: HENRY
+dialog: It didn't matter. When I was
+dialog: broke I just went out and robbed.
+dialog: some more. We ran everything.
+dialog: We paid off lawyers. We paid off
+dialog: cops. Everybody had their hands
+text: out. And now it's all over.
+scene_heading: EXT. STREET IN MIDWESTERN ANDY HARDY TOWN - DAY 156
+text: TRACK DOWN the street.
+speaker_heading: HENRY (V.0.)
+dialog: And that's the hardest part.
+dialog: Today everything is different.
+dialog: There's no action.
+text: CAMERA TRACKS PAST white picket fence.
+speaker_heading: HENRY (V.0.)
+dialog: I have to wait around like anyone
+dialog: else. You can't even get decent
+dialog: food. Right after I got here I
+dialog: ordered some spaghetti with
+dialog: marinara sauce and I got egg
+text: noodles and ketchup.
+text: CAMERA APPROACHES house and TRACKS IN TO:
+speaker_heading: DOOR OF HOUSE
+text: As it opens.
+text: Aman, still in his pajamas, leans out to get the milk
+text: and newspaper. He looks up. It's Henry.
+speaker_heading: HENRY (V.0.)
+dialog: (talking TO CAMERA)
+dialog: I'm an average nobody. I get to
+dialog: live the rest of my life like a
+dialog: schnook.
+speaker_heading: FADE OUT.
+speaker_heading: THE END
+dialog: 
